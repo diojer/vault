@@ -1,0 +1,15 @@
+- Is intuition the only source of legitimacy for supererogation?
+	- Some heroism is driven by internal forces - personal urges to deliver the action.
+	- Unless morality is really demanding, it seems like we need supererogatory actions to explain why we aren't constantly doing the best moral good.
+- Is it possible for a supererogatory action to be morally wrong, all-things-considered?
+	- People who we call "heroes" probably don't fulfil all of their normal moral duties, e.g. neglecting close family members.
+	- Weird situation where you have to be doing everything right already to do supererogatory actions.
+- Are people labelled as heroes to satisfy guilt of not carrying out those acts?
+	- 
+- Could compulsory heroism originate internally?
+	- 
+- What does discourse mean?
+	- Kind of current conversation,
+	- 
+- Is compulsory heroism constructed well?
+- Rationally required

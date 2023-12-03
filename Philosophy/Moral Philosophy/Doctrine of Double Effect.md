@@ -1,0 +1,1 @@
+It is sometimes permissible to cause a harm as a foreseen but unintended consequence, as a result of doing the *right* thing.

@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "5a8b531a8205cce7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e02dbada74b69482",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d92819833ead1c6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a39768c637ab610",
+    "type": "split",
+    "children": [
+      {
+        "id": "f35542504ea8fca4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "537dd69d847ff268",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "51b1d350d08b802a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "doctrine",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea0175de49afaafd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6d00be5afe0c356",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 206.5
+  },
+  "right": {
+    "id": "0463835573c2a040",
+    "type": "split",
+    "children": [
+      {
+        "id": "10144f5c729bfb6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31596ce479f86817",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ab2c5234eca7fbf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "153d7c74c6fff266",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "451fe465936e3592",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "ddb9eb0abfadfc5d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7d92819833ead1c6",
+  "lastOpenFiles": [
+    "obsidian-git/Personal Readings/Fiscal Policy under Low Interest Rates.md",
+    "README.md",
+    "obsidian-git/README.md",
+    "obsidian-git/Personal Readings",
+    "obsidian-git",
+    "New folder",
+    "extra-notes",
+    "Untitled.canvas",
+    "Economics/Macroeconomics/Supply Side/Wage and Profit Shares.md",
+    "2023-12-03.md",
+    "Economics/Macroeconomics/~WRL1650.tmp",
+    "Economics/Macroeconomics/~WRL1330.tmp",
+    "Economics/Macroeconomics/~WRD1189.tmp",
+    "Economics/Macroeconomics/~$ar 2 Practice Question 2 Diagram.docx",
+    "Economics/Macroeconomics/~WRL0558.tmp",
+    "Economics/Macroeconomics/~WRD0495.tmp",
+    "Economics/Macroeconomics/New Keynesian IS-LM-PC/Phillips Curve and Supply.md",
+    "Economics/Macroeconomics/New Keynesian IS-LM-PC/Assumptions.md",
+    "Economics/Macroeconomics/New Keynesian IS-LM-PC/Wage and Price Setting.md",
+    "Economics/Macroeconomics/The Labour Market/Wage and Price Determination.md",
+    "Economics/Macroeconomics/Open Economy/Questions.md",
+    "Economics/Macroeconomics/Open Economy/Optimal Currency Areas.md",
+    "Economics/Macroeconomics/Open Economy/Economics of Brexit.md",
+    "Economics/Macroeconomics/Open Economy/Imports and Exports.md",
+    "Economics/Macroeconomics/Inequality/Seminar.md",
+    "Economics/Macroeconomics/Inequality/Questions.md",
+    "Economics/Macroeconomics/Supply Side/Further Reading.md",
+    "Economics/Macroeconomics/Supply Side/Questions.md",
+    "Economics/Macroeconomics/Monetary Policy/Quantitative Easing.md",
+    "Economics/Macroeconomics/Monetary Policy/Central Bank Corridor System.md",
+    "Economics/Macroeconomics/Monetary Policy/IS-LM-PC with Exogenous Money.md",
+    "Economics/Macroeconomics/IS-LM Model/The Great Recession.md",
+    "Economics/Macroeconomics/Fiscal Policy/Fiscal Policy in Static Models.md",
+    "Economics/Macroeconomics/New Keynesian IS-LM-PC/IS-LM.md",
+    "Economics/Macroeconomics/Trade/Equilibrium in Exports and Imports.md",
+    "Economics/Macroeconomics/Open Economy/Questions 1.md",
+    "Economics/Macroeconomics/Open Economy/IS-LM.md",
+    "Economics/Images/Pasted image 20231201134045.png",
+    "Economics/Images/Pasted image 20231201104227.png",
+    "Economics/Images/Pasted image 20231201104215.png",
+    "Economics/Images/Pasted image 20231201103543.png",
+    "Economics/Images/Pasted image 20231201102020.png",
+    "Economics/Images/Pasted image 20231128145655.png",
+    "Economics/Images/Pasted image 20231128145317.png",
+    "Economics/Images/Pasted image 20231128144148.png",
+    "Economics/Images/Pasted image 20231128143909.png",
+    "Economics/Images/Pasted image 20231115110629.png"
+  ]
+}

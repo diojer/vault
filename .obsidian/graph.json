@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Economics",
+      "color": {
+        "a": 1,
+        "rgb": 1580724
+      }
+    },
+    {
+      "query": "path:Philosophy",
+      "color": {
+        "a": 1,
+        "rgb": 843595
+      }
+    },
+    {
+      "query": "path:Politics",
+      "color": {
+        "a": 1,
+        "rgb": 13638532
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 2.58402777777778,
+  "collapse-forces": false,
+  "centerStrength": 0.503472222222222,
+  "repelStrength": 12.2916666666667,
+  "linkStrength": 1,
+  "linkDistance": 307,
+  "scale": 0.2078960436373632,
+  "close": true
+}

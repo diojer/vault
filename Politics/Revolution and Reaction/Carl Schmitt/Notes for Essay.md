@@ -1,0 +1,37 @@
+- Early German Liberals and Democrats struggling against the imperial system saw parliamentarism as a "means for selecting political leaders".
+	- "Whether parliament actually possesses the capacity to build a political elite has since become very questionable."
+	- "What numerous parliaments in various European and non-European states have produced in the way of a political elite of hundreds of successive ministers justifies no great optimism."
+- "The situation of parliamentarism is critical today. because the development of modern mass democracy has made argumentative public discussion an empty formality."
+- "One may therefore assume as well known today that it is no longer a question of persuading one’s opponent of the truth or justice of an opinion but rather of winning a majority in order to govern with it."
+- "The belief in parliament, in government by discussion, belongs to the intellectual world of liberalism. It does not belong to democracy."
+- "Every actual democracy rests on the principle that not only are equals equal, but unequals will not be treated equally."
+- "But the current usage of 'universal suffrage' implies something else: Every adult person, simply as a person, should eo ipso be politically equal to every other person. This is a liberal, not a democratic, idea; it replaces formerly existing democracies, based on a substantial equality and homogeneity, with a democracy of mankind."
+	- Really? Surely, universal suffrage could extend only to citizens of a nation, or to geographic residents. Maybe it could be renamed to "national" suffrage.
+	- "though there is of course no absolute equality of all persons, since foreigners and aliens remain excluded, there is nevertheless a relatively far-reaching human equality among the citizenry. But it must be noted that in this case national homogeneity is usually that much more strongly emphasized, and that general human equality is once again neutralized through the definitive exclusion of all those who do not belong to the state, of those who remain outside it."
+- "The inescapable contradiction of liberal individualism and democratic homogeneity."
+- "Thus democracy appeared to have the self-evidence of an irresistible advancing and expanding force. So long as it was essentially a polemical concept (that is, the negation of established monarchy), democratic convictions could be joined to and reconciled with various other political aspirations. But to the extent that it was realized, democracy was seen to serve many masters and not in any way to have a substantial, clear go"
+- "That the outvoted minority must be ignored in this only causes theoretical and superficial difficulties. In reality even this rests on the identity that constantly recurs in democratic logic and on the essential democratic argument—as will be seen immediately— that the-will of the outvoted minority is in truth identical with the will of the majority."
+- "As soon as democracy takes on the content of a self-sufficient value, then one can no longer remain (in the formal sense) a democrat at any price."
+	- As soon as we start valuing democracy in and of itself, we can no longer remain a democrat by any means necessary. This is because, if we truly value democracy, we will defend its implementation even if the population does not vote for it to be so.
+	- Dictatorship is not antithetical to democracy. The consequence of "re-education" theory, viz., the theory that those who, when given suffrage, choose to throw it away, must be re-educated, posits that we must suspend democracy in favour of a true democracy that is yet to be created.
+		- Sounds fairly similar to Lenin?
+		- Is this true though? Imagine a dictator who legitimises his rule by acting in the will of the people to implement democracy
+			- "Even during a transitional period dominated by the dictator, a democratic identity can still exist and the will of the people can still be the exclusive criterion."
+		- Surely, as soon as the dictator admits that he is acting in the will of the people, that is the sufficient criterion to dissolve his own power and institute a democracy? Or else, admit that he is not currently acting in the will of the people. Schmitt does note that the majority can be mistaken on the General Will, though.
+# Consolidation of Schmitt
+- Democracy is a political form, which can be taken by a number of different ideological characters.
+- "Sovereign is he who decides the exception"
+- Liberalism is antithetical to democracy. On the one hand, legitimacy is derived through the law, and the law is derived from reason. On the other hand, legitimacy is derived through democracy, and democracy is derived from citizens. Are citizens sovereign? It seems hard to say, since Parliament has its own special rights which protect it from the citizens - who decided the exception to the rule?
+- Homogeneity is a necessary condition for democracy
+- Equality can only have substance if it is separated within different spheres, e.g., political, economic, etc.,
+	- However, these spheres entail some degree of inequality. Thus, absolute human equality would be practically meaningless.
+- 
+# My Views
+- We value liberalism when it comes to interactions between groups, and democracy when it comes to interactions within groups.
+	- We have many groups within a nation, and as Schmitt points out democracy requires inclusion and exclusion to properly function.
+	- Within these groups, we value democracy. However, these groups can be broken down and joined together to form smaller or larger groups.
+	- In interactions between groups, we take extra care to avoid exploitation from *might*. We typically understand that might doesn't make right.
+		- This is where liberal attitudes come in.
+	- Interacting within groups, we value democracy, and we use it to legitimise the group itself.
+		- This could demystify some interactions. For example, parliament is an organ by which one group (political elite) affects another group (population). We acknowledge that that elite, although smaller, wields more power than the population through the use of state apparatus. As such, we take extreme care to ensure that the elite interacts with the population in a *fair* way. However, both groups are still legitimised through the democratic form.
+	- We can liken it to team games and rules. We typically have rules to prevent foul play, to ensure fairness and make the game run as smoothly as possible - this doesn't necessarily contradict with team play, which is generally quite democratic (each time is essentially following their general will). Here, it doesn't seem contradictory to say that even if every player disagrees with the rules, they should stay up - they maintain order and ensure a fair game. However, if a player can give a well reasoned argument to remove/replace a certain rule, this may still be considered.

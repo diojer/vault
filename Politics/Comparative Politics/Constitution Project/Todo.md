@@ -1,0 +1,2 @@
+- Assign research roles for each branch of government, (preamble and bill of rights not necessary)
+- Research the structure of the legislative branch

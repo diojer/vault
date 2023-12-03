@@ -1,0 +1,11 @@
+- Is there any deadweight loss when firms have a mark-up?
+- Are there any other theories of the supply-side which don't correlate output with lower wages?
+	- Levoire intro to post-keynesian macro
+- Is the average product of labour only 1 when $Y=AN$ and $A=1$?
+	- Yes
+- If firm costs increase and firms subsequently raise prices, why doesn't mark-up stay the same?
+	- Some post-keynesian model energy price increases in different ways. It could make more sense to introduce mark-up as unit-production cost like labour.
+- What does hysteresis suggest the central bank should do about inflation?
+	- If the central bank believes hysteresis will solve the problem, they probably shouldn't even at.
+- Shouldn't an increase in mark-up necessarily entail inflation, even if the central bank responds with lower interest rates?
+	- Changes in the supply side should cause changes in IS, incomplete model
