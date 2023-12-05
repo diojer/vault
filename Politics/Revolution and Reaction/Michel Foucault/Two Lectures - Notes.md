@@ -25,7 +25,7 @@ Foucault sees the establishment of a science not as a vindication of rationality
 
 Conversely, genealogy seeks to "emancipate historical knowledges … it is based on a reactivation of local knowledges … in opposition to scientific hierarchisation". Archaeology is the appropriate methodology, and genealogy is the tactics whereby the subjected knowledges "were thus released and brought into play".
 
-Foucault says that modern the modern scientific hierarchy seems to be ready to adopt the genealogies it once rejected. The genealogist's task, however, is not to try and unite the disparate genealogies, instead, it is to expose and specify the issues at stake in the insurrection of knowledges against the institutions.
+Foucault says that the modern scientific hierarchy seems to be ready to adopt the genealogies it once rejected. The genealogist's task, however, is not to try and unite the disparate genealogies, instead, it is to expose and specify the issues at stake in the insurrection of knowledges against the institutions.
 
 However, a question remains - how does the scientific hierarchy exert its power all around society? To simplify, Foucault poses the question: "is the analysis of power or of powers to be deduced in one way or another from the economy?" He says he is not trying to abstract all the different points in which centralised institutions exert their power into a single point, however he believes that the juridical and Marxist conceptions of power do all share a common point.
 - **Question**: why is the juridical and Marxists conception of political power relevant to how the various differing genealogies are suppressed?
