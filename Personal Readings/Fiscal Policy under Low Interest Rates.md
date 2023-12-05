@@ -2,7 +2,7 @@
 Published on the 20th of December, 2021 by Olivier Blanchard
 # Summary
 
-# Structure
+# Contents
 - [[#Chapter 1 Introduction]]
 - [[#Chapter 2 Preliminaries]] (Important factors of interest rates)
 	- Section 1: r*
