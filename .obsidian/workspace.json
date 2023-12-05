@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Readings/Fiscal Policy under Low Interest Rates.md",
+                "file": "Economics/Econometrics and Statistics/Statistics/Small-sample distributions.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 283.5
   },
   "right": {
     "id": "0463835573c2a040",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Readings/Fiscal Policy under Low Interest Rates.md",
+                "file": "Economics/Econometrics and Statistics/Statistics/Small-sample distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Readings/Fiscal Policy under Low Interest Rates.md",
+                "file": "Economics/Econometrics and Statistics/Statistics/Small-sample distributions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Readings/Fiscal Policy under Low Interest Rates.md"
+                "file": "Economics/Econometrics and Statistics/Statistics/Small-sample distributions.md"
               }
             }
           },
@@ -164,8 +164,30 @@
   },
   "active": "7d92819833ead1c6",
   "lastOpenFiles": [
-    "README.md",
+    "Economics/Images/Pasted image 20231205143357.png",
+    "Economics/Images/Pasted image 20231205142512.png",
+    "Economics/Econometrics and Statistics/Statistics/Hypothesis Testing.md",
+    "Economics/Econometrics and Statistics/Statistics/Small-sample distributions.md",
+    "Economics/Econometrics and Statistics/Statistics/Confidence Intervals.md",
     "Personal Readings/Fiscal Policy under Low Interest Rates.md",
+    "Politics/Revolution and Reaction/Michel Foucault/Two Lectures - Notes.md",
+    "Politics/Revolution and Reaction/Michel Foucault",
+    "Philosophy/Moral Philosophy/The Obligation to Signal.md",
+    "Personal Readings/attachments/Pasted image 20231204183213.png",
+    "Personal Readings/attachments/Pasted image 20231204182710.png",
+    "Personal Readings/attachments/Pasted image 20231204182653.png",
+    "Personal Readings/attachments/Pasted image 20231204181609.png",
+    "Personal Readings/attachments/Pasted image 20231204172852.png",
+    "Personal Readings/attachments/Pasted image 20231204171123.png",
+    "Personal Readings/attachments/Pasted image 20231204170624.png",
+    "Personal Readings/attachments/Pasted image 20231204162642.png",
+    "Personal Readings/attachments",
+    "Personal Readings/Glossary/Safe Rate.md",
+    "Personal Readings/Glossary/Risk Premium.md",
+    "Personal Readings/Glossary/Deficit ratios.md",
+    "Personal Readings/Glossary",
+    "Personal Readings/EU-UK Free Trade Agreement.md",
+    "README.md",
     "Personal Readings",
     "obsidian-git/Personal Readings/Fiscal Policy under Low Interest Rates.md",
     "obsidian-git/README.md",
@@ -178,9 +200,6 @@
     "2023-12-03.md",
     "Economics/Macroeconomics/~WRL1650.tmp",
     "Economics/Macroeconomics/~WRL1330.tmp",
-    "Economics/Macroeconomics/~WRD1189.tmp",
-    "Economics/Macroeconomics/~$ar 2 Practice Question 2 Diagram.docx",
-    "Economics/Macroeconomics/~WRL0558.tmp",
     "Economics/Macroeconomics/New Keynesian IS-LM-PC/Phillips Curve and Supply.md",
     "Economics/Macroeconomics/New Keynesian IS-LM-PC/Assumptions.md",
     "Economics/Macroeconomics/New Keynesian IS-LM-PC/Wage and Price Setting.md",
@@ -191,25 +210,6 @@
     "Economics/Macroeconomics/Open Economy/Imports and Exports.md",
     "Economics/Macroeconomics/Inequality/Seminar.md",
     "Economics/Macroeconomics/Inequality/Questions.md",
-    "Economics/Macroeconomics/Supply Side/Further Reading.md",
-    "Economics/Macroeconomics/Supply Side/Questions.md",
-    "Economics/Macroeconomics/Monetary Policy/Quantitative Easing.md",
-    "Economics/Macroeconomics/Monetary Policy/Central Bank Corridor System.md",
-    "Economics/Macroeconomics/Monetary Policy/IS-LM-PC with Exogenous Money.md",
-    "Economics/Macroeconomics/IS-LM Model/The Great Recession.md",
-    "Economics/Macroeconomics/Fiscal Policy/Fiscal Policy in Static Models.md",
-    "Economics/Macroeconomics/New Keynesian IS-LM-PC/IS-LM.md",
-    "Economics/Macroeconomics/Trade/Equilibrium in Exports and Imports.md",
-    "Economics/Macroeconomics/Open Economy/Questions 1.md",
-    "Economics/Images/Pasted image 20231201134045.png",
-    "Economics/Images/Pasted image 20231201104227.png",
-    "Economics/Images/Pasted image 20231201104215.png",
-    "Economics/Images/Pasted image 20231201103543.png",
-    "Economics/Images/Pasted image 20231201102020.png",
-    "Economics/Images/Pasted image 20231128145655.png",
-    "Economics/Images/Pasted image 20231128145317.png",
-    "Economics/Images/Pasted image 20231128144148.png",
-    "Economics/Images/Pasted image 20231128143909.png",
-    "Economics/Images/Pasted image 20231115110629.png"
+    "Economics/Images/Pasted image 20231201134045.png"
   ]
 }
