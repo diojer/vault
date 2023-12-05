@@ -1,17 +1,17 @@
 #blanchard #fiscal #policy #monetary #olivier #interest #mit-press #economics
-Published on the 20th of December, 2021 
+Published on the 20th of December, 2021 by Olivier Blanchard
 # Summary
 
 # Structure
-- Chapter 1: Introduction
-- [[Fiscal Policy under Low Interest Rates#Chapter 2 Preliminaries|Chapter 2: Preliminaries]] (Important factors of interest rates)
+- [[#Chapter 1 Introduction]]
+- [[#Chapter 2 Preliminaries]] (Important factors of interest rates)
 	- Section 1: r*
 	- Section 2: Safe and risky rates
 	- Section 3: Central banks
 	- Section 4: $r-g<0$
 	- Section 5: Effective lower bound
 	- Section 6: Conclusion
-- [[#Chapter 3 The evolution of interest rates|Chapter 3: Evolution of interest rates]]
+- [[#Chapter 3 The evolution of interest rates]]
 	- Section 1: Evolution of safe real rates
 	- Section 2: Gap between growth rates and safe rates
 	- Section 3: Potential factors behind the decline in safe rates

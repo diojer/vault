@@ -1,3 +1,4 @@
+#glossary #risk #premium #interest 
 # Definition
 When investing in a risky asset, investors will want a higher interest rate to reflect the cost of the risk they're taking on. This is the risk premium.
 
