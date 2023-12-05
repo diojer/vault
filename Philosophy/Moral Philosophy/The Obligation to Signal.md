@@ -19,3 +19,12 @@ In this section, Lawford-Smith maps out five approaches to generating an individ
 	- However, increasing prices is just a means to an end, that is, to stop harms to current and future persons. If people are happy paying higher taxes or higher prices, the problem persists.
 		- **Not a great argument - we generally know that if prices are high enough, enough people will stop doing them that harms can be mitigated/eradicated**.
 ## 2: Benefiting from injustice
+- The idea that it is wrong to retain certain kinds of benefits of certain kinds of injustices
+- The difficulty is in specifying a normative baseline, relative to which we count others' acts against, for example, coffee farmers as injustices, and count third parties who do well out of these injustices as beneficiaries.
+- While the injustice seems clear, it's not so simple:
+	- People being underpaid from their labour may still be benefiting from the supposed "injustice" all-things-considered,
+	- How can we be committing an injustice but also making people better off?
+		- This seems to be classic paternalism: we generally accept that we can violate people's rights (injustice) but nonetheless make them better off.
+## 3: Complicity
+- Consumers are complicit in the harms caused by domestic and international firms.
+- This is similar to the role played by "accomplices" in crimes
