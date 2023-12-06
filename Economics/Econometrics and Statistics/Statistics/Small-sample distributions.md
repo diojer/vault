@@ -18,3 +18,12 @@ If X is not normal, it's not normally distributed, and we cannot use t-distribut
 	- t-distributions are much flatter with higher degrees of freedom - this means we have increasing risk/imprecision.
 		- As $\nu\rightarrow\infty$, the t-distribution becomes the standard normal.
 	- Now we can do confidence intervals without relying on so many assumed variables, etc., last year's data will be similar to this year's data.
+#### Bivariate case
+![[Pasted image 20231205144656.png]]
+![[Pasted image 20231205144708.png]]
+- Two assumptions must be made:
+	- $\bar{X}_1$ and $\bar{X}_2$ are independent,
+	- $\sigma_1^2=\sigma_2^2=\sigma^2$
+![[Pasted image 20231205145020.png]]
+and where
+![[Pasted image 20231205145037.png]]

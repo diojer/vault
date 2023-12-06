@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Econometrics and Statistics/Statistics/Small-sample distributions.md",
+                "file": "Philosophy/Moral Philosophy/The Problem of Collective Harm.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Econometrics and Statistics/Statistics/Small-sample distributions.md",
+                "file": "Philosophy/Moral Philosophy/The Problem of Collective Harm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Econometrics and Statistics/Statistics/Small-sample distributions.md",
+                "file": "Philosophy/Moral Philosophy/The Problem of Collective Harm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Econometrics and Statistics/Statistics/Small-sample distributions.md"
+                "file": "Philosophy/Moral Philosophy/The Problem of Collective Harm.md"
               }
             }
           },
@@ -162,14 +162,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d92819833ead1c6",
+  "active": "537dd69d847ff268",
   "lastOpenFiles": [
+    "Personal Readings/Fiscal Policy under Low Interest Rates.md",
+    "Economics/Econometrics and Statistics/Statistics/Small-sample distributions.md",
+    "Economics/Images/Pasted image 20231205145037.png",
+    "Economics/Images/Pasted image 20231205145020.png",
+    "Economics/Images/Pasted image 20231205144708.png",
+    "Economics/Images/Pasted image 20231205144656.png",
     "Economics/Images/Pasted image 20231205143357.png",
     "Economics/Images/Pasted image 20231205142512.png",
     "Economics/Econometrics and Statistics/Statistics/Hypothesis Testing.md",
-    "Economics/Econometrics and Statistics/Statistics/Small-sample distributions.md",
     "Economics/Econometrics and Statistics/Statistics/Confidence Intervals.md",
-    "Personal Readings/Fiscal Policy under Low Interest Rates.md",
     "Politics/Revolution and Reaction/Michel Foucault/Two Lectures - Notes.md",
     "Politics/Revolution and Reaction/Michel Foucault",
     "Philosophy/Moral Philosophy/The Obligation to Signal.md",
@@ -177,10 +181,6 @@
     "Personal Readings/attachments/Pasted image 20231204182710.png",
     "Personal Readings/attachments/Pasted image 20231204182653.png",
     "Personal Readings/attachments/Pasted image 20231204181609.png",
-    "Personal Readings/attachments/Pasted image 20231204172852.png",
-    "Personal Readings/attachments/Pasted image 20231204171123.png",
-    "Personal Readings/attachments/Pasted image 20231204170624.png",
-    "Personal Readings/attachments/Pasted image 20231204162642.png",
     "Personal Readings/attachments",
     "Personal Readings/Glossary/Safe Rate.md",
     "Personal Readings/Glossary/Risk Premium.md",
@@ -209,7 +209,6 @@
     "Economics/Macroeconomics/Open Economy/Economics of Brexit.md",
     "Economics/Macroeconomics/Open Economy/Imports and Exports.md",
     "Economics/Macroeconomics/Inequality/Seminar.md",
-    "Economics/Macroeconomics/Inequality/Questions.md",
-    "Economics/Images/Pasted image 20231201134045.png"
+    "Economics/Macroeconomics/Inequality/Questions.md"
   ]
 }
