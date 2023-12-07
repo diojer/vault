@@ -28,3 +28,17 @@ In this section, Lawford-Smith maps out five approaches to generating an individ
 ## 3: Complicity
 - Consumers are complicit in the harms caused by domestic and international firms.
 - This is similar to the role played by "accomplices" in crimes
+- This has been used to generate a "weak membership condition for collective agency, and thereby joint responsibility for collective acts"
+- The difficulty with this argument is that if consumers are just accomplices, it doesn't capture the fact that a change in consumer behaviour will change harmful productive practices. It would be better if consumers were modelled jointly as the principal cause of harm, but that isn't enough to make it the case that each consumer has duties to consume ethically.
+## 4: Impermissible Risking
+- Whenever we consume an unethically produced product, we're risking the possibility that our purchase triggers the company to order more
+- Just because we might, on occasion, not cause this to happen is just an example of moral luck.
+- This doesn't apply to all risky actions, there is a certain boundary that has to be crossed for an action to be deemed impermissibly risky.
+## 5: Obligations to Signal
+- Since acting collectively is the only way to meaningfully solve problems of collective responsibility, we have an obligation to take the steps necessary in order to act collectively
+- Once formed, the collective will have the duty to act "in pursuit of morally important ends in virtue of its capacity to do so".
+	- **Point**: this just sounds like the government. What if we already have formed a collective? The organisation of the collective seems to bring about its own problems.
+		- **Counter**: since this collective spans so many people with differing views, it's not fit for the purpose of achieving goals like emission reduction/animal welfare, so a new one should be formed. In other words, the government as a collective is too extensive.
+- Individuals are capable of forming collectives, so this is the responsibility that individuals have.
+- We ought, at the very least, not to allow ourselves to be reasons for others to believe that no one is willing to get together and act.
+- At the most, we should publicly buy/boycott certain products when we can send clear signals.
