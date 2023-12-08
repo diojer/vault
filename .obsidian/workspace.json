@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Moral Philosophy/The Problem of Collective Harm.md",
+                "file": "Economics/Macroeconomics/Trade/Equilibrium in Exports and Imports.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Moral Philosophy/The Problem of Collective Harm.md",
+                "file": "Economics/Macroeconomics/Trade/Equilibrium in Exports and Imports.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Moral Philosophy/The Problem of Collective Harm.md",
+                "file": "Economics/Macroeconomics/Trade/Equilibrium in Exports and Imports.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Moral Philosophy/The Problem of Collective Harm.md"
+                "file": "Economics/Macroeconomics/Trade/Equilibrium in Exports and Imports.md"
               }
             }
           },
@@ -162,8 +162,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "537dd69d847ff268",
+  "active": "7d92819833ead1c6",
   "lastOpenFiles": [
+    "Economics/Macroeconomics/Trade/Trade and Globalisation.md",
+    "Economics/Macroeconomics/Trade/Equilibrium in Exports and Imports.md",
+    "Economics/Macroeconomics/Exam Preperation/Two Period Model and Ricardian Equivalence.md",
+    "Philosophy/Moral Philosophy/The Problem of Collective Harm.md",
+    "Economics/Macroeconomics/Exam Preperation",
+    "Economics/Macroeconomics/Trade/attachments/Pasted image 20231208115855.png",
+    "Economics/Macroeconomics/Trade/attachments/Pasted image 20231208115821.png",
+    "Economics/Macroeconomics/Trade/attachments",
     "Personal Readings/Fiscal Policy under Low Interest Rates.md",
     "Economics/Econometrics and Statistics/Statistics/Small-sample distributions.md",
     "Economics/Images/Pasted image 20231205145037.png",
@@ -179,8 +187,6 @@
     "Philosophy/Moral Philosophy/The Obligation to Signal.md",
     "Personal Readings/attachments/Pasted image 20231204183213.png",
     "Personal Readings/attachments/Pasted image 20231204182710.png",
-    "Personal Readings/attachments/Pasted image 20231204182653.png",
-    "Personal Readings/attachments/Pasted image 20231204181609.png",
     "Personal Readings/attachments",
     "Personal Readings/Glossary/Safe Rate.md",
     "Personal Readings/Glossary/Risk Premium.md",
@@ -198,17 +204,12 @@
     "Untitled.canvas",
     "Economics/Macroeconomics/Supply Side/Wage and Profit Shares.md",
     "2023-12-03.md",
-    "Economics/Macroeconomics/~WRL1650.tmp",
-    "Economics/Macroeconomics/~WRL1330.tmp",
     "Economics/Macroeconomics/New Keynesian IS-LM-PC/Phillips Curve and Supply.md",
     "Economics/Macroeconomics/New Keynesian IS-LM-PC/Assumptions.md",
     "Economics/Macroeconomics/New Keynesian IS-LM-PC/Wage and Price Setting.md",
     "Economics/Macroeconomics/The Labour Market/Wage and Price Determination.md",
     "Economics/Macroeconomics/Open Economy/Questions.md",
     "Economics/Macroeconomics/Open Economy/Optimal Currency Areas.md",
-    "Economics/Macroeconomics/Open Economy/Economics of Brexit.md",
-    "Economics/Macroeconomics/Open Economy/Imports and Exports.md",
-    "Economics/Macroeconomics/Inequality/Seminar.md",
-    "Economics/Macroeconomics/Inequality/Questions.md"
+    "Economics/Macroeconomics/Open Economy/Economics of Brexit.md"
   ]
 }

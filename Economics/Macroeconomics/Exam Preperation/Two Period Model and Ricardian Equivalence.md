@@ -1,0 +1,3 @@
+#economics #exam #dynamic #ricardian
+**A two period economy is characterised by a representative consumer with a utility function, $U=C^{\alpha}_1 C^{1-\alpha}_2$ and their present discounted value of lifetime income is, $W=Y_1 + Y_2 \div (1+r)$ $Y_1 = 5$, $Y_2=15$, $\alpha=0.5$ and the interest rate in the economy is zero for everyone. Using the Lagrangian method, derive the optimal consumption choice for the representative consumer, explain your steps, and state whether the consumer is a lender or a borrower. Starting from this result, explain and discuss the theory of Ricardian Equivalence, and whether its prediction about the size of the government spending multiplier are supported by empirical research.**
+
