@@ -1,3 +1,4 @@
+#maths #statistics #econometrics
 # Covariance
 Two RVs: X and Y,
 - We know $f(x,y)$.

@@ -1,3 +1,4 @@
+#maths #expected-value #variance
 The sample mean, $\bar{X}$, is a random variable, because if it is drawn from a different sample it will have different results. The equation is as follows:
 $$
 \bar{X} = \frac{X_1+X_2+...+X_n}{n}

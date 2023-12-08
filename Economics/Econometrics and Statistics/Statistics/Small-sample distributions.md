@@ -1,4 +1,4 @@
-#statistics #econometrics #economics #maths #hypothesis #testing #confidence #intervals
+#statistics #econometrics #maths #hypothesis #testing #confidence #intervals
 
 We use the central-limit theorem to approximate large samples as normal distributions. However, with small-samples, this doesn't work.
 # Distributions

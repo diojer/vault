@@ -1,3 +1,4 @@
+#maths #statistics #econometrics
 # Relationship with [[Confidence Intervals]]:
 The confidence interval is the range of acceptable hypotheses in hypothesis testing.
 # Hypothesis

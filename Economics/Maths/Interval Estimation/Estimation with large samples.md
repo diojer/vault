@@ -1,3 +1,4 @@
+#maths #sampling
 A large sample is when $n>40$.
 
 $$

@@ -1,3 +1,4 @@
+#maths
 A point estimate tells us an exact number. For example, a point estimate of the population mean could be:
 - The average family in the UK has 2.5 children.
 

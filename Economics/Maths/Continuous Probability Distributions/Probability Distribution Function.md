@@ -1,3 +1,4 @@
+#maths
 This is the probability that x is less than a particular value.
 
 It is the integral of the [[Probability Density Function]].

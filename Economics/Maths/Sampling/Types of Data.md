@@ -1,3 +1,4 @@
+#maths #sampling
 - Primary
 Data you collect yourself. Traditionally through surveys, interviews, viewing company reports, running experiments.
 

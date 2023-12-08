@@ -1,3 +1,4 @@
+#maths
 Important Features:
 	- It has one peak, this is the mean
 	- The probability density function is symmetrical about the mean.

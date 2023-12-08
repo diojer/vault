@@ -1,3 +1,4 @@
+#maths #variance
 Where $X_1$ and $X_2$ are random variables:
 $$
 Var(X_1+X_2)=Var(X_1)+Var(X_2)+2Cov(X_1,X_2)

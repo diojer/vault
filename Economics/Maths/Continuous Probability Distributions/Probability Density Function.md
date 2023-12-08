@@ -1,3 +1,4 @@
+#maths
 The function that gives you the relative likelihood of a particular range.
 
 It is the derivative of the [[Probability Distribution Function]].

@@ -1,3 +1,4 @@
+#maths #statistics #econometrics
 # Characterisation of a PD
 - Shape $\rightarrow$ mathematical form,
 - Expected value (mean) $\rightarrow$ centre.

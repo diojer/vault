@@ -1,3 +1,4 @@
+#maths #sampling #estimators
 An estimator is a set of rules such that we can use the sample to say something about the population.
 
 Examples of estimators:

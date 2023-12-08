@@ -1,3 +1,4 @@
+#maths #formula
 $$
 1.)\sum^{x_{n}}_{x=x_1}ax=a\sum^{x_{n}}_{x=x_1}x
 $$

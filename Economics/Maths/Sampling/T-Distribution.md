@@ -1,3 +1,4 @@
+#maths #t-distribution
 The t-distribution is the distribution of a sample with a small size. A small size is typically characterised when n<25. 
 
 The *degrees of freedom* is equal to n-1.

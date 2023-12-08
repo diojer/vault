@@ -1,3 +1,4 @@
+#maths
 To estimate the binomial distribution, we will be using the normal distribution. This has the following rules:
 	- We can get a good approximation when np > 5 ***AND*** n(1-p) > 5
 	- We're using a continuous distribution to estimate a discrete distribution; this is problematic as for any given continuous distribution the probability of an exact value is zero

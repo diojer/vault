@@ -1,3 +1,4 @@
+#maths #expected-value #variance #sampling
 For any sample mean $\bar{X}$, the expected value is:
 $$
 E(\bar{X})=\mu

@@ -1,3 +1,4 @@
+#maths
 Unlike discrete probability distributions, in continuous *x* does not have to be a positive integer.
 
 Instead of calculating the probability of a particular value, we have to calculate the probability of a value being in a *range*.

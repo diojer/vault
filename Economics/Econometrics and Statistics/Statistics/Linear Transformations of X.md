@@ -1,3 +1,4 @@
+#maths #statistics #econometrics
 The general expression for a linear transformation of $X$ is:
 $$
 Y=a+bX

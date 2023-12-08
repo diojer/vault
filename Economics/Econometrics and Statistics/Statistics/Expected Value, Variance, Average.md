@@ -1,3 +1,4 @@
+#maths #statistics #econometrics
 Calculating the expected value and variance can be found [[Expected Value and Variance|here]].
 # Discrete Variables
 ## Average

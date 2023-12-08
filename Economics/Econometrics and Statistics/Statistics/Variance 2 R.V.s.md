@@ -1,3 +1,4 @@
+#maths #statistics #econometrics
 # Sum
 $$
 var(X\pm Y)=var(X)+var(Y)\pm2cov(X,Y)

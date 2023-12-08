@@ -1,3 +1,4 @@
+#maths #statistics #econometrics
 # Population
 - Total collection of items
 - Can be of any size, depending on the purpose of the study.

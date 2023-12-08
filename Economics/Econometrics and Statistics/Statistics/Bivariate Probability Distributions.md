@@ -1,3 +1,4 @@
+#maths #statistics #econometrics
 - 2 RVs: $X$ and $Y$.
 Multivariate probability distributions are usually a straightforward extension of bivariate P.D.s.
 

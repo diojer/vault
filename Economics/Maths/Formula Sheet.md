@@ -1,4 +1,6 @@
- ----
+#maths #formula 
+
+----
 ## Continuous Probability Distributions
 ### In [[Uniform Distribution|uniform distributions]]:
 The [[Probability Density Function]], f(x) is:

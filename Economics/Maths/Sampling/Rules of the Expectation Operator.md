@@ -1,3 +1,4 @@
+#maths #expected-value
 Where $X_1$ and $X_2$ are random variables:
 $$
 E(X_1+X_2) = E(X_1)+E(X_2)

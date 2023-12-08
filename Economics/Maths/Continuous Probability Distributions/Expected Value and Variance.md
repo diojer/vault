@@ -1,3 +1,4 @@
+#maths #expected-value #variance
 E(x): Expected value
 Var(x): Variance
 

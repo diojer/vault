@@ -1,3 +1,4 @@
+#maths
 x~U(a, b): x is uniformly distributed between a and b.
 
 This means that the [[Probability Density Function]] of X is a straight horizontal line. 
