@@ -1,4 +1,4 @@
-#economics #trade 
+#economics #trade #ricardian
 # Absolute Advantage
 Adam Smith contends that nations should specialise into goods they are more effective at producing.
 # Comparative Advantage
