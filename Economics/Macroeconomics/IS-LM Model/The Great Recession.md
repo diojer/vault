@@ -1,3 +1,4 @@
+#economics #inequality #ISLMPC
 The high cost of borrowing, low stock prices and lower consumer confidence combined to decrease demand for goods. A combination of government policy was used to address this:
 - A rise in the deposit insurance threshold (government insured your bank deposits)
 - Widespread liquidity in the financial system (Quantitative Easing)

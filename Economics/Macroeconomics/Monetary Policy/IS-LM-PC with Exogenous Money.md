@@ -1,3 +1,4 @@
+#economics #ISLMPC #exogenous #model #monetary #banking #finance
 # Money supply:
 $$
 (\frac{M}{P})^s=\frac{\bar{M}}{P}

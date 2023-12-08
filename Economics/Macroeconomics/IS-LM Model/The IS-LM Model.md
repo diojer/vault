@@ -1,3 +1,4 @@
+#economics #ISLMPC
 ## The IS Relation
 When modifying interest rates, this modifies our level of output Y (according to $b_2$). We can demonstrate this relation using an IS diagram:
 ![[Pasted image 20230222121743.png]]

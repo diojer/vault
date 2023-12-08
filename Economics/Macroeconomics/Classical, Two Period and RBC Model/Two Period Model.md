@@ -1,3 +1,4 @@
+#economics #dynamic #model #consumption #budget
 ## Assumptions
 - Households live for two periods,
 - Households have perfect foresight and behave optimally,

@@ -1,3 +1,4 @@
+#economics #model
 Currently, in the Keynesian Cross model, there is no link between demand in the economy and financial/investment markets.
 
 The most important variable when assessing financial markets is the interest rate (i).

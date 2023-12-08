@@ -1,3 +1,4 @@
+#economics #development #growth
 The economy can be viewed through the lense of aggregate demand (AD)
 $AD = C + I + G + (X - M)$
 Aggregate Consumption of Goods - Imported Goods = Consumption of Domestic Goods ($C_d$)

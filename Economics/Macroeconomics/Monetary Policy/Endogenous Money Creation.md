@@ -1,3 +1,4 @@
+#economics #endogenous #model #banking #finance
 - Firms and customers demand bank loans to finance business activity,
 - Commercial banks are businesses that make loans to *credit worthy borrowers* elastically as an interest rate *set as a mark-up over the central bank policy rate*.
 - Commercial banks create money when they deposit a new loan in a customer's bank account,

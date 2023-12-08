@@ -1,3 +1,4 @@
+#economics #ISLMPC #model
 We can extend the IS-LM model from [[The IS-LM Model]] by including the *real interest rate* and the *risk premium*. Before this, we were assuming that prices were fixed, and thus inflation was 0. 
 
 If prices are fixed then [[Economics/Macroeconomics/Formula Sheet#Inflation|inflation]] will be zero. Thus, nominal and real interest rates are equivalent in the short run:

@@ -1,3 +1,4 @@
+#economics #solow #model 
 The model has two key equations and three key curves:
 - Output
 - Savings

@@ -1,3 +1,4 @@
+#economics #monetary #policy #banking #finance
 # The Interbank Market
 At the end of the day, some banks will have too much/little liquidity. They will lend to each other to eliminate this excess/deficit.
 The central bank has the power to set the private banks' loan/deposit interest rates. It does this by setting its own loan/deposit rates:

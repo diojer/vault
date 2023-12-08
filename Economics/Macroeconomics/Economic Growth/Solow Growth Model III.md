@@ -1,3 +1,4 @@
+#economics #solow #model 
 The stock of technology grows at a fixed rate every period:
 $$
 \frac{A_{t+1}-A_t}{A_t}=g_A

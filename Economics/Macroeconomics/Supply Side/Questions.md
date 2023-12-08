@@ -1,3 +1,4 @@
+#economics #questions 
 - Is there any deadweight loss when firms have a mark-up?
 - Are there any other theories of the supply-side which don't correlate output with lower wages?
 	- Levoire intro to post-keynesian macro

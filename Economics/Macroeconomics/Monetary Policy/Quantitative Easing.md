@@ -1,3 +1,4 @@
+#economics #questions
 Questions
 - Why did Japan get into the QE situation first?
 Benefits

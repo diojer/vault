@@ -1,3 +1,4 @@
+#economics #trade #globalisation #model
 Trade takes place in tangibles (goods) and intangibles (services).
 # Link between Trade and Output
 - Competition

@@ -1,3 +1,4 @@
+#economics #model #NAIRU #ISLMPC 
 Labour market rigidities and a high $z$ is often blamed for Europe's high rate of unemployment. However:
 1. Unemployment was not always high in Europe, despite having the same labour market rigidities.
 2. A number of countries had low unemployment pre-2008

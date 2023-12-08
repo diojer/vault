@@ -1,3 +1,4 @@
+#economics #development #GNI
 National income and product accounts were developed at the end of WWII to measure aggregate output.
 The measure of aggregate output is called gross domestic product (GDP)
 There are three ways of measuring GDP:

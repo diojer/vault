@@ -1,3 +1,4 @@
+#economics #banking #finance #glossary
 Our IS-LM model assumes a central bank sets the interest rate in the economy. In reality, there are many different types of financial intermediaries.
 
 Financial Intermediaries develop expertise about **specific** borrowers and tailor lending to these special needs. They borrow and lend at rates above those set by the central bank, in order to turn a profit. However, the 2008 crisis showed how this may go wrong.

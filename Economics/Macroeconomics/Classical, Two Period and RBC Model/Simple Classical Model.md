@@ -1,3 +1,4 @@
+#economics #labour #classical #model
 ## Assumptions
 - Perfectly competitive markets
 - Perfect information

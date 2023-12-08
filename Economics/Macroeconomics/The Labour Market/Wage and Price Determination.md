@@ -1,3 +1,4 @@
+#economics #ISLMPC #model
 ## Wage Setting
 We can capture the determination of wages using the following equations:
 $$

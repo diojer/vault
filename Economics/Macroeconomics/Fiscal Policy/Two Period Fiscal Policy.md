@@ -1,3 +1,4 @@
+#economics #dynamic #fiscal #policy #model
 $$
 C_1+\frac{C_2}{1+r}\leq Y_1+\frac{Y_2}{1+r}
 $$

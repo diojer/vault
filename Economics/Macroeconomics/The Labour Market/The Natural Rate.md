@@ -1,3 +1,4 @@
+#economics #NAIRU #model 
 Where the wage and price-setting curves cross gives us our natural rate of unemployment.
 This leaves us with the following equation:
 $$

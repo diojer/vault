@@ -1,3 +1,4 @@
+#economics #monetary #theory #model #classical 
 $$
 MV=PY
 $$

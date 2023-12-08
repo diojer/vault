@@ -1,3 +1,4 @@
+#economics #ISLMPC #model 
 When we combine the [[Wage and Price Setting#Price Setting|price setting]] and [[Wage and Price Setting#Wage Setting|wage setting]] curves we can derive the Phillips curve in terms of difference between inflation and expected inflation:
 $$
 \pi_t-\pi^e=(\frac{\alpha}{L})(Y-Y_n)

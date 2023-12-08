@@ -1,3 +1,4 @@
+#economics #open #trade #policy #Brexit #UK #EU
 The UK has a strong surplus in the services sector but a strong deficit in the goods sector.
 As a share of GDP, goods have been gradually replaced by services.
 44% of UK's exports are to the EU.

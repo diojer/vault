@@ -1,3 +1,4 @@
+#economics #model
 Short run policies which we've already looked at include:
 - Monetary Policy (i - shifts in the LM curve)
 - Fiscal Policy (G, T - shifts in the IS curve)

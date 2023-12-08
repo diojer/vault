@@ -1,3 +1,4 @@
+#economics #trade #model #exports #imports 
 - Exports are a function of global output, $Y^*$, and the domestic exchange rate, $\epsilon$.
 - Imports are a function of domestic output, $Y$, and the domestic exchange rate, $\epsilon$.
 Exports and imports increase with output, but exports decrease with a rise in the exchange rate, whereas imports increase.

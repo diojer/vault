@@ -1,3 +1,4 @@
+#economics
 In the short and medium run, labour was assumed to be our only variable factor of production.
 In this case, capital is implicitly assumed to be fixed.
 

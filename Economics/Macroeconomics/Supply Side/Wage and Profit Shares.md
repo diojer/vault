@@ -1,3 +1,4 @@
+#economics #inequality #ISLMPC 
 # Share of Output
 ![[Pasted image 20231102235140.png]]
 So, whenever there is a mark-up, i.e., whenever the real wage is not equal to the marginal output (1 unit since we assume that in the production function, $Y=AN$, $A=1$), firms make supernormal profit.

@@ -1,3 +1,4 @@
+#economics #currency #union
 # Examples
 ## Michigan
 Michigan could've benefitted from lower interest rates and a depreciated currency during the recession, however the Federal Reserve has to set the interest rate for all states in the USA.

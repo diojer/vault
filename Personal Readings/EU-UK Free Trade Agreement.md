@@ -1,4 +1,4 @@
-#EU #UK #trade #Brexit
+#EU #UK #trade #Brexit #economics
 Accessed on the 5th of December, 2023, on Wikipedia
 # Summary
 - Both parties retain the free trade of goods, however there are still technical barriers to this trade, for example VAT must be paid on import rather than at the point of service.

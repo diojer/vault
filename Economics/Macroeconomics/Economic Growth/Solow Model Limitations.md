@@ -1,3 +1,4 @@
+#economics #solow #model #limitations
 - It's based on GDP
 	- No health
 	- No education

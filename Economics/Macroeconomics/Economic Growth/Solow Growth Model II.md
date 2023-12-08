@@ -1,3 +1,4 @@
+#economics #solow #model 
 Since we're assuming a closed economy with no direct government investment, our output is the following:
 $$
 Y = C+I

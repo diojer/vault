@@ -1,3 +1,4 @@
+#economics #model #ISLMPC #assumptions
 - Imperfectly competitive labour and product markets,
 - Perfect information,
 	- Except exogenous shocks.

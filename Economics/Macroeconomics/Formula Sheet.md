@@ -1,3 +1,4 @@
+#economics #formula
 $Y = Income$
 ###### [[The Goods Market#The Composition of GDP|Aggregate Demand]]
 $$

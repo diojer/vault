@@ -1,3 +1,4 @@
+#economics #trade #imports #exports
 $$
 \begin{eqnarray}
 X=f(Y^*,\epsilon) \\

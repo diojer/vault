@@ -1,3 +1,4 @@
+#economics #model #keynesian
 ## The Composition of GDP
 ---
 	- Consumption (C): Goods and services purchased by consumers

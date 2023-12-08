@@ -1,3 +1,4 @@
+#economics #budget #consumption #utility #model
 ## Assumptions
 - Households live for two periods
 - Households have perfect foresight

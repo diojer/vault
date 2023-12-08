@@ -1,3 +1,4 @@
+#economics #ISLMPC #model
 # Price Setting
 We assume a production function for the economy with [[Economics/Macroeconomics/Classical, Two Period and RBC Model/Seminar#Constant Returns to Labour?|constant returns to labour]]:
 $$

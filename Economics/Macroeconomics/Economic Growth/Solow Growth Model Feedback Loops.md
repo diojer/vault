@@ -1,3 +1,4 @@
+#economics #solow #model 
 As we saw previously, the equilibrium point for our model is where savings are equal to investment, in other words,
 $$
 sf(\frac{K_{t}}{AN})=(\delta+g_A+g_N)(\frac{K_{t}}{AN})

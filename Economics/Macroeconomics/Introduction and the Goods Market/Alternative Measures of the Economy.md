@@ -1,3 +1,4 @@
+#economics #development
 # Human Development Index
 #HDI
 This combines life expectancy at birth, access to education and GNI per capita.
