@@ -8,4 +8,3 @@
 - Imperfectly competitive firms
 - Product differentiation
 	- Explains why similar countries both produce the same good, e.g., car manufacturing
- 
