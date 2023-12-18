@@ -1,31 +1,31 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Economics",
+      "query": "path:Economics/Macroeconomics  ",
       "color": {
         "a": 1,
-        "rgb": 1580724
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Economics/Maths ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
       }
     },
     {
       "query": "path:Philosophy",
       "color": {
         "a": 1,
-        "rgb": 843595
-      }
-    },
-    {
-      "query": "path:Politics",
-      "color": {
-        "a": 1,
-        "rgb": 13638532
+        "rgb": 16714381
       }
     }
   ],
@@ -35,10 +35,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 2.58402777777778,
   "collapse-forces": false,
-  "centerStrength": 0.503472222222222,
-  "repelStrength": 12.2916666666667,
-  "linkStrength": 1,
-  "linkDistance": 307,
-  "scale": 0.2078960436373632,
-  "close": true
+  "centerStrength": 0.240484429065744,
+  "repelStrength": 17.2664359861592,
+  "linkStrength": 0.465397923875433,
+  "linkDistance": 418,
+  "scale": 0.0656095408664263,
+  "close": false
 }
