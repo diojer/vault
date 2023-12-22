@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d07f37bb11bd62f8",
-        "type": "split",
+        "id": "374a620c7ceffc07",
+        "type": "tabs",
         "children": [
           {
-            "id": "e02dbada74b69482",
-            "type": "tabs",
-            "dimension": 37.94117647058823,
-            "children": [
-              {
-                "id": "7d92819833ead1c6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Economics/Macroeconomics/Exam Preperation/Currency Unions, Risk Premium and the Eurozone.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "43b89848f3c95a0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Readings/What Causes High Inflation/What Causes High Inflation.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "734f8599c3acd344",
-            "type": "tabs",
-            "dimension": 62.05882352941177,
-            "children": [
-              {
-                "id": "647d6096416dd517",
-                "type": "leaf",
-                "state": {
-                  "type": "diagram",
-                  "state": {
-                    "file": "Economics/Macroeconomics/Exam Preperation/Untitled Diagram.svg"
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,12 +33,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "537dd69d847ff268",
+            "id": "f0c12c808815b81e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -118,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Macroeconomics/Exam Preperation/Currency Unions, Risk Premium and the Eurozone.md",
+                "file": "Personal Readings/What Causes High Inflation/What Causes High Inflation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Macroeconomics/Exam Preperation/Currency Unions, Risk Premium and the Eurozone.md",
+                "file": "Personal Readings/What Causes High Inflation/What Causes High Inflation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Macroeconomics/Exam Preperation/Currency Unions, Risk Premium and the Eurozone.md"
+                "file": "Personal Readings/What Causes High Inflation/What Causes High Inflation.md"
               }
             }
           },
@@ -188,8 +163,56 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7d92819833ead1c6",
+  "floating": {
+    "id": "db2c0fa744fec38e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5e0606f9fc602474",
+        "type": "window",
+        "children": [
+          {
+            "id": "089365a33af4a7c6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6215f6246f8820cf",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Personal Readings/What Causes High Inflation/IIMR Essay Notes.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1745,
+        "y": -200,
+        "width": 1024,
+        "height": 679,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "43b89848f3c95a0b",
   "lastOpenFiles": [
+    "Personal Readings/What Causes High Inflation/IIMR Essay Notes.pdf",
+    "Personal Readings/What Causes High Inflation/What Causes High Inflation.md",
+    "Politics/Revolution and Reaction/Simone de Beauvoir/Seminar.md",
+    "Politics/Revolution and Reaction/Hannah Arendt/Seminar.md",
+    "Politics/Revolution and Reaction/Frantz Fanon/Seminar.md",
+    "Politics/Revolution and Reaction/Carl Schmitt/Seminar.md",
+    "Politics/Revolution and Reaction/Michel Foucault/Two Lectures - Notes.md",
+    "Economics/Macroeconomics/Classical, Two Period and RBC Model/Two Period Model.md",
+    "Economics/Macroeconomics/Classical, Two Period and RBC Model/Seminar.md",
+    "Economics/Macroeconomics/Classical, Two Period and RBC Model/Simple Classical Model.md",
+    "Economics/Macroeconomics/Classical, Two Period and RBC Model/Real Business Cycle Model.md",
+    "Personal Readings/What Causes High Inflation",
+    "Philosophy/Moral Philosophy/The Trolley Problem.md",
     "Economics/Macroeconomics/Exam Preperation/Untitled Diagram.svg",
     "Economics/Macroeconomics/Exam Preperation/Currency Unions, Risk Premium and the Eurozone.md",
     "Economics/Macroeconomics/Exam Preperation/Two Period Model and Ricardian Equivalence.md",
@@ -201,14 +224,12 @@
     "Economics/Macroeconomics/Exam Preperation/~$ar 2 Practice Question 2.docx",
     "Economics/Macroeconomics/Exam Preperation/Year 2 Practice Question 2.docx",
     "Economics/Macroeconomics/Exam Preperation/Year 2 Practice Question 2 Diagram.docx",
-    "Economics/Macroeconomics/Exam Preperation/Year 2 Practice Question 1.docx",
     "Economics/Macroeconomics/Trade/Competitive Advantage.md",
     "Economics/Macroeconomics/Trade/Trade and Globalisation.md",
     "Economics/Macroeconomics/Trade/attachments/Pasted image 20231208115855.png",
     "Economics/Macroeconomics/Trade/attachments/Pasted image 20231208115821.png",
     "Economics/Macroeconomics/Trade/Equilibrium in Exports and Imports.md",
     "Philosophy/Moral Philosophy/The Problem of Collective Harm.md",
-    "Economics/Macroeconomics/Exam Preperation",
     "Personal Readings/Fiscal Policy under Low Interest Rates.md",
     "Economics/Econometrics and Statistics/Statistics/Small-sample distributions.md",
     "Economics/Images/Pasted image 20231205145037.png",
@@ -219,22 +240,11 @@
     "Economics/Images/Pasted image 20231205142512.png",
     "Economics/Econometrics and Statistics/Statistics/Hypothesis Testing.md",
     "Economics/Econometrics and Statistics/Statistics/Confidence Intervals.md",
-    "Politics/Revolution and Reaction/Michel Foucault/Two Lectures - Notes.md",
     "Philosophy/Moral Philosophy/The Obligation to Signal.md",
     "Personal Readings/attachments/Pasted image 20231204183213.png",
     "Personal Readings/Glossary/Safe Rate.md",
     "Personal Readings/Glossary/Risk Premium.md",
     "Personal Readings/Glossary/Deficit ratios.md",
-    "Personal Readings/EU-UK Free Trade Agreement.md",
-    "README.md",
-    "obsidian-git/Personal Readings/Fiscal Policy under Low Interest Rates.md",
-    "obsidian-git/README.md",
-    "Untitled.canvas",
-    "Economics/Macroeconomics/Supply Side/Wage and Profit Shares.md",
-    "2023-12-03.md",
-    "Economics/Macroeconomics/New Keynesian IS-LM-PC/Phillips Curve and Supply.md",
-    "Economics/Macroeconomics/New Keynesian IS-LM-PC/Assumptions.md",
-    "Economics/Macroeconomics/New Keynesian IS-LM-PC/Wage and Price Setting.md",
-    "Economics/Macroeconomics/The Labour Market/Wage and Price Determination.md"
+    "Untitled.canvas"
   ]
 }
