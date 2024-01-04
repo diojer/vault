@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Readings/What Causes High Inflation/What Causes High Inflation.md",
+                "file": "Politics/Revolution and Reaction/Michel Foucault/Foucault and the Politics of Resistance.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Readings/What Causes High Inflation/What Causes High Inflation.md",
+                "file": "Politics/Revolution and Reaction/Michel Foucault/Foucault and the Politics of Resistance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Readings/What Causes High Inflation/What Causes High Inflation.md",
+                "file": "Politics/Revolution and Reaction/Michel Foucault/Foucault and the Politics of Resistance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Readings/What Causes High Inflation/What Causes High Inflation.md"
+                "file": "Politics/Revolution and Reaction/Michel Foucault/Foucault and the Politics of Resistance.md"
               }
             }
           },
@@ -163,50 +163,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "db2c0fa744fec38e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5e0606f9fc602474",
-        "type": "window",
-        "children": [
-          {
-            "id": "089365a33af4a7c6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6215f6246f8820cf",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Personal Readings/What Causes High Inflation/IIMR Essay Notes.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1745,
-        "y": -200,
-        "width": 1024,
-        "height": 679,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "43b89848f3c95a0b",
   "lastOpenFiles": [
-    "Personal Readings/What Causes High Inflation/IIMR Essay Notes.pdf",
+    "Politics/Revolution and Reaction/Michel Foucault/Two Lectures - Notes.md",
+    "Politics/Revolution and Reaction/Michel Foucault/Foucault and the Politics of Resistance.md",
+    "Politics/Revolution and Reaction/Michel Foucault/Nancy Fraser Foucault on modern power.pdf",
+    "Agonism.md",
+    "Politics/Glossary",
+    "Politics/Revolution and Reaction/Michel Foucault/Nancy Fraser Foucault on modern power.pdf.crdownload",
+    "Politics/Revolution and Reaction/Michel Foucault/Pickett-FoucaultPoliticsResistance-1996.pdf",
+    "Politics/Revolution and Reaction/Michel Foucault/Pickett-FoucaultPoliticsResistance-1996.pdf.crdownload",
+    "Personal Readings/EU-UK Free Trade Agreement.md",
+    "Politics/Revolution and Reaction/Stuart Hall/Culture, Resistance and Struggle.md",
+    "Politics/Revolution and Reaction/Intro Seminar.md",
     "Personal Readings/What Causes High Inflation/What Causes High Inflation.md",
+    "Politics/Revolution and Reaction/Stuart Hall",
+    "Personal Readings/What Causes High Inflation/IIMR Essay Notes.pdf",
     "Politics/Revolution and Reaction/Simone de Beauvoir/Seminar.md",
     "Politics/Revolution and Reaction/Hannah Arendt/Seminar.md",
     "Politics/Revolution and Reaction/Frantz Fanon/Seminar.md",
     "Politics/Revolution and Reaction/Carl Schmitt/Seminar.md",
-    "Politics/Revolution and Reaction/Michel Foucault/Two Lectures - Notes.md",
     "Economics/Macroeconomics/Classical, Two Period and RBC Model/Two Period Model.md",
     "Economics/Macroeconomics/Classical, Two Period and RBC Model/Seminar.md",
     "Economics/Macroeconomics/Classical, Two Period and RBC Model/Simple Classical Model.md",
@@ -218,12 +194,6 @@
     "Economics/Macroeconomics/Exam Preperation/Two Period Model and Ricardian Equivalence.md",
     "Economics/Macroeconomics/Exam Preperation/Year 2 Practice Question 1.pdf",
     "Economics/Macroeconomics/Exam Preperation/Year 2 Practice Question 2.pdf",
-    "Economics/Macroeconomics/Exam Preperation/mso29A0.tmp",
-    "Economics/Macroeconomics/Exam Preperation/~$ar 2 Practice Question 1.docx",
-    "Economics/Macroeconomics/Exam Preperation/msoD0B1.tmp",
-    "Economics/Macroeconomics/Exam Preperation/~$ar 2 Practice Question 2.docx",
-    "Economics/Macroeconomics/Exam Preperation/Year 2 Practice Question 2.docx",
-    "Economics/Macroeconomics/Exam Preperation/Year 2 Practice Question 2 Diagram.docx",
     "Economics/Macroeconomics/Trade/Competitive Advantage.md",
     "Economics/Macroeconomics/Trade/Trade and Globalisation.md",
     "Economics/Macroeconomics/Trade/attachments/Pasted image 20231208115855.png",
@@ -239,12 +209,7 @@
     "Economics/Images/Pasted image 20231205143357.png",
     "Economics/Images/Pasted image 20231205142512.png",
     "Economics/Econometrics and Statistics/Statistics/Hypothesis Testing.md",
-    "Economics/Econometrics and Statistics/Statistics/Confidence Intervals.md",
-    "Philosophy/Moral Philosophy/The Obligation to Signal.md",
     "Personal Readings/attachments/Pasted image 20231204183213.png",
-    "Personal Readings/Glossary/Safe Rate.md",
-    "Personal Readings/Glossary/Risk Premium.md",
-    "Personal Readings/Glossary/Deficit ratios.md",
     "Untitled.canvas"
   ]
 }

@@ -1,0 +1,1 @@
+Agonism is a political theory that emphasises potentially positive aspects of conflict.

@@ -38,7 +38,7 @@
 4. $\Pi_n = I(m)$ from A6 and A7
 	1. Even if investment rate is high and mark-up is zero, firms will be making normal profits - $m \geq 0$ explains supernormal profit.
 ### Part 2 Issues
-- It looks like you're taking $\Pi$ as total profit - the sum of normal and supernormal. However, the 1.1 identity only holds for normal profit, not $\Pi$ - this comes form 1.1. If $\Pi$ *is* just normal profit, identities 2.2 and 2.4 don't hold.
+- It looks like you're taking $\Pi$ as total profit - the sum of normal and supernormal. However, the 1.1 identity only holds for normal profit, not $\Pi$. If $\Pi$ *is* just normal profit, identities 2.2 and 2.4 don't hold.
 - For 2.2, why equate it to $Q$ instead of $C$?  $Q$ is, after all, the total quantity of goods sold, i.e., consumed.
 - Why is $\Pi_n=I(m)$?
 	- If we take $\Pi$ to be normal profits, then $\Pi$ has no relation to $m$.
