@@ -42,6 +42,6 @@ I feel like a lot of Hall's writing in "Culture, Resistance and Struggle" is als
 
 It's also important to remember that Hall himself values his "lack of guarantees" ([1]([Hall2.pdf (archive.org)](https://ia600703.us.archive.org/35/items/ktoub3/Hall2.pdf))) because he felt like Marxism was over-determinative. So, I get why you would disagree with that aspect, but it would be good to mention that he didn't really think it was an issue. Also, with Jonathan Dean it's best not to make such overt criticisms, I think.
 # Minor Details
-You wrote "As Gutting and Oksala put it in their Stanford Encyclopedia of Philosophy entry, “where there is power, there is always resistance too” (Gutting & Oksala, 2022).", but you could just write:
+You wrote "As Gutting and Oksala put it in their Stanford Encyclopedia of Philosophy entry, “where there is power, there is always resistance too” (Gutting & Oksala, 2022).", but I think you could just write:
 
-As Gutting and Oksala (2022) put it in their Stanford Encyclopedia of Philosophy entry, “where there is power, there is always resistance too” I think.
+As Gutting and Oksala (2022) put it in their Stanford Encyclopedia of Philosophy entry, “where there is power, there is always resistance too”
