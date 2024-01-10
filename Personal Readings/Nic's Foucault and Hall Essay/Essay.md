@@ -1,6 +1,6 @@
 # Foucault
 ## Foucauldian Resistance
-Something I think you get a bit wrong about Foucault's notion of resistance is that it is for building/forming a new society. Foucault is very specifically against this, though.
+Something I think you get a bit wrong about Foucault's notion of resistance is that it is about building/forming a new society. Foucault is very specifically against this, though.
 
 Quotes from you:
 
