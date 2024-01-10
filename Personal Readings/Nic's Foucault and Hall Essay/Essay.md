@@ -9,11 +9,12 @@ Quotes from you:
 
 Counter-quotes from Foucault (in bold because I boldened them and can't be bothered to remove lol):
 
-- "**"Anyone who attempts to oppose the law in order to found a new order, to organise a second police force, to institute a new state, will only encounter the silent and infinitely accommodating welcome of the law." (p.38 of Madness and Civilisation)**" (This is early Foucault)
+- "**Anyone who attempts to oppose the law in order to found a new order, to organise a second police force, to institute a new state, will only encounter the silent and infinitely accommodating welcome of the law." (p.38 of Foucault/Blanchot)**" (This is early Foucault)
 - "**Disrupting these metanarratives, as we have seen earlier, constitutes transgression, allowing society to question the limits it places. One of the most important institutions to disrupt is the judiciary, because it creates the guilt/innocence distinction. This divides the masses and impedes revolutionary activity by controlling volatile people who might spearhead a revolt. (p.232 of Language, Counter-Memory, Culture)**" (This is middle Foucault)
 - So what is resistance? Is it simply that which frustrates power? Foucault sees resistance as what eludes power, and power targets resistance as its adversary (*The Will to Know, Volume One of the History of Sexuality*, p.95) Furthermore, power also creates resistance: only when power is hidden is it accepted.
 	- (Not a direct quote, just paraphrase) - this is late Foucault
 - Page 227-8 of: [Foucault_Michel_Language_Counter-Memory_Practice_Selected_Essays_and_Interviews_1977.pdf (monoskop.org)](https://monoskop.org/images/1/13/Foucault_Michel_Language_Counter-Memory_Practice_Selected_Essays_and_Interviews_1977.pdf)
+- "I think that to imagine another system is to extend our participation in the present system." Middle Foucault, Language, Counter-Memory, Practice p. 230
 - (BTW I got all of these quotations from that paper I sent you by Pickett)
 
 So, my main point here is that resistance doesn't exist to reshape the system - if it did, Foucault argues it will simply find itself again in the "accommodating welcome of the law"
