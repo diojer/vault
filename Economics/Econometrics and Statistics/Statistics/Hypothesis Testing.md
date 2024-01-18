@@ -55,3 +55,23 @@ $$
 ![[Pasted image 20231128145655.png]]
 ## Without Replacement
 The test statistic must be divided by the fpc.
+# Two Samples
+We're supposing:
+- Random variable $X_1$
+	- Population size $N_1$
+		- Population mean $\mu_1$
+		- Population variance $\sigma_1^2$
+	- Sample size $n_1$
+- Random variable $X_2$
+	- Population size $N_2$
+		- Population mean $\mu_2$
+		- Population variance $\sigma_2^2$
+	- Sample size $n_2$
+The difference between $\bar{X}_1$ and $\bar{X}_2$ is $D_\bar{X}$, which will be represented as $\nabla$:
+$$
+\begin{eqnarray}
+\nabla=\bar{X}_{1}-\bar{X_{2}} \\
+E(\nabla)=\mu_{1}-\mu_{2} \\
+var(\nabla) = \sqrt{\frac{\sigma_{1}^2}{n_{1}}+\frac{\sigma_{2}^2}{n_{2}}}
+\end{eqnarray}
+$$

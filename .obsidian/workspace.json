@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Politics/Revolution and Reaction/Stuart Hall/Culture, Resistance and Struggle.md",
+                "file": "Economics/Macroeconomics/Classical, Two Period and RBC Model/Simple Classical Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Politics/Revolution and Reaction/Stuart Hall/Culture, Resistance and Struggle.md",
+                "file": "Economics/Macroeconomics/Classical, Two Period and RBC Model/Simple Classical Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Politics/Revolution and Reaction/Stuart Hall/Culture, Resistance and Struggle.md",
+                "file": "Economics/Macroeconomics/Classical, Two Period and RBC Model/Simple Classical Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Politics/Revolution and Reaction/Stuart Hall/Culture, Resistance and Struggle.md"
+                "file": "Economics/Macroeconomics/Classical, Two Period and RBC Model/Simple Classical Model.md"
               }
             }
           },
@@ -165,51 +165,52 @@
   },
   "active": "43b89848f3c95a0b",
   "lastOpenFiles": [
-    "Politics/Revolution and Reaction/Michel Foucault/Foucault and the Politics of Resistance.md",
-    "Politics/Revolution and Reaction/Michel Foucault/Two Lectures - Notes.md",
-    "Politics/Revolution and Reaction/Michel Foucault/Nancy Fraser Foucault on modern power.pdf",
-    "Agonism.md",
-    "Politics/Glossary",
-    "Politics/Revolution and Reaction/Michel Foucault/Nancy Fraser Foucault on modern power.pdf.crdownload",
-    "Politics/Revolution and Reaction/Michel Foucault/Pickett-FoucaultPoliticsResistance-1996.pdf",
-    "Politics/Revolution and Reaction/Michel Foucault/Pickett-FoucaultPoliticsResistance-1996.pdf.crdownload",
-    "Personal Readings/EU-UK Free Trade Agreement.md",
-    "Politics/Revolution and Reaction/Stuart Hall/Culture, Resistance and Struggle.md",
-    "Politics/Revolution and Reaction/Intro Seminar.md",
-    "Personal Readings/What Causes High Inflation/What Causes High Inflation.md",
-    "Politics/Revolution and Reaction/Stuart Hall",
-    "Personal Readings/What Causes High Inflation/IIMR Essay Notes.pdf",
-    "Politics/Revolution and Reaction/Simone de Beauvoir/Seminar.md",
-    "Politics/Revolution and Reaction/Hannah Arendt/Seminar.md",
-    "Politics/Revolution and Reaction/Frantz Fanon/Seminar.md",
-    "Politics/Revolution and Reaction/Carl Schmitt/Seminar.md",
-    "Economics/Macroeconomics/Classical, Two Period and RBC Model/Two Period Model.md",
-    "Economics/Macroeconomics/Classical, Two Period and RBC Model/Seminar.md",
-    "Economics/Macroeconomics/Classical, Two Period and RBC Model/Simple Classical Model.md",
-    "Economics/Macroeconomics/Classical, Two Period and RBC Model/Real Business Cycle Model.md",
-    "Personal Readings/What Causes High Inflation",
-    "Philosophy/Moral Philosophy/The Trolley Problem.md",
-    "Economics/Macroeconomics/Exam Preperation/Untitled Diagram.svg",
+    "Economics/Macroeconomics/Open Economy/Optimal Currency Areas.md",
+    "Economics/Macroeconomics/Open Economy/Questions.md",
+    "Economics/Macroeconomics/Open Economy/Economics of Brexit.md",
+    "Economics/Macroeconomics/Open Economy/Imports and Exports.md",
+    "Economics/Macroeconomics/Trade/Equilibrium in Exports and Imports.md",
+    "Economics/Macroeconomics/Exam Preperation/Year 2 Practice Question 2.pdf",
     "Economics/Macroeconomics/Exam Preperation/Currency Unions, Risk Premium and the Eurozone.md",
     "Economics/Macroeconomics/Exam Preperation/Two Period Model and Ricardian Equivalence.md",
-    "Economics/Macroeconomics/Exam Preperation/Year 2 Practice Question 1.pdf",
-    "Economics/Macroeconomics/Exam Preperation/Year 2 Practice Question 2.pdf",
+    "Economics/Macroeconomics/Monetary Policy/Money in the Classical Model.md",
+    "Economics/Macroeconomics/Monetary Policy/IS-LM-PC with Exogenous Money.md",
+    "Economics/Macroeconomics/Monetary Policy/Further Reading.md",
+    "Economics/Macroeconomics/Monetary Policy/Central Bank Corridor System.md",
+    "Economics/Macroeconomics/Monetary Policy/Collapse of Exogenous Money Theory.md",
+    "Economics/Macroeconomics/Monetary Policy/Endogenous Money Creation.md",
+    "Economics/Macroeconomics/Classical, Two Period and RBC Model/Simple Classical Model.md",
+    "Economics/Macroeconomics/Fiscal Policy/Fiscal Policy in Static Models.md",
+    "Economics/Macroeconomics/Classical, Two Period and RBC Model/Seminar.md",
+    "Economics/Macroeconomics/Classical, Two Period and RBC Model/Real Business Cycle Model.md",
+    "Economics/Macroeconomics/Classical, Two Period and RBC Model/Two Period Model.md",
+    "Economics/Macroeconomics/Trade/New Trade Theory.md",
+    "Economics/Macroeconomics/Trade/Glossary.md",
     "Economics/Macroeconomics/Trade/Competitive Advantage.md",
     "Economics/Macroeconomics/Trade/Trade and Globalisation.md",
+    "Economics/Macroeconomics/Exam Preperation/Year 2 Practice Question 1.pdf",
+    "Economics/Maths/Interval Estimation/Important z-values.md",
+    "Economics/Econometrics and Statistics/Statistics/Variance 2 R.V.s.md",
+    "Economics/Econometrics and Statistics/Statistics/Measures of Association.md",
+    "Economics/Econometrics and Statistics/Statistics/Expected Value, Variance, Average.md",
+    "Politics/Revolution and Reaction/Michel Foucault/Pickett-FoucaultPoliticsResistance-1996.pdf",
+    "Politics/Revolution and Reaction/Michel Foucault/Nancy Fraser Foucault on modern power.pdf",
+    "Politics/attachments/Pasted image 20240112103742.png",
+    "Politics/attachments/Pasted image 20240112102302.png",
+    "Politics/attachments/Pasted image 20240112101943.png",
+    "Politics/attachments/Pasted image 20240112101155.png",
+    "Politics/attachments/Pasted image 20240112101933.png",
+    "Politics/attachments",
+    "Politics/Revolution and Reaction/Glossary",
+    "Personal Readings/Nic's Foucault and Hall Essay/Essay 2 2nd Draft.docx",
+    "Personal Readings/Nic's Foucault and Hall Essay",
+    "Politics/Glossary",
+    "Politics/Revolution and Reaction/Michel Foucault/Nancy Fraser Foucault on modern power.pdf.crdownload",
+    "Economics/Macroeconomics/Exam Preperation/Untitled Diagram.svg",
     "Economics/Macroeconomics/Trade/attachments/Pasted image 20231208115855.png",
     "Economics/Macroeconomics/Trade/attachments/Pasted image 20231208115821.png",
-    "Economics/Macroeconomics/Trade/Equilibrium in Exports and Imports.md",
-    "Philosophy/Moral Philosophy/The Problem of Collective Harm.md",
-    "Personal Readings/Fiscal Policy under Low Interest Rates.md",
-    "Economics/Econometrics and Statistics/Statistics/Small-sample distributions.md",
     "Economics/Images/Pasted image 20231205145037.png",
     "Economics/Images/Pasted image 20231205145020.png",
-    "Economics/Images/Pasted image 20231205144708.png",
-    "Economics/Images/Pasted image 20231205144656.png",
-    "Economics/Images/Pasted image 20231205143357.png",
-    "Economics/Images/Pasted image 20231205142512.png",
-    "Economics/Econometrics and Statistics/Statistics/Hypothesis Testing.md",
-    "Personal Readings/attachments/Pasted image 20231204183213.png",
     "Untitled.canvas"
   ]
 }
