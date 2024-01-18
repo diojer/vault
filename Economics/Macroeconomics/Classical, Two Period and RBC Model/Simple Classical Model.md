@@ -102,7 +102,7 @@ $$
 - The labour market will always reach equilibrium,
 - We have an equilibrium level of employment and unemployment,
 - Unemployment is the worker's choice, as they could offer to work for a lower wage,
-- Swings in unemployment are driven by $A$ (productivity shocks) or changes in household preference ($\gamma
+- Swings in unemployment are driven by $A$ (productivity shocks) or changes in household preference ($\gamma$)
 
 # Questions
 - Why does the [[Simple Classical Model#Labour Demand|graph]] taper off if we're assuming constant returns to scale?
