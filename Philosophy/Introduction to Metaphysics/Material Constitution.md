@@ -38,3 +38,36 @@ Thomson argues that 2.2 should definitely be accepted.
 2. Ship of Theseus argument: imagine we completely replace a car slowly, piece by piece. But, unbeknownst to us, our neighbour was collecting all of our discarded pieces and rebuilt them. Surely our neighbour, not us, has the original car.
 	1. Imagine we replace all the parts of a 1977 Chevrolet with all the parts of a 1947 Buick. Has one become the other? Thomson also brings up the fact that we could've just moved the Buick into the space formerly occupied by the Chevrolet, which raises the important question: is it the intentions that matter?
 Thomson doesn't try to answer these questions, simply supposing that artifacts can undergo replacement of a small part and remain the same artifact. So, she supposes that ALFRED remained wholly on the table after the replacement of his left hand. CLAY did not. So, they are related, but not identical. Thomson calls the relationship "constituting".
+# Reading 2:
+Published in June of 1992 by Michael B. Burke
+
+Same beginning as Thomson: Copper and Statue in the same place, what is their relationship?
+The popular account is that Statue and Piece are numerically different objects, even though they consist of the same matter and occupy the same space.
+What shows them to be different objects is they have different "persistence conditions": Piece could survive a drastic change in shape, Statue could not.
+## Definitions
+- x and y coincide at time t just in case:
+	- x is not y
+	- the place wholly occupied at t by the whole of x is numerically the same place wholly occupied at t by the whole of y
+## Standard Account
+To supporters of standard account, coincidence is common place. However, critics call the "multiplication of entities" absurd. Burke will attempt to criticise the standard account with a novel theory.
+### Further Explanation of Standard Account
+Coinciding objects differ *in sort*. Statue is a statue but not a piece of copper; and Piece is a piece of copper but not a statue.
+## Criticism
+Statue and Piece are qualitatively identical, and consist of the very same atoms. So, how can they be different in sort?
+Well, sort is not a basic property. If Statue is a statue but Piece isn't, there must be something different between the two which makes Statue a statue, and vice-versa. So, what is this thing?
+Burke gives two answers:
+1. That Statue and Piece have different histories,
+2. Statue and Piece have different persistence conditions
+He argues that neither is satisfactory, and conclude that since Statue and Piece do not differ in sort the standard account should be rejected.
+### Answer One
+To say that x and y differ in history is to say that x and y differ, with respect to their properties, at some past or future time. However, nothing accounts for a difference in the cross-time identities of Statue and Piece - the two are composed of just the same atoms. Since they never differ in atoms, the only difference would have to make reference to differences in *sort*, however, this begs the question - the difference in sort is precisely what has to be explained.
+
+Arguably, cross-time differences could be argued in other relationships, rather than sort. (I do not understand this section).
+
+### Answer Two
+If the difference in persistence conditions is used to explain difference in sort, there will be no way to explain the difference in their persistence conditions. Furthermore, it is not possible for each of the alleged differences to be explained by the other. However, Burke also argues that it is not possible for the differences in sort, or in persistence conditions, to not have an explanation.
+
+In other words: if Piece, but not Statue, could survive a drastic change in shape, there must be something that accounts for this difference. But, if not their difference in sort, what is it?
+
+## Conclusion
+Having rejected both answers one and two, we should reject the standard account.
