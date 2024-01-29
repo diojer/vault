@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Econometrics and Statistics/Econometrics/Regression.md",
+                "file": "Economics/Econometrics and Statistics/Econometrics/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Econometrics and Statistics/Econometrics/Regression.md",
+                "file": "Economics/Econometrics and Statistics/Econometrics/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Econometrics and Statistics/Econometrics/Regression.md",
+                "file": "Economics/Econometrics and Statistics/Econometrics/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Econometrics and Statistics/Econometrics/Regression.md"
+                "file": "Economics/Econometrics and Statistics/Econometrics/Introduction.md"
               }
             }
           },
@@ -165,6 +165,8 @@
   },
   "active": "43b89848f3c95a0b",
   "lastOpenFiles": [
+    "Economics/Econometrics and Statistics/Econometrics/Simple Linear Regression Model.md",
+    "Economics/Econometrics and Statistics/Econometrics/Introduction.md",
     "Philosophy/Introduction to Metaphysics/Readings/Burke, Michael (1992) - Copper statues and pieces of copper.pdf",
     "Philosophy/Introduction to Metaphysics/Readings/Thomson, Judith Jarvis (1998) - The statue and the clay, sections 1 and 2.pdf",
     "Philosophy/Introduction to Metaphysics/Readings",
@@ -178,13 +180,11 @@
     "Economics/Microeconomics/(First edition) Hal R. VArian - Intermediate Microeconomics with Calculus. Hal-W. W. Norton & Company (2014).pdf",
     "Personal Readings/Fiscal Policy under Low Interest Rates.md",
     "Personal Readings/EU-UK Free Trade Agreement.md",
-    "Economics/Econometrics and Statistics/Econometrics/Regression.md",
     "Economics/Maths/Formula Sheet.md",
     "University Events/Competition and Markets Authority.md",
     "Economics/Econometrics and Statistics/Econometrics",
     "Economics/Microeconomics",
     "University Events",
-    "Economics/Macroeconomics/mso98B3.tmp",
     "Economics/Macroeconomics/Open Economy/Economics of Brexit.md",
     "Economics/Macroeconomics/Classical, Two Period and RBC Model/Simple Classical Model.md",
     "Economics/Macroeconomics/Open Economy/Optimal Currency Areas.md",
