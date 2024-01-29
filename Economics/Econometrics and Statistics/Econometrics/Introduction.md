@@ -1,4 +1,4 @@
-# Example
+# Example 1
 What is the price-elasticity of demand for good x?
 $D_{X}=f(P,P_{s},P_{x},I)$
 Where
@@ -20,3 +20,24 @@ We can use point or interval estimators for $\beta_{2}$
 Using our estimate, we can find whether the data supports our alternate hypothesis and what our confidence level is.
 #### Forecasting
 Using an econometrics model, we could forecast the demand for good x next year.
+# Example 2
+How does foreign direct investment affect productivity growth?
+## Population
+We usually care about a particular parameter of the population, like the average.
+## Sample
+We use the sample to get the 'best estimate' of the value of the population parameter we are interested in.
+## Data Types
+### Cross Sectional Data
+Data about different units, for a particular point in time.
+### Time Series Data
+Information about one specific measure, over a period of time
+### Panel Data
+Combination of both, many different measures over a period of time.
+## Econometric Methods
+### OLS estimator
+Ordinarily Least Square
+Best method given that a series of assumptions are satisfied.
+### ML estimator
+Maximum Likelihood
+### GMM estimator
+Generalised Method of Momentous
