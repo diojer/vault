@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Econometrics and Statistics/Econometrics/Simple Linear Regression Model.md",
+                "file": "Economics/Economics Research Methods/Multivariate Regression Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Econometrics and Statistics/Econometrics/Simple Linear Regression Model.md",
+                "file": "Economics/Economics Research Methods/Multivariate Regression Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Econometrics and Statistics/Econometrics/Simple Linear Regression Model.md",
+                "file": "Economics/Economics Research Methods/Multivariate Regression Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Econometrics and Statistics/Econometrics/Simple Linear Regression Model.md"
+                "file": "Economics/Economics Research Methods/Multivariate Regression Analysis.md"
               }
             }
           },
@@ -165,29 +165,35 @@
   },
   "active": "43b89848f3c95a0b",
   "lastOpenFiles": [
+    "Economics/Economics Research Methods/Economic Research Methods.md",
+    "Economics/Economics Research Methods/Multivariate Regression Analysis.md",
+    "Economics/Microeconomics/1st Workshop.md",
+    "Economics/Economics Research Methods",
+    "Economics/Microeconomics/The Market.md",
+    "Economics/Maths for Business and Economics 2/Vectors and Matrices/Vectors and Properties of Vectors.md",
+    "Economics/Maths for Business and Economics 2/Introduction.md",
+    "Economics/Maths/Formula Sheet.md",
+    "Economics/Maths for Business and Economics 2/Vectors and Matrices",
+    "Economics/Maths for Business and Economics 2",
+    "Philosophy/Introduction to Metaphysics/Material Constitution Lecture.md",
+    "Economics/Maths/Untitled",
+    "Maths",
+    "Philosophy/Introduction to Metaphysics/Material Constitution.md",
+    "Economics/Econometrics and Statistics/Econometrics/Simple Linear Regression Model.md",
     "Economics/Images/Pasted image 20240129162940.png",
     "Economics/Images/Pasted image 20240129162548.png",
     "Economics/Images/Pasted image 20240129161626.png",
     "Economics/Econometrics and Statistics/Econometrics/Introduction.md",
-    "Economics/Econometrics and Statistics/Econometrics/Simple Linear Regression Model.md",
     "Philosophy/Introduction to Metaphysics/Readings/Burke, Michael (1992) - Copper statues and pieces of copper.pdf",
     "Philosophy/Introduction to Metaphysics/Readings/Thomson, Judith Jarvis (1998) - The statue and the clay, sections 1 and 2.pdf",
     "Philosophy/Introduction to Metaphysics/Readings",
-    "Philosophy/Introduction to Metaphysics/Material Constitution.md",
     "Philosophy/Introduction to Metaphysics",
     "Personal Readings/Patrick Boyle/Argentinean Economy.md",
     "Personal Readings/Patrick Boyle/Patrick Boyle.md",
     "Personal Readings/Patrick Boyle",
-    "Economics/Microeconomics/The Market.md",
-    "Economics/Microeconomics/Hal R. Varian - Intermediate Microeconomics_ A Modern Approach, 8th Edition  -W.W. Norton & Co. (2010).pdf",
-    "Economics/Microeconomics/(First edition) Hal R. VArian - Intermediate Microeconomics with Calculus. Hal-W. W. Norton & Company (2014).pdf",
     "Personal Readings/Fiscal Policy under Low Interest Rates.md",
     "Personal Readings/EU-UK Free Trade Agreement.md",
-    "Economics/Maths/Formula Sheet.md",
     "University Events/Competition and Markets Authority.md",
-    "Economics/Econometrics and Statistics/Econometrics",
-    "Economics/Microeconomics",
-    "University Events",
     "Economics/Macroeconomics/Open Economy/Economics of Brexit.md",
     "Economics/Macroeconomics/Classical, Two Period and RBC Model/Simple Classical Model.md",
     "Economics/Macroeconomics/Open Economy/Optimal Currency Areas.md",
@@ -198,11 +204,6 @@
     "Economics/Macroeconomics/Trade/Equilibrium in Exports and Imports.md",
     "Economics/Macroeconomics/Trade/Competitive Advantage.md",
     "Economics/Macroeconomics/Open Economy/Questions.md",
-    "Economics/Macroeconomics/Exam Preperation/Currency Unions, Risk Premium and the Eurozone.md",
-    "Economics/Macroeconomics/Exam Preperation/Two Period Model and Ricardian Equivalence.md",
-    "Economics/Macroeconomics/Monetary Policy/Money in the Classical Model.md",
-    "Economics/Macroeconomics/Monetary Policy/IS-LM-PC with Exogenous Money.md",
-    "Economics/Macroeconomics/Monetary Policy/Further Reading.md",
     "Politics/attachments/Pasted image 20240112103742.png",
     "Politics/attachments/Pasted image 20240112102302.png",
     "Politics/attachments/Pasted image 20240112101943.png",
@@ -210,7 +211,6 @@
     "Politics/attachments/Pasted image 20240112101933.png",
     "Economics/Macroeconomics/Exam Preperation/Untitled Diagram.svg",
     "Economics/Macroeconomics/Trade/attachments/Pasted image 20231208115855.png",
-    "Economics/Macroeconomics/Trade/attachments/Pasted image 20231208115821.png",
     "Untitled.canvas"
   ]
 }
