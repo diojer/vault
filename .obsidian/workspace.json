@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Economics Research Methods/Multivariate Regression Analysis.md",
+                "file": "Economics/Stata.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Economics Research Methods/Multivariate Regression Analysis.md",
+                "file": "Economics/Stata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Economics Research Methods/Multivariate Regression Analysis.md",
+                "file": "Economics/Stata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Economics Research Methods/Multivariate Regression Analysis.md"
+                "file": "Economics/Stata.md"
               }
             }
           },
@@ -165,13 +165,23 @@
   },
   "active": "43b89848f3c95a0b",
   "lastOpenFiles": [
-    "Economics/Economics Research Methods/Economic Research Methods.md",
     "Economics/Economics Research Methods/Multivariate Regression Analysis.md",
+    "Economics/Stata.md",
+    "Economics/Economics Research Methods/Economic Research Methods.md",
+    "Economics/Econometrics and Statistics/Econometrics/Algebraic Properties of OLS.md",
+    "Economics/Images/Pasted image 20240205162436.png",
+    "Economics/Images/Pasted image 20240205161941.png",
+    "Economics/Econometrics and Statistics/Econometrics/SLRM Estimation.md",
+    "Economics/Images/Pasted image 20240205154535.png",
+    "Economics/Images/Pasted image 20240205153647.png",
+    "Economics/Images/Pasted image 20240205152442.png",
+    "Economics/Econometrics and Statistics/Econometrics/Simple Linear Regression Model.md",
+    "Economics/Microeconomics/Hal R. Varian - Intermediate Microeconomics_ A Modern Approach, 8th Edition  -W.W. Norton & Co. (2010).pdf",
+    "Economics/Maths for Business and Economics 2/Vectors and Matrices/Vectors and Properties of Vectors.md",
+    "Economics/Maths for Business and Economics 2/Introduction.md",
     "Economics/Microeconomics/1st Workshop.md",
     "Economics/Economics Research Methods",
     "Economics/Microeconomics/The Market.md",
-    "Economics/Maths for Business and Economics 2/Vectors and Matrices/Vectors and Properties of Vectors.md",
-    "Economics/Maths for Business and Economics 2/Introduction.md",
     "Economics/Maths/Formula Sheet.md",
     "Economics/Maths for Business and Economics 2/Vectors and Matrices",
     "Economics/Maths for Business and Economics 2",
@@ -179,7 +189,6 @@
     "Economics/Maths/Untitled",
     "Maths",
     "Philosophy/Introduction to Metaphysics/Material Constitution.md",
-    "Economics/Econometrics and Statistics/Econometrics/Simple Linear Regression Model.md",
     "Economics/Images/Pasted image 20240129162940.png",
     "Economics/Images/Pasted image 20240129162548.png",
     "Economics/Images/Pasted image 20240129161626.png",
@@ -190,7 +199,6 @@
     "Philosophy/Introduction to Metaphysics",
     "Personal Readings/Patrick Boyle/Argentinean Economy.md",
     "Personal Readings/Patrick Boyle/Patrick Boyle.md",
-    "Personal Readings/Patrick Boyle",
     "Personal Readings/Fiscal Policy under Low Interest Rates.md",
     "Personal Readings/EU-UK Free Trade Agreement.md",
     "University Events/Competition and Markets Authority.md",
@@ -201,16 +209,8 @@
     "Economics/Macroeconomics/Trade/Trade and Globalisation.md",
     "Economics/Macroeconomics/Trade/New Trade Theory.md",
     "Economics/Macroeconomics/Trade/Glossary.md",
-    "Economics/Macroeconomics/Trade/Equilibrium in Exports and Imports.md",
-    "Economics/Macroeconomics/Trade/Competitive Advantage.md",
-    "Economics/Macroeconomics/Open Economy/Questions.md",
     "Politics/attachments/Pasted image 20240112103742.png",
     "Politics/attachments/Pasted image 20240112102302.png",
-    "Politics/attachments/Pasted image 20240112101943.png",
-    "Politics/attachments/Pasted image 20240112101155.png",
-    "Politics/attachments/Pasted image 20240112101933.png",
-    "Economics/Macroeconomics/Exam Preperation/Untitled Diagram.svg",
-    "Economics/Macroeconomics/Trade/attachments/Pasted image 20231208115855.png",
     "Untitled.canvas"
   ]
 }
