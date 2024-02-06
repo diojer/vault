@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Stata.md",
+                "file": "Economics/Industrial Economics/Entry Barriers and Entry Deterrence.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Stata.md",
+                "file": "Economics/Industrial Economics/Entry Barriers and Entry Deterrence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Stata.md",
+                "file": "Economics/Industrial Economics/Entry Barriers and Entry Deterrence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Stata.md"
+                "file": "Economics/Industrial Economics/Entry Barriers and Entry Deterrence.md"
               }
             }
           },
@@ -165,8 +165,10 @@
   },
   "active": "43b89848f3c95a0b",
   "lastOpenFiles": [
-    "Economics/Economics Research Methods/Multivariate Regression Analysis.md",
     "Economics/Stata.md",
+    "Economics/Industrial Economics/Entry Barriers and Entry Deterrence.md",
+    "Economics/Industrial Economics",
+    "Economics/Economics Research Methods/Multivariate Regression Analysis.md",
     "Economics/Economics Research Methods/Economic Research Methods.md",
     "Economics/Econometrics and Statistics/Econometrics/Algebraic Properties of OLS.md",
     "Economics/Images/Pasted image 20240205162436.png",
@@ -196,7 +198,6 @@
     "Philosophy/Introduction to Metaphysics/Readings/Burke, Michael (1992) - Copper statues and pieces of copper.pdf",
     "Philosophy/Introduction to Metaphysics/Readings/Thomson, Judith Jarvis (1998) - The statue and the clay, sections 1 and 2.pdf",
     "Philosophy/Introduction to Metaphysics/Readings",
-    "Philosophy/Introduction to Metaphysics",
     "Personal Readings/Patrick Boyle/Argentinean Economy.md",
     "Personal Readings/Patrick Boyle/Patrick Boyle.md",
     "Personal Readings/Fiscal Policy under Low Interest Rates.md",
@@ -208,7 +209,6 @@
     "Economics/Macroeconomics/Open Economy/Imports and Exports.md",
     "Economics/Macroeconomics/Trade/Trade and Globalisation.md",
     "Economics/Macroeconomics/Trade/New Trade Theory.md",
-    "Economics/Macroeconomics/Trade/Glossary.md",
     "Politics/attachments/Pasted image 20240112103742.png",
     "Politics/attachments/Pasted image 20240112102302.png",
     "Untitled.canvas"
