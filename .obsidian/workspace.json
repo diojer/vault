@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/How Biology Works/Adaptation and Adaptationism.md",
+                "file": "Economics/Industrial Economics/Entry Barriers and Entry Deterrence.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/How Biology Works/Adaptation and Adaptationism.md",
+                "file": "Economics/Industrial Economics/Entry Barriers and Entry Deterrence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/How Biology Works/Adaptation and Adaptationism.md",
+                "file": "Economics/Industrial Economics/Entry Barriers and Entry Deterrence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/How Biology Works/Adaptation and Adaptationism.md"
+                "file": "Economics/Industrial Economics/Entry Barriers and Entry Deterrence.md"
               }
             }
           },
@@ -165,8 +165,14 @@
   },
   "active": "43b89848f3c95a0b",
   "lastOpenFiles": [
-    "Economics/Economics Research Methods/Economic Research Methods.md",
+    "Economics/Microeconomics/2nd Workshop.md",
+    "Economics/Microeconomics/The Market.md",
+    "Economics/Maths for Business and Economics 2/Vectors and Matrices/Matrices.md",
+    "Economics/Images/Pasted image 20240206155211.png",
+    "Economics/Images/Pasted image 20240206153805.png",
+    "Economics/Images/Pasted image 20240206153101.png",
     "Philosophy/How Biology Works/Adaptation and Adaptationism.md",
+    "Economics/Economics Research Methods/Economic Research Methods.md",
     "Philosophy/How Biology Works",
     "Economics/Economics Research Methods/Multivariate Regression Analysis.md",
     "Economics/Stata.md",
@@ -183,9 +189,7 @@
     "Economics/Microeconomics/Hal R. Varian - Intermediate Microeconomics_ A Modern Approach, 8th Edition  -W.W. Norton & Co. (2010).pdf",
     "Economics/Maths for Business and Economics 2/Vectors and Matrices/Vectors and Properties of Vectors.md",
     "Economics/Maths for Business and Economics 2/Introduction.md",
-    "Economics/Microeconomics/1st Workshop.md",
     "Economics/Economics Research Methods",
-    "Economics/Microeconomics/The Market.md",
     "Economics/Maths/Formula Sheet.md",
     "Economics/Maths for Business and Economics 2/Vectors and Matrices",
     "Economics/Maths for Business and Economics 2",
@@ -195,7 +199,6 @@
     "Philosophy/Introduction to Metaphysics/Material Constitution.md",
     "Economics/Images/Pasted image 20240129162940.png",
     "Economics/Images/Pasted image 20240129162548.png",
-    "Economics/Images/Pasted image 20240129161626.png",
     "Economics/Econometrics and Statistics/Econometrics/Introduction.md",
     "Philosophy/Introduction to Metaphysics/Readings/Burke, Michael (1992) - Copper statues and pieces of copper.pdf",
     "Philosophy/Introduction to Metaphysics/Readings/Thomson, Judith Jarvis (1998) - The statue and the clay, sections 1 and 2.pdf",
@@ -207,10 +210,6 @@
     "Economics/Macroeconomics/Open Economy/Economics of Brexit.md",
     "Economics/Macroeconomics/Classical, Two Period and RBC Model/Simple Classical Model.md",
     "Economics/Macroeconomics/Open Economy/Optimal Currency Areas.md",
-    "Economics/Macroeconomics/Open Economy/Imports and Exports.md",
-    "Economics/Macroeconomics/Trade/Trade and Globalisation.md",
-    "Politics/attachments/Pasted image 20240112103742.png",
-    "Politics/attachments/Pasted image 20240112102302.png",
     "Untitled.canvas"
   ]
 }
