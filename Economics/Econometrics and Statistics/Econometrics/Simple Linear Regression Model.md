@@ -1,3 +1,4 @@
+#econometrics #model #regression
 # Model
 $y_{i}=\beta_{1}+\beta_{2}x_{i}+e$, and where $i=1,\dots,N$ units
 Where:
