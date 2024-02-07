@@ -43,10 +43,13 @@ Gould and Lewontin outline alternatives:
 There are three kinds of adaptation:
 1. Empirical adaptationism
 	- Natural selection is ubiquitous. It is very often possible to explain and predict evolutionary processes by only considering natural selection. Other processes can usually be ignored.
-2. Methodological adaptationism
+	- Natural selection is ubiquitous
+1. Methodological adaptationism
 	- The best way to explain and predict evolutionary processes is via natural selection. It is often a good idea to presuppose that a trait is an adaptation.
-3. Explanatory adaptationism
+	- Natural selection is the best way to approach a problem
+1. Explanatory adaptationism
 	- The "big question" is why organisms are usually so well adapted to their environments, and the "big answer" is the process of natural selection.
+	- Apparent design and adaptedness are the most important biological problems
 
 ### Example: female orgasm
 - Adaptationist explanation:
@@ -66,3 +69,13 @@ There are three kinds of adaptation:
 1. Encourages biologists to look for more "just so" stories which aren't adequately tested
 2. Encourages methodological stagnation,
 3. Why restricted to one explanatory method?
+# Seminar
+1. See earlier
+2. Relation between three kinds of adaptationism:
+	1. All three are logically independent
+	2. 
+3. What role does evidence and testing play in each of these kinds?
+4. What is the philosophical component of explanatory adaptationism?
+	1. Big question!
+5. Do Gould and Lewontin implicitly have one of the three kinds of adaptationism in their mind during their critique?
+	1. Yes - seems like they have methodological adaptationism in mind. Especially considering the way they say that adaptationists always look at problems in an inverted manner, considering adaptation as a given.
