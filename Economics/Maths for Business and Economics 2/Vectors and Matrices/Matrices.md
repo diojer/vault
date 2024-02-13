@@ -40,5 +40,28 @@ i.e., turning clockwise by 90 degrees and flipping horizontally.
 - If two or more rows are identical, the determinant is 0
 - $|A'|=|A|$
 - If two rows or two columns of matrix A are interchanged, the determinant sign changes, but not the value
-- If two of the rows 
-
+- If two of the rows or columns are proportional, the determinant is 0
+- $|AB|=|A||B|$
+- $|kA|=k^{n}|A|$
+- 
+# Minor Matrix
+The minor of an element $a_{mn}$ is equal to the matrix left when we ignore row $m$ and column $n$. For example:
+![[Pasted image 20240206155211.png]]
+The minor of $a$ is $|efhi|$.
+The minor matrix is where an element $M_{mn}=Det(Minor(a_{mn}))$, where $M$ is an element in the minor matrix.
+# Cofactor
+The cofactor of a matrix is like the minor of a matrix, except the signs of certain elements have been modified:
+# Adjoint Matrix
+The adjoint is the transpose of the cofactor matrix
+# Inverse
+The inverse matrix is equal to the adjoint divided by the determinant, $\frac{Adj(A)}{|A|}$.
+- Only square matrices can have inverses.
+- The matrix $A$ multiplied by its inverse $A^{-1}$ is equal to the identity matrix, $I$.
+- For a matrix to be invertible, the determinant must not equal 0.
+## Properties
+- $A^{-1}$ is invertible, and $(A^{-1})^{-1}=A$
+- $(AB)^{-1}=B^{-1}A^{-1}$
+- $(A')^{-1}=(A^{-1})'$
+- $(kA)^{-1}=k^{-1}A^{-1}$
+- If $A,B,C$ are all invertible $n \times n$ matrices, then $(ABC)^{-1}=C^{-1}B^{-1}A^{-1}$
+- If $A$ is invertible and symmetric, the inverse is also symmetric.

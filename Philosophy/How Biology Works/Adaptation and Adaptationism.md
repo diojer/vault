@@ -38,9 +38,9 @@ Gould and Lewontin outline alternatives:
 1. It is possible that a given trait is not an adaptation and was not a product of selection
 2. A trait may be the result of selection "elsewhere"
 	- e.g., feathers were likely first selected to regulate heat and were later used in flying
-3. Decoupling: it is possible to have selection without adaptation and adaptation without selection
+3. Decoupling: it is possible to have selection without adaptiation and adaptation without selection
 
-There are three kinds of adaptation:
+There are three kinds of adaptationism:
 1. Empirical adaptationism
 	- Natural selection is ubiquitous. It is very often possible to explain and predict evolutionary processes by only considering natural selection. Other processes can usually be ignored.
 	- Natural selection is ubiquitous

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Industrial Economics/Entry Barriers and Entry Deterrence.md",
+                "file": "Economics/Econometrics and Statistics/Econometrics/SLRM Non-Linearity.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Industrial Economics/Entry Barriers and Entry Deterrence.md",
+                "file": "Economics/Econometrics and Statistics/Econometrics/SLRM Non-Linearity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Industrial Economics/Entry Barriers and Entry Deterrence.md",
+                "file": "Economics/Econometrics and Statistics/Econometrics/SLRM Non-Linearity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Industrial Economics/Entry Barriers and Entry Deterrence.md"
+                "file": "Economics/Econometrics and Statistics/Econometrics/SLRM Non-Linearity.md"
               }
             }
           },
@@ -165,27 +165,36 @@
   },
   "active": "43b89848f3c95a0b",
   "lastOpenFiles": [
+    "Economics/Econometrics and Statistics/Econometrics/Algebraic Properties of OLS.md",
+    "Economics/Econometrics and Statistics/Econometrics/Introduction.md",
+    "Economics/Econometrics and Statistics/Econometrics/SLRM Non-Linearity.md",
+    "Economics/Econometrics and Statistics/Econometrics/Simple Linear Regression Model.md",
+    "Economics/Econometrics and Statistics/Econometrics/SLRM Estimation.md",
+    "Economics/Stata.md",
+    "Economics/Maths for Business and Economics 2/Vectors and Matrices/Matrices.md",
+    "Philosophy/How Biology Works/Adaptation and Adaptationism.md",
+    "Economics/Industrial Economics/Entry Barriers and Entry Deterrence.md",
+    "Personal Readings/Videos/Patrick Boyle/Patrick Boyle.md",
+    "Personal Readings/Videos/Patrick Boyle/Argentinean Economy.md",
+    "Personal Readings/Videos/Three Wonks/Three Wonks.md",
+    "Personal Readings/Videos/Three Wonks/Javier Milei.md",
+    "Personal Readings/Videos/Patrick Boyle",
+    "Personal Readings/Videos/Three Wonks",
+    "Personal Readings/Videos",
     "Economics/Microeconomics/2nd Workshop.md",
     "Economics/Microeconomics/The Market.md",
-    "Economics/Maths for Business and Economics 2/Vectors and Matrices/Matrices.md",
     "Economics/Images/Pasted image 20240206155211.png",
     "Economics/Images/Pasted image 20240206153805.png",
     "Economics/Images/Pasted image 20240206153101.png",
-    "Philosophy/How Biology Works/Adaptation and Adaptationism.md",
     "Economics/Economics Research Methods/Economic Research Methods.md",
     "Philosophy/How Biology Works",
     "Economics/Economics Research Methods/Multivariate Regression Analysis.md",
-    "Economics/Stata.md",
-    "Economics/Industrial Economics/Entry Barriers and Entry Deterrence.md",
     "Economics/Industrial Economics",
-    "Economics/Econometrics and Statistics/Econometrics/Algebraic Properties of OLS.md",
     "Economics/Images/Pasted image 20240205162436.png",
     "Economics/Images/Pasted image 20240205161941.png",
-    "Economics/Econometrics and Statistics/Econometrics/SLRM Estimation.md",
     "Economics/Images/Pasted image 20240205154535.png",
     "Economics/Images/Pasted image 20240205153647.png",
     "Economics/Images/Pasted image 20240205152442.png",
-    "Economics/Econometrics and Statistics/Econometrics/Simple Linear Regression Model.md",
     "Economics/Microeconomics/Hal R. Varian - Intermediate Microeconomics_ A Modern Approach, 8th Edition  -W.W. Norton & Co. (2010).pdf",
     "Economics/Maths for Business and Economics 2/Vectors and Matrices/Vectors and Properties of Vectors.md",
     "Economics/Maths for Business and Economics 2/Introduction.md",
@@ -195,21 +204,13 @@
     "Economics/Maths for Business and Economics 2",
     "Philosophy/Introduction to Metaphysics/Material Constitution Lecture.md",
     "Economics/Maths/Untitled",
-    "Maths",
     "Philosophy/Introduction to Metaphysics/Material Constitution.md",
     "Economics/Images/Pasted image 20240129162940.png",
     "Economics/Images/Pasted image 20240129162548.png",
-    "Economics/Econometrics and Statistics/Econometrics/Introduction.md",
-    "Philosophy/Introduction to Metaphysics/Readings/Burke, Michael (1992) - Copper statues and pieces of copper.pdf",
-    "Philosophy/Introduction to Metaphysics/Readings/Thomson, Judith Jarvis (1998) - The statue and the clay, sections 1 and 2.pdf",
     "Personal Readings/Patrick Boyle/Argentinean Economy.md",
     "Personal Readings/Patrick Boyle/Patrick Boyle.md",
     "Personal Readings/Fiscal Policy under Low Interest Rates.md",
     "Personal Readings/EU-UK Free Trade Agreement.md",
-    "University Events/Competition and Markets Authority.md",
-    "Economics/Macroeconomics/Open Economy/Economics of Brexit.md",
-    "Economics/Macroeconomics/Classical, Two Period and RBC Model/Simple Classical Model.md",
-    "Economics/Macroeconomics/Open Economy/Optimal Currency Areas.md",
     "Untitled.canvas"
   ]
 }

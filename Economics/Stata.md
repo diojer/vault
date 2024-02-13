@@ -4,4 +4,5 @@
 	- Residual: residual sum squared
 - Coefficient
 	- x-variable: $\beta_{2}$
-	- _cons: $\beta_{1}$
+	- \_cons: $\beta_{1}$
+

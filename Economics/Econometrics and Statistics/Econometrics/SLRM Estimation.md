@@ -34,6 +34,7 @@ The OLS estimators $\hat{\beta}_{1}\text{ and } \hat{\beta}_{2}$ can be found by
 # Interpretation
 ## $b_{2}$
 - $b_{2}=\frac{\delta \hat{y}}{\delta \hat{x}}$
+- i.e., marginal effect
 ## $b_{1}$
 This one is less important, represents the y-intercept.
 Harder to use when values near $x=0$ are not well documented.
