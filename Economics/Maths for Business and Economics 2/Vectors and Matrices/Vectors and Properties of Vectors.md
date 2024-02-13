@@ -1,3 +1,4 @@
+#maths
 # What is a Vector?
 A vector is a series of numbers that tells us a specific point, its direction, and its magnitude.
 ## Row Vector

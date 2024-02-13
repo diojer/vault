@@ -13,3 +13,5 @@ Video by [[Three Wonks]], uploaded 6th January 2024
 	- Although, previous governments like Nestor Kirchner's did issue huge amount of emergency decrees
 - Dollarisation is bad
 - Cancelling labour market regulations may lead to workers getting "screwed"
+- Rent can be paid in any currency
+- 
