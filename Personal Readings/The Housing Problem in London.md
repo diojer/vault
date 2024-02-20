@@ -1,3 +1,4 @@
+#economics #housing #development
 By Sir Mark Boleat, accessed on the 13th of February 2024. Available [[housing_2017.pdf|here]] or [here](https://boleat.com/materials/housing_2017.pdf)
 # Summary
 # Contents
