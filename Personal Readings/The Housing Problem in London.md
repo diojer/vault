@@ -100,3 +100,5 @@ To be developed for housing, land must meet four tests:
 2. It is in a condition that can be built on, and the necessary infrastructure is in place or will be in place in a timely manner,
 3. It has or is likely to have the necessary planning permission,
 4. The housing is capable of being sold at a price that will yield an adequate return
+
+Almost 40% of councillors think that they will 
