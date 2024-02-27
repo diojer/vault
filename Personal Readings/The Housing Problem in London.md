@@ -2,6 +2,11 @@
 By Sir Mark Boleat, accessed on the 13th of February 2024. Available [[housing_2017.pdf|here]] or [here](https://boleat.com/materials/housing_2017.pdf)
 # Summary
 # Contents
+- [[#The Perceived Problem - and why it is wrong]]
+- [[#The Real Problem]]
+	- [[#Councillors and Residents]]
+	- [[#Barriers to Development]]
+		- [[#Planning Departments]]
 # The Perceived Problem - and why it is wrong
 The high cost of housing in London is causing real problems. Housing costs now show up as a major concern in opinion surveys. Businesses find it more difficult to recruit at pay levels they can afford.
 - [PwC's Cities of Opportunity](https://www.pwc.com/gx/en/capital-projects-infrastructure/publications/assets/pwc-cities-of-opportunity-building-the-future.pdf) ranks London highly overall, but places it 26th out of 30 in terms of cost.
@@ -101,3 +106,38 @@ To be developed for housing, land must meet four tests:
 2. It is in a condition that can be built on, and the necessary infrastructure is in place or will be in place in a timely manner,
 3. It has or is likely to have the necessary planning permission,
 4. The housing is capable of being sold at a price that will yield an adequate return
+## Councillors and Residents
+### Councillors
+40% of councillors in inner London and 21% in outer London reported that they would receive less support if they advocated for building more housing - the total average is around 33%. However, the role of the planning committee should be to decide whether the planning application is in accordance with their set policies, *not* to mediate between developers and objectors. Source [here](https://www.businessldn.co.uk/sites/default/files/documents/2018-07/MovingOut_0.pdf)
+- The vast majority (92%) of councillors agree that there is a housing problem
+- 42% of councillors in South and West London are worried about receiving less support
+- 23% and 28% of councillors in North and East London are worried about receiving less support
+- 58% of Conservative councillors are worried
+	- 17% of Labour councillors
+	- 40% of Lib Dem councillors
+### Residents
+Real Londoners are "Not so NIMBY" - 41% of residents in London would look on their local politicians favourably if they pushed for more housing/politicians who wanted to build homes in their local area.
+- 32% said it wouldn't change how they viewed politicians
+- 16% said they would view politicians negatively for building homes in their local area.
+- 26% of Conservative voters (in 2010) said they would look negatively
+	- 12% of Labour voters
+	- 20% of Lib Dem voters
+76% of public respondents think there is a housing problem, but this drops to 58% when asked if there is a problem in their area, dropping to 53% if they support more development.
+- Barring central London, the proportion of people who think there is a shortage is always higher than the people who want to do something about it.
+## Barriers to Development
+In order to have the best possible chances of their applications getting approved, developers have to "bribe" local authorities with amenity improvements.
+- This doesn't sound too bad, it's a way of incorporating social benefit into private costs
+- However, it does certainly inhibit development.
+
+There has also been an inflation with respect to the time it takes for an application being accepted.
+- 1 month used to be the norm, now it is 6 months.
+- This could be due to conservation or archaeological reasons
+	- This is probably not too bad, the archaeology industry needs the ability to get sites.
+### Planning
+There are 33 separate planning parties in London.
+- This creates a difficult situation for small developers who want to branch out into different boroughs.
+
+In areas where an authority wants significant commercial development, the wisest decision to take is to have no residents, as they will have a powerful voice in planning and likely refuse new building.
+- The City of London has a clear policy of not allowing residential development.
+- Even if most residents would like to live in a commercial area, different considerations, like the Right to Light, makes it easy for one resident to hold up new development.
+## Political Leadership
