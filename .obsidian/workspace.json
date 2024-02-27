@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Econometrics and Statistics/Econometrics/SLRM Non-Linearity.md",
+                "file": "Personal Readings/The Housing Problem in London.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Econometrics and Statistics/Econometrics/SLRM Non-Linearity.md",
+                "file": "Personal Readings/The Housing Problem in London.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Econometrics and Statistics/Econometrics/SLRM Non-Linearity.md",
+                "file": "Personal Readings/The Housing Problem in London.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Econometrics and Statistics/Econometrics/SLRM Non-Linearity.md"
+                "file": "Personal Readings/The Housing Problem in London.md"
               }
             }
           },
@@ -165,52 +165,52 @@
   },
   "active": "43b89848f3c95a0b",
   "lastOpenFiles": [
-    "Economics/Econometrics and Statistics/Econometrics/Algebraic Properties of OLS.md",
-    "Economics/Econometrics and Statistics/Econometrics/Introduction.md",
-    "Economics/Econometrics and Statistics/Econometrics/SLRM Non-Linearity.md",
+    "Economics/Maths for Business and Economics 2/Vectors and Matrices/Optimisation.md",
+    "Economics/Maths for Business and Economics 2/Vectors and Matrices/Matrices.md",
+    "Economics/Maths for Business and Economics 2/Vectors and Matrices/Eigenvalues.md",
+    "Philosophy/How Biology Works/Individuals and Species.md",
+    "Economics/Econometrics and Statistics/Econometrics/Limits of the SLRM.md",
+    "Economics/Images/Pasted image 20240226163426.png",
+    "Economics/Econometrics and Statistics/Econometrics/Hypothesis Testing on Estimators.md",
     "Economics/Econometrics and Statistics/Econometrics/Simple Linear Regression Model.md",
     "Economics/Econometrics and Statistics/Econometrics/SLRM Estimation.md",
-    "Economics/Stata.md",
-    "Economics/Maths for Business and Economics 2/Vectors and Matrices/Matrices.md",
-    "Philosophy/How Biology Works/Adaptation and Adaptationism.md",
+    "Economics/Images/Pasted image 20240226155440.png",
+    "Economics/Images/Pasted image 20240226153751.png",
+    "Economics/Images/Pasted image 20240226153331.png",
+    "Economics/Images/Pasted image 20240226153230.png",
+    "Economics/Econometrics and Statistics/Econometrics/SLRM Non-Linearity.md",
+    "Economics/Econometrics and Statistics/Econometrics/Algebraic Properties of OLS.md",
+    "Economics/Econometrics and Statistics/Econometrics/Introduction.md",
+    "Economics/Econometrics and Statistics/Econometrics/Workshops/Workshop 1.md",
+    "Economics/Econometrics and Statistics/Econometrics/Workshops",
+    "Philosophy/How Biology Works/Functions and Teleology.md",
+    "Economics/Economics Research Methods/Multivariate Regression Analysis.md",
+    "Economics/Economics Research Methods/Economic Research Methods.md",
+    "Economics/Economics Research Methods/Seminars/Seminar 1.md",
+    "Economics/Economics Research Methods/Seminars",
     "Economics/Industrial Economics/Entry Barriers and Entry Deterrence.md",
-    "Personal Readings/Videos/Patrick Boyle/Patrick Boyle.md",
-    "Personal Readings/Videos/Patrick Boyle/Argentinean Economy.md",
-    "Personal Readings/Videos/Three Wonks/Three Wonks.md",
-    "Personal Readings/Videos/Three Wonks/Javier Milei.md",
+    "Economics/Economics Research Methods/Natural Experiments.md",
+    "Economics/Microeconomics/(First edition) Hal R. VArian - Intermediate Microeconomics with Calculus. Hal-W. W. Norton & Company (2014).pdf",
+    "Economics/Microeconomics/Hal R. Varian - Intermediate Microeconomics_ A Modern Approach, 8th Edition  -W.W. Norton & Co. (2010).pdf",
+    "Economics/Microeconomics/The Market.md",
+    "Economics/Microeconomics/2nd Workshop.md",
+    "Personal Readings/PDFs/housing_2017.pdf",
+    "Economics/Maths for Business and Economics 2/Vectors and Matrices/Rank of a Matrix.md",
+    "Economics/Maths for Business and Economics 2/Vectors and Matrices/Cramer's Rule.md",
+    "Economics/Images/Pasted image 20240213151151.png",
+    "Economics/Maths for Business and Economics 2/Vectors and Matrices/Vectors and Properties of Vectors.md",
+    "Philosophy/How Biology Works/Sexual Selection.md",
+    "Economics/Images/Pasted image 20240213141027.png",
+    "Personal Readings/The Housing Problem in London.md",
+    "Personal Readings/attachments/Pasted image 20240213021010.png",
+    "Personal Readings/PDFs",
+    "Economics/Stata.md",
     "Personal Readings/Videos/Patrick Boyle",
     "Personal Readings/Videos/Three Wonks",
     "Personal Readings/Videos",
-    "Economics/Microeconomics/2nd Workshop.md",
-    "Economics/Microeconomics/The Market.md",
     "Economics/Images/Pasted image 20240206155211.png",
     "Economics/Images/Pasted image 20240206153805.png",
-    "Economics/Images/Pasted image 20240206153101.png",
-    "Economics/Economics Research Methods/Economic Research Methods.md",
     "Philosophy/How Biology Works",
-    "Economics/Economics Research Methods/Multivariate Regression Analysis.md",
-    "Economics/Industrial Economics",
-    "Economics/Images/Pasted image 20240205162436.png",
-    "Economics/Images/Pasted image 20240205161941.png",
-    "Economics/Images/Pasted image 20240205154535.png",
-    "Economics/Images/Pasted image 20240205153647.png",
-    "Economics/Images/Pasted image 20240205152442.png",
-    "Economics/Microeconomics/Hal R. Varian - Intermediate Microeconomics_ A Modern Approach, 8th Edition  -W.W. Norton & Co. (2010).pdf",
-    "Economics/Maths for Business and Economics 2/Vectors and Matrices/Vectors and Properties of Vectors.md",
-    "Economics/Maths for Business and Economics 2/Introduction.md",
-    "Economics/Economics Research Methods",
-    "Economics/Maths/Formula Sheet.md",
-    "Economics/Maths for Business and Economics 2/Vectors and Matrices",
-    "Economics/Maths for Business and Economics 2",
-    "Philosophy/Introduction to Metaphysics/Material Constitution Lecture.md",
-    "Economics/Maths/Untitled",
-    "Philosophy/Introduction to Metaphysics/Material Constitution.md",
-    "Economics/Images/Pasted image 20240129162940.png",
-    "Economics/Images/Pasted image 20240129162548.png",
-    "Personal Readings/Patrick Boyle/Argentinean Economy.md",
-    "Personal Readings/Patrick Boyle/Patrick Boyle.md",
-    "Personal Readings/Fiscal Policy under Low Interest Rates.md",
-    "Personal Readings/EU-UK Free Trade Agreement.md",
     "Untitled.canvas"
   ]
 }
