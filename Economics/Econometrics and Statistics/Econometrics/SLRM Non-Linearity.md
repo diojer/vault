@@ -1,15 +1,4 @@
 #econometrics #maths #model
-# Changing Units
-Take the equation: $\hat{y}_{i} =50+0.2x_{i}$.
-Say that the equation represents the relationship between income, x, and food expenditure, y. So:
-- $b_{2}=2$.
-- $b_{1}=50$.
-If we say that y is in £s, then for every extra £1 received in income, we would spend £0.2 on food expenditure.
-
-If we change food expenditure to be expressed in 1000s of pounds, i.e., divided by 1000, then $b_{1},b_{2}$ are divided by 1000.
-
-If we change income to be expressed in 1000s of pounds, i.e., divided by 1000, then $b_{2}$ is multiplied by 1000.
-
 # Non-linear Relationship
 Suppose that the relation between x and y is of the form: $y_{i}=\beta_{1}+\beta_{2}\sqrt{ x_{i} }+e_{i}$.
 - We can just replace $\sqrt{ x }$ with $z$.
