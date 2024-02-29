@@ -23,4 +23,17 @@ However,
 ## Difficult Cases
 - Swamp people have no lineage
 - Artificially created life
-- 
+# Seminar
+1. What are some of the approaches to species?
+	1. Biological species concept
+		1. A group of organisms that can interbreed with each-other to reproduce
+		2. Doesn't seem to account for asexual reproduction (would they all be separate species?)
+	2. Morphological
+		1. Visual similarities can group a species,
+	3. Phylogenetic
+		1. All descendants of a particular ancestor are species
+		2. Seems to arbitrarily pick an ancestor
+2. What are some approaches to species pluralism, what does Ereshefsky say about them?
+	1. If you can't speciate all organisms using one set of criteria, that casts doubt on the reliability of species as a single category, or makes the idea of multiple possible specie concepts favourable.
+3. What is the heterogeneity argument. and how does "anti-realism" argument relate to it?
+	1. 
