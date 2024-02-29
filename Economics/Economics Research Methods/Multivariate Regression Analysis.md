@@ -1,4 +1,4 @@
-#economics #reserach #regression
+#economics #research #regression
 [[Economic Research Methods]]
 
 # Important Terms

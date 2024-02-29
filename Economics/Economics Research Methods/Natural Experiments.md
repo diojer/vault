@@ -1,3 +1,4 @@
+#economics #research
 - Observations fall into control group "naturally", because of an exogenous event, rather than being randomly selected and assigned by the researcher.
 - The researcher exploits differences in outcomes between a treatment group and a control group.
 - The critical element is that the treatment status is beyond the researcher's control.
