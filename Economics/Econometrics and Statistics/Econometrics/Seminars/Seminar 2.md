@@ -7,4 +7,4 @@
 3. This model likely has extremely good fit for the data.
 4. £1=$1.39
 	1. If hourly earnings were measured in dollars rather than pounds, $\beta_{1}$ and $\beta_{2}$ would be multiplied by 1.39.
-5. The variance in the years of schooling has likely decreased, because 
+5. The variation in the years of schooling has decreased, and so the estimators will have an increased variance.
