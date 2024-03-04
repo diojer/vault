@@ -12,4 +12,4 @@ If we change income to be expressed in 1000s of pounds, i.e., divided by 1000, t
 Changing the sample variance changes the variance of $b_{1}$ and $b_{2}$ in the same direction.
 - This essentially increases the error term, so it makes sense that it would make the estimators less accurate.
 Changing the variance of the explanatory variable $x_{i}$ changes the variance of $b_{1}$ and $b_{2}$ in the opposite direction
-- If we sample more individuals across different strata, it makes sense that the accuracy of our coefficients would actually increase. 
+- If we sample more individuals across different strata, it makes sense that the accuracy of our coefficients would actually increase.
