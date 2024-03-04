@@ -6,14 +6,14 @@ Accessed on the 5th of December, 2023, on Wikipedia
 - Free movement has been abolished, and the UK must negotiate cargo plane flights with each EU member state separately. 
 - A committee has been assembled to resolve disputes, however if it fails the dispute is sent to an independent arbitration panel.
 # Contents
-- [[#Trade In Goods]]
-- [[#Trade In Services]]
-- [[#Energy, Public Policy, and other aspects of trade]]
-- [[#Movement of Persons]]
-- [[#Aviation and Road Transport]]
-- [[#Fisheries]]
-- [[#Cooperation and UK Participation in EU programmes]]
-- [[#Institutional Provisions and Dispute Settlement]]
+```table-of-contents
+title: 
+style: nestedList # TOC style (nestedList|inlineFirstLevel)
+minLevel: 0 # Include headings from the specified level
+maxLevel: 0 # Include headings up to the specified level
+includeLinks: true # Make headings clickable
+debugInConsole: false # Print debug info in Obsidian console
+```
 # Trade In Goods
 - Trade in goods between the EU and UK is not subject to any tariffs or quotas.
 - As a result of the UK leaving the customs union, customs formalities are required between the two parties, and VAT and certain other duties apply on import.

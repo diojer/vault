@@ -2,11 +2,14 @@
 By Sir Mark Boleat, accessed on the 13th of February 2024. Available [[housing_2017.pdf|here]] or [here](https://boleat.com/materials/housing_2017.pdf)
 # Summary
 # Contents
-- [[#The Perceived Problem - and why it is wrong]]
-- [[#The Real Problem]]
-	- [[#Councillors and Residents]]
-	- [[#Barriers to Development]]
-		- [[#Planning Departments]]
+```table-of-contents
+title: 
+style: nestedList # TOC style (nestedList|inlineFirstLevel)
+minLevel: 0 # Include headings from the specified level
+maxLevel: 0 # Include headings up to the specified level
+includeLinks: true # Make headings clickable
+debugInConsole: false # Print debug info in Obsidian console
+```
 # The Perceived Problem - and why it is wrong
 The high cost of housing in London is causing real problems. Housing costs now show up as a major concern in opinion surveys. Businesses find it more difficult to recruit at pay levels they can afford.
 - [PwC's Cities of Opportunity](https://www.pwc.com/gx/en/capital-projects-infrastructure/publications/assets/pwc-cities-of-opportunity-building-the-future.pdf) ranks London highly overall, but places it 26th out of 30 in terms of cost.

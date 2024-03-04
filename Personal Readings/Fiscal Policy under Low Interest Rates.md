@@ -3,38 +3,14 @@ Published on the 20th of December, 2021 by Olivier Blanchard
 # Summary
 
 # Contents
-- [[#Chapter 1 Introduction]]
-- [[#Chapter 2 Preliminaries]] (Important factors of interest rates)
-	- Section 1: r*
-	- Section 2: Safe and risky rates
-	- Section 3: Central banks
-	- Section 4: $r-g<0$
-	- Section 5: Effective lower bound
-	- Section 6: Conclusion
-- [[#Chapter 3 The evolution of interest rates]]
-	- Section 1: Evolution of safe real rates
-	- Section 2: Gap between growth rates and safe rates
-	- Section 3: Potential factors behind the decline in safe rates
-	- Section 4: Relation between growth rates and interest rates
-	- Section 5: The role of changing demographics
-	- Section 6: Conclusion
-- Chapter 4: How much fiscal space does a country have?
-	- Section 1: Arithmetic of debt dynamics
-	- Section 2: Problems with the idea of infinite fiscal space when $r-g<0$
-	- Section 3: The case for fiscal rules to ensure debt sustainability
-	- Section 4: Relation between public investment and debt sustainability
-	- Section 5: Risks of sudden stops
-	- Section 6: Looking at two issues about the relation of central banks to debt sustainability
-	- Section 7: Conclusion
-- Chapter 5: Welfare costs and benefits of debt and deficits
-	- Section 1: Welfare costs of debt under certainty
-	- Section 2: Welfare costs of debt under uncertainty
-	- Section 3: Welfare benefits of debt and deficits
-	- Section 4: Conclusion
-- Chapter 6: Three examples of fiscal policy in action
-	- Section 1: *Too little?*
-	- Section 2: *Just right?*
-	- Section 3: *Too much?*
+```table-of-contents
+title: 
+style: nestedList # TOC style (nestedList|inlineFirstLevel)
+minLevel: 0 # Include headings from the specified level
+maxLevel: 0 # Include headings up to the specified level
+includeLinks: true # Make headings clickable
+debugInConsole: false # Print debug info in Obsidian console
+```
 # Chapter 1: Introduction
 Policy makers in advanced economies face an unusual fiscal environment.
 - Net debt ratios are historically high, substantially higher than they were in 2007.
