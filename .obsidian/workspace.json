@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Econometrics and Statistics/Econometrics/MLRM.md",
+                "file": "Economics/Industrial Economics/Forms of Collusions.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Econometrics and Statistics/Econometrics/MLRM.md",
+                "file": "Economics/Industrial Economics/Forms of Collusions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Econometrics and Statistics/Econometrics/MLRM.md",
+                "file": "Economics/Industrial Economics/Forms of Collusions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Econometrics and Statistics/Econometrics/MLRM.md"
+                "file": "Economics/Industrial Economics/Forms of Collusions.md"
               }
             }
           },
@@ -176,11 +176,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d9fd076d4b3394e",
+  "active": "ddb9eb0abfadfc5d",
   "lastOpenFiles": [
+    "Leeds Think Tank/Urban Planning and Transport/Bibliography.md",
+    "Economics/Industrial Economics/Forms of Collusions.md",
+    "Leeds Think Tank/Urban Planning and Transport/attachments/1-s2.0-S2352146514002117-main.pdf",
+    "Leeds Think Tank/Urban Planning and Transport/attachments/naegeli-et-al-2012-checklist-for-successful-application-of-tram-train-systems-in-europe.pdf",
+    "Leeds Think Tank/Urban Planning and Transport/attachments",
+    "Leeds Think Tank/Urban Planning and Transport/Plan for Restructuring and Direction.md",
+    "Economics/Econometrics and Statistics/Econometrics/MLRM.md",
+    "Leeds Think Tank/Urban Planning and Transport",
+    "Leeds Think Tank",
     "Economics/Images/Pasted image 20240304164445.png",
     "Economics/Econometrics and Statistics/Econometrics/Hypothesis Testing on Estimators.md",
-    "Economics/Econometrics and Statistics/Econometrics/MLRM.md",
     "Economics/Econometrics and Statistics/Econometrics/Algebraic Properties of OLS.md",
     "Economics/Econometrics and Statistics/Econometrics/Limits of the SLRM.md",
     "Economics/Econometrics and Statistics/Econometrics/Introduction.md",
@@ -214,16 +222,8 @@
     "Economics/Images/Pasted image 20240226155440.png",
     "Economics/Images/Pasted image 20240226153751.png",
     "Economics/Images/Pasted image 20240226153331.png",
-    "Economics/Images/Pasted image 20240226153230.png",
     "Economics/Econometrics and Statistics/Econometrics/Workshops/Workshop 1.md",
     "Economics/Econometrics and Statistics/Econometrics/Workshops",
-    "Philosophy/How Biology Works/Functions and Teleology.md",
-    "Economics/Economics Research Methods/Economic Research Methods.md",
-    "Economics/Economics Research Methods/Seminars",
-    "Economics/Microeconomics/(First edition) Hal R. VArian - Intermediate Microeconomics with Calculus. Hal-W. W. Norton & Company (2014).pdf",
-    "Economics/Microeconomics/Hal R. Varian - Intermediate Microeconomics_ A Modern Approach, 8th Edition  -W.W. Norton & Co. (2010).pdf",
-    "Personal Readings/PDFs/housing_2017.pdf",
-    "Personal Readings/PDFs",
     "Untitled.canvas"
   ]
 }
