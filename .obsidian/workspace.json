@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Industrial Economics/Forms of Collusions.md",
+                "file": "Philosophy/How Biology Works/Health and Disease.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Industrial Economics/Forms of Collusions.md",
+                "file": "Philosophy/How Biology Works/Health and Disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Industrial Economics/Forms of Collusions.md",
+                "file": "Philosophy/How Biology Works/Health and Disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Industrial Economics/Forms of Collusions.md"
+                "file": "Philosophy/How Biology Works/Health and Disease.md"
               }
             }
           },
@@ -176,10 +176,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ddb9eb0abfadfc5d",
+  "active": "6d9fd076d4b3394e",
   "lastOpenFiles": [
-    "Leeds Think Tank/Urban Planning and Transport/Bibliography.md",
+    "Personal Readings/Leeds Housing Strategy 2022-2027.md",
+    "Philosophy/How Biology Works/Health and Disease.md",
+    "Personal Readings/The Housing Problem in London.md",
+    "Economics/Economics Research Methods/Seminars/Seminar 2.md",
+    "Economics/Economics Research Methods/Seminars/Seminar 1.md",
     "Economics/Industrial Economics/Forms of Collusions.md",
+    "Leeds Think Tank/Urban Planning and Transport/Bibliography.md",
     "Leeds Think Tank/Urban Planning and Transport/attachments/1-s2.0-S2352146514002117-main.pdf",
     "Leeds Think Tank/Urban Planning and Transport/attachments/naegeli-et-al-2012-checklist-for-successful-application-of-tram-train-systems-in-europe.pdf",
     "Leeds Think Tank/Urban Planning and Transport/attachments",
@@ -196,7 +201,6 @@
     "Economics/Econometrics and Statistics/Econometrics/SLRM Estimation.md",
     "Economics/Econometrics and Statistics/Econometrics/SLRM Non-Linearity.md",
     "Economics/Images/Pasted image 20240304162808.png",
-    "Personal Readings/The Housing Problem in London.md",
     "Economics/Images/Pasted image 20240304154947.png",
     "Economics/Images/Pasted image 20240304154708.png",
     "Economics/Econometrics and Statistics/Econometrics/Propagating Changes To Estimators.md",
@@ -215,14 +219,10 @@
     "conflict-files-obsidian-git.md",
     "Economics/Industrial Economics/Seminars/Seminar 1.md",
     "Economics/Industrial Economics/Seminars",
-    "Economics/Maths for Business and Economics 2/Vectors and Matrices/Optimisation.md",
-    "Economics/Maths for Business and Economics 2/Vectors and Matrices/Matrices.md",
-    "Economics/Maths for Business and Economics 2/Vectors and Matrices/Eigenvalues.md",
     "Economics/Images/Pasted image 20240226163426.png",
     "Economics/Images/Pasted image 20240226155440.png",
     "Economics/Images/Pasted image 20240226153751.png",
     "Economics/Images/Pasted image 20240226153331.png",
-    "Economics/Econometrics and Statistics/Econometrics/Workshops/Workshop 1.md",
     "Economics/Econometrics and Statistics/Econometrics/Workshops",
     "Untitled.canvas"
   ]
