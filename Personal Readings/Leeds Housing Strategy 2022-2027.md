@@ -43,4 +43,3 @@ There are over 26,000 applicants.
 - Average of over 300 bids for every council home
 The Leeds City Council are "considering" removing people from the list - available [here](https://www.housingtoday.co.uk/news/leeds-council-considers-removing-18000-applicants-from-housing-register/5127998.article)
 - Deliver 800 new affordable homes per year from 2022-5
-- 
