@@ -1,4 +1,4 @@
-#economics #housing #
+#economics #housing
 Research paper by Nick Gallent, Claudio de Magalhaes and Sonia Freire Trigo. Accessed on the 10/03/2024, Available [here](https://www.tandfonline.com/doi/full/10.1080/02697459.2020.1829283?needAccess=true)
 # Summary
 - "Planning for the Future" White paper by the Ministry of Housing, Communities and Local Government available [here](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/958421/Planning_for_the_Future_web_accessible_version.pdf) suggests some kind of "automatic permission" mechanism for new housing (and other forms of development). Compliant development should follow automatically without recourse to local planning committees.
