@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/How Biology Works/Health and Disease.md",
+                "file": "Economics/Econometrics and Statistics/Econometrics/Dummy Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "doctrine",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/How Biology Works/Health and Disease.md",
+                "file": "Economics/Econometrics and Statistics/Econometrics/Dummy Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/How Biology Works/Health and Disease.md",
+                "file": "Economics/Econometrics and Statistics/Econometrics/Dummy Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/How Biology Works/Health and Disease.md"
+                "file": "Economics/Econometrics and Statistics/Econometrics/Dummy Variables.md"
               }
             }
           },
@@ -176,29 +176,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d9fd076d4b3394e",
+  "active": "ddb9eb0abfadfc5d",
   "lastOpenFiles": [
-    "Personal Readings/Leeds Housing Strategy 2022-2027.md",
+    "Leeds Think Tank/Urban Planning and Transport/Plan for Restructuring and Direction.md",
+    "Economics/Econometrics and Statistics/Econometrics/Dummy Variables.md",
+    "Leeds Think Tank/Urban Planning and Transport/Bibliography.md",
+    "Economics/Econometrics and Statistics/Econometrics/Hypothesis Testing on Estimators.md",
+    "Economics/Econometrics and Statistics/Econometrics/Algebraic Properties of OLS.md",
+    "Economics/Econometrics and Statistics/Econometrics/MLRM.md",
+    "Economics/Econometrics and Statistics/Econometrics/Limits of the SLRM.md",
+    "Economics/Econometrics and Statistics/Econometrics/SLRM Estimation.md",
+    "Economics/Econometrics and Statistics/Econometrics/Simple Linear Regression Model.md",
     "Philosophy/How Biology Works/Health and Disease.md",
+    "Personal Readings/Leeds Housing Strategy 2022-2027.md",
     "Personal Readings/The Housing Problem in London.md",
     "Economics/Economics Research Methods/Seminars/Seminar 2.md",
     "Economics/Economics Research Methods/Seminars/Seminar 1.md",
     "Economics/Industrial Economics/Forms of Collusions.md",
-    "Leeds Think Tank/Urban Planning and Transport/Bibliography.md",
     "Leeds Think Tank/Urban Planning and Transport/attachments/1-s2.0-S2352146514002117-main.pdf",
     "Leeds Think Tank/Urban Planning and Transport/attachments/naegeli-et-al-2012-checklist-for-successful-application-of-tram-train-systems-in-europe.pdf",
     "Leeds Think Tank/Urban Planning and Transport/attachments",
-    "Leeds Think Tank/Urban Planning and Transport/Plan for Restructuring and Direction.md",
-    "Economics/Econometrics and Statistics/Econometrics/MLRM.md",
     "Leeds Think Tank/Urban Planning and Transport",
     "Leeds Think Tank",
     "Economics/Images/Pasted image 20240304164445.png",
-    "Economics/Econometrics and Statistics/Econometrics/Hypothesis Testing on Estimators.md",
-    "Economics/Econometrics and Statistics/Econometrics/Algebraic Properties of OLS.md",
-    "Economics/Econometrics and Statistics/Econometrics/Limits of the SLRM.md",
     "Economics/Econometrics and Statistics/Econometrics/Introduction.md",
-    "Economics/Econometrics and Statistics/Econometrics/Simple Linear Regression Model.md",
-    "Economics/Econometrics and Statistics/Econometrics/SLRM Estimation.md",
     "Economics/Econometrics and Statistics/Econometrics/SLRM Non-Linearity.md",
     "Economics/Images/Pasted image 20240304162808.png",
     "Economics/Images/Pasted image 20240304154947.png",
@@ -217,7 +218,6 @@
     "Economics/Econometrics and Statistics/Econometrics/Seminars/Seminar 2.md",
     "Economics/Econometrics and Statistics/Econometrics/Seminars",
     "conflict-files-obsidian-git.md",
-    "Economics/Industrial Economics/Seminars/Seminar 1.md",
     "Economics/Industrial Economics/Seminars",
     "Economics/Images/Pasted image 20240226163426.png",
     "Economics/Images/Pasted image 20240226155440.png",
