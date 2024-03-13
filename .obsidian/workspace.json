@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Econometrics and Statistics/Econometrics/Dummy Variables.md",
+                "file": "Economics/Maths for Business and Economics 2/Optimisation/Optimisation.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Econometrics and Statistics/Econometrics/Dummy Variables.md",
+                "file": "Economics/Maths for Business and Economics 2/Optimisation/Optimisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Econometrics and Statistics/Econometrics/Dummy Variables.md",
+                "file": "Economics/Maths for Business and Economics 2/Optimisation/Optimisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Econometrics and Statistics/Econometrics/Dummy Variables.md"
+                "file": "Economics/Maths for Business and Economics 2/Optimisation/Optimisation.md"
               }
             }
           },
@@ -176,20 +176,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ddb9eb0abfadfc5d",
+  "active": "6d9fd076d4b3394e",
   "lastOpenFiles": [
-    "Leeds Think Tank/Urban Planning and Transport/Plan for Restructuring and Direction.md",
+    "Economics/Maths for Business and Economics 2/Optimisation/Lagrangian Multiplier, Lambda.md",
+    "Economics/Maths for Business and Economics 2/Optimisation/Optimisation.md",
+    "Philosophy/How Biology Works/Metaphysics of Pregnancy.md",
+    "Economics/Maths for Business and Economics 2/Optimisation",
+    "Personal Readings/Is Zoning the Solution to the UK Housing Crisis.md",
+    "Personal Readings/The Housing Problem in London.md",
+    "Personal Readings/Tackling the UK housing crisis - is supply the answer.md",
+    "Personal Readings/Leeds Housing Strategy 2022-2027.md",
     "Economics/Econometrics and Statistics/Econometrics/Dummy Variables.md",
-    "Leeds Think Tank/Urban Planning and Transport/Bibliography.md",
+    "Economics/Econometrics and Statistics/Econometrics/MLRM.md",
+    "Economics/Econometrics and Statistics/Econometrics/Propagating Changes To Estimators.md",
+    "Economics/Econometrics and Statistics/Econometrics/Limits of the SLRM.md",
     "Economics/Econometrics and Statistics/Econometrics/Hypothesis Testing on Estimators.md",
     "Economics/Econometrics and Statistics/Econometrics/Algebraic Properties of OLS.md",
-    "Economics/Econometrics and Statistics/Econometrics/MLRM.md",
-    "Economics/Econometrics and Statistics/Econometrics/Limits of the SLRM.md",
+    "Economics/Images/Pasted image 20240311155024.png",
+    "Economics/Images/Pasted image 20240311154320.png",
+    "Economics/Images/Pasted image 20240311154305.png",
+    "Economics/Images/Pasted image 20240311153443.png",
+    "Economics/Images/Pasted image 20240311153155.png",
+    "Economics/Images/Pasted image 20240311153052.png",
+    "Personal Readings/PDFs/20190820-CaCHE-Housing-Supply-FINAL.pdf",
+    "Leeds Think Tank/Urban Planning and Transport/Plan for Restructuring and Direction.md",
+    "Leeds Think Tank/Urban Planning and Transport/Bibliography.md",
     "Economics/Econometrics and Statistics/Econometrics/SLRM Estimation.md",
     "Economics/Econometrics and Statistics/Econometrics/Simple Linear Regression Model.md",
     "Philosophy/How Biology Works/Health and Disease.md",
-    "Personal Readings/Leeds Housing Strategy 2022-2027.md",
-    "Personal Readings/The Housing Problem in London.md",
     "Economics/Economics Research Methods/Seminars/Seminar 2.md",
     "Economics/Economics Research Methods/Seminars/Seminar 1.md",
     "Economics/Industrial Economics/Forms of Collusions.md",
@@ -204,26 +218,12 @@
     "Economics/Images/Pasted image 20240304162808.png",
     "Economics/Images/Pasted image 20240304154947.png",
     "Economics/Images/Pasted image 20240304154708.png",
-    "Economics/Econometrics and Statistics/Econometrics/Propagating Changes To Estimators.md",
     "Economics/Economics Research Methods/Laboratory Experiments.md",
-    "Economics/Industrial Economics/attachments/Pasted image 20240304143950.png",
     "Economics/Industrial Economics/attachments/Diagram.svg.xml",
-    "Economics/Industrial Economics/attachments/Diagram.svg",
     "Economics/Industrial Economics/attachments",
     "Economics/Industrial Economics/Seminars/Seminar 2.md",
     "Economics/Industrial Economics/Monopoly and Monopsony.md",
-    "Economics/Economics Research Methods/Natural Experiments.md",
-    "Economics/Economics Research Methods/Multivariate Regression Analysis.md",
-    "Philosophy/How Biology Works/Individuals and Species.md",
-    "Economics/Econometrics and Statistics/Econometrics/Seminars/Seminar 2.md",
     "Economics/Econometrics and Statistics/Econometrics/Seminars",
-    "conflict-files-obsidian-git.md",
-    "Economics/Industrial Economics/Seminars",
-    "Economics/Images/Pasted image 20240226163426.png",
-    "Economics/Images/Pasted image 20240226155440.png",
-    "Economics/Images/Pasted image 20240226153751.png",
-    "Economics/Images/Pasted image 20240226153331.png",
-    "Economics/Econometrics and Statistics/Econometrics/Workshops",
     "Untitled.canvas"
   ]
 }

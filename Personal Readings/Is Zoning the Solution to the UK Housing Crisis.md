@@ -112,3 +112,40 @@ These two systems differ in numerous ways:
 - More diversified housebuilding industry.
 Advocates of PIP make similar claims.
 # Permission in Principle (PIP)
+## Predecessors
+### Pre-application Discussions
+- Can decrease uncertainty
+- Not certain to work
+	- They can still fail at application stage when planning committee's political agenda becomes clear
+### Outline Planning Permission
+- Intended to establish a principle of "intended" permission
+- Path to outline permission has become complicated in recent years
+	- "reserved matters" - matters that an applicant can choose to not submit details of with an outline planning application - have been expanding and can only be addressed at the full stage.
+### Local Development Order
+- Council sets an area of permitted land use
+- "Closest thing England has to zoning"
+- Council cannot set Section 106 contributions
+- Planning is still development-led rather than committee led.
+## PIP
+- Has the potential to be the closest thing to zoning, even more so than LDOs.
+- "In principle" details are separated from "technical" details
+- Typically confined to uncontentious sites, mainly comprising infill
+- "In principle" issues cannot be reopened at a later stage - this increases certainty of development.
+- Technical details can range from:
+	- Provision of infrastructure
+		- Open space
+		- Affordable housing
+		- Design
+		- Access
+		- Layout
+- PIP is confined to sites that are unlikely to provoke substantial community interest
+- Planning rules are committee-led.
+### Evaluation
+- Risk
+	- Risk could be reduced, but there are still uncertainties relating to brownfield redevelopment and the technical details approval stage
+	- Where there is faith in the local authority's capacity to undertake comprehensive site appraisal, risk can be reduced.
+		- This is extremely expensive and likely out of the budget of austerity-hit local councils.
+- Deferring 106 evaluations
+	- This is deferred till the technical details stage
+	- Means that uncertainty is still ingrained in PIP.
+- 
