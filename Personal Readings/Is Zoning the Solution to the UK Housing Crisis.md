@@ -148,4 +148,3 @@ Advocates of PIP make similar claims.
 - Deferring 106 evaluations
 	- This is deferred till the technical details stage
 	- Means that uncertainty is still ingrained in PIP.
-- 
