@@ -139,7 +139,7 @@ Advocates of PIP make similar claims.
 		- Access
 		- Layout
 - PIP is confined to sites that are unlikely to provoke substantial community interest
-- Planning rules are committee-led.
+- Planning evals are committee-led.
 ### Evaluation
 - Risk
 	- Risk could be reduced, but there are still uncertainties relating to brownfield redevelopment and the technical details approval stage
@@ -148,4 +148,3 @@ Advocates of PIP make similar claims.
 - Deferring 106 evaluations
 	- This is deferred till the technical details stage
 	- Means that uncertainty is still ingrained in PIP.
-- 
