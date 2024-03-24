@@ -16,4 +16,15 @@
 	- Should we try?
 	- Thoughts on my idea of focusing only on Leeds and using entry points into Leeds as starting points
 - Choosing between Electre III/IV and AHP
-- 
+# Agenda
+1. Current state of transport in Leeds
+	1. What they feel are the main problems with transport as it stands now
+	2. Where they feel the biggest improvements could be made
+	3. Do they think that tram lines from Leeds-Bradford and Leeds Centre-White Rose could alleviate some of this issues?
+2. MCA Models
+	1. What criteria do they think is important and how do they weigh them?
+3. MCA Model Advice
+	1. How should we interact with stakeholders in Bradford?
+		1. Should we focus simply on Leeds?
+	2. Should we go with Electre III/IV?
+	3. What stakeholder groups are most important to look at?
