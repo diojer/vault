@@ -1,0 +1,117 @@
+- What motivates you?
+	- I have friends and family who are disabled, and who rely on unemployment. I think that's my big picture kind of motivation, as well as a key value I share with most of the civil service in that I see an inherent value of making services more efficient and ensuring value for money when handling taxpayer money.
+	- Small picture, I'm kind of a nerd and I like focusing on the minutiae of problems, I really like this kind of policy prescription combined with prior data crunching.
+- What does the DWP do?
+	- I see you've been in the news recently for the two child benefit cap and your research on that, as well as a backlog on PIP payments. Is this the kind of research I'd be doing?
+# Behaviours
+- Behaviours being assessed:
+	- Communicating and Influencing
+		- Influencing: presenting the benefits of going with your approach
+			- Situational question
+				- "Imagine you're working on a project - you want to take it in a certain direction but stakeholders don't agree. How would you influence them positively to go in your direction?"
+					- Key is to use evidence
+					- Adapt approach where there are a few people that don't agree - try to have a 1-to-1 conversation.
+					- Be open to receiving feedback
+					- Show that you're not stubborn and not a team player
+			- Past Example question **COMMUNICATION**
+				- You don't have to tell them all the minutiae, just tell them what they need to know.
+					- Telling something to a data analyst will have a different tone to a stakeholder
+					- It's a good way to network
+				- **"Tell me about a time when you've had to adapt your communication style to address your audience"**
+					- Think of a time you really took into account your end customer
+					- I'm the technology director for Leeds Community Consulting. Being a technology director and working in web development and project management means that I have to adapt my communication style a lot. One example is sponsor reach-out initiative we carried out a few months ago, but I'll also briefly touch on my role communicating progress to executives.
+					- As part of acquiring sponsorships, me and the Operations Partner had to give presentations to potential sponsors - we needed sponsors because Leeds Community Consulting is a student run, pro-bono consultancy and we are hoping to expand in certain areas that will accrue expenses, such as hosting a website, which was the most important thing for us at the time.
+					- In my presentation with these potential sponsors, I had to adapt my communication style - they're not interested in the extreme minutiae, such as talking about the number of API calls we'll be making, they really want a rough estimate of the expenses we'll be incurring with some simple reasons why. I think that boring the sponsor during a presentation is extremely important to avoid.
+					- As a result of the presentation, we're finalising a deal with the sponsor right now to provide us funding and to set-up mutual events in their offices. (personal result, like this is something I enjoyed doing and I want to do it more.... transferable result, like this is something I think I could take with me when working at the DWP and interacting with stakeholders.)
+					- If there's time:
+						- Being a project manager and programmer, I also often have to effectively communicate complex information from my programming team to the executives, and vice-versa. Like before, the most important part for me is SIMPLIFICATION and DECOMPOSITION.
+						- It's important to meet the other person where they're at and communicate in a way they'll understand, won't make them feel stupid, won't waste their time, and will engage them.
+				- **"Tell me about a time where you successfully influenced someone?"** **INFLUENCING**
+					- I'm the policy group leader for Leeds Policy Institute's Urban Planning and Transport research team. We've been working on a project which is focused on the new tramline being developed in Leeds. Our main aim is to suggest two routes which the West Yorkshire Combined Authority should take into consideration during their public consultation in summer.
+					- The need to influence arose because someone in my research team was unhappy with the direction that the project was going in, specifically he was unhappy with the methodology we had settled on. The rest of the team and I wanted to undertake an MCDA, which involves communicating with various stakeholders to form a list of criteria with which we will rank different possible routes. However, this individual wanted to undergo a more technocratic approach, without stakeholder interaction, using only his knowledge and experience to decide optimal route placement.
+					- This issue had come up at one of our earlier meetings, so I decided to go home and prepare for a discussion with him. On the one hand, I valued his input and opinion because he was definitely very knowledgeable and knew more than me as I'd only been recently brought in as the leader. On the other hand, this was something that I did personally believe in, and the team had all previously agreed on this, and there were other people who's opinions I respected advocating this direction.
+					- To properly influence, I think you need to not only present evidence, but also meet the other person where they're at, drawing on shared values to support your view. To do this, I focused on how our approach with an MCDA would still ensure that important technical elements are still considered, even if we are leaving our criteria up to the stakeholders (explain why).
+					- The result is that he did end up coming over to our side: he's been more invested in meetings and has been contributing his fair share in writing and stakeholder engagement. (talk about personal result - this interaction made me realise I like.... and transferable result.)
+			- Pablo
+				- When giving an example or talking about evidence, be very clear and not-vague on what that evidence is.
+				- Break down action into preparation and delivery
+					- Pre-empt questions
+				- Three kinds of results:
+					- Actual result
+					- Personal
+					- Transferable result
+						- How does it connect with the placement
+	- Working Together
+		- Situational Q:
+			- "Imagine you've been asked to lead a project/piece of work with a colleague from another team. You both disagree on the approach to take. How would you handle this situation."
+				- Have a conversation with the person who disagrees
+				- Present data and evidence
+				- Focus on the common goal
+				- It's important to resolve differences to keep the team together
+		- Past Example Q
+			- "Tell me about a time when you were successful in getting people to work together?" **WORKING TOGETHER**
+				- I'm the policy group leader for Leeds Policy Institute's Urban Planning and Transport research team. We've been working on a project which is focused on the new tramline being developed in Leeds. Our main aim is to suggest two routes which the West Yorkshire Combined Authority should take into consideration during their public consultation in summer.
+				- I was brought in mainly because of my leadership abilities - the team was struggling with motivational issues and the previous leader hadn't done a good job of directing the team in a way that engaged them, or keeping track of progress.
+				- First, when I became team leader I made sure to do some background reading, getting up to date with everyone's research and the report as it currently stood. Since everyone was contributing their own research pieces, I could read them individually and understand where everyone's strengths and weaknesses lie.
+				- When I finally had my first meeting with them, I was definitely prepared. I think working together effectively involves a group of people that are motivated and can deliver quality written work at pace.
+				- To keep motivation high, I was very adamant that the team decide the direction of the research from here on out - I thought further motivation problems would arise if someone new was added to the team and didn't take into account any of their existing wishes or concerns.
+					- Another thing I did to keep motivation high was ensuring that this project was my top priority for the following months. We are a student group, so our studies typically come first, but I thought it would be best to prioritise this and lead by example.
+				- To ensure we worked together to deliver at pace, I delegated based on strengths and implemented a new actions system to keep track of due dates and tasks assigned every meeting.
+				- As a result, our progress has skyrocketed from before: we have a clear direction, more research papers are being read, more of the report is being written and because of this progress we have been able to apply to an undergraduate research conference, something which would've been impossible prior because of a lack of direction and understanding for what the project should entail.
+				- (personal result: I like leading teams, although I've already learnt this from my role as leader in most group projects)
+				- (transferable result: I think this process for working together would carry over very well to working in a policy group at the DWP.)
+# Strengths
+- Possible questions:
+	- Communicating and influencing
+		- "Are you effective at communicating?"
+		- Say yes - talk about times where you've been commended/received good feedback
+		- Think about projects where you've worked with others
+		- Simplification and decomposition
+	- Working together
+		- Reference examples and what you brought to the team
+			- I am typically the team leader and I'm typically placed in that position because my knowledge base but also because I am the first one to actually get the ball rolling with a group project. For example, I'll usually be the first one that does any extensive research on the topic we've been assigned. On the other hand, when the team works well together and others also do research, I think my ability to synthesise different approaches and influence others is what allows me to retain position as leader.
+			- Ability to keep to deadlines
+			- 
+				- Examples: Urban Planning and Transport, Fuel Poverty Essay
+- Strengths to be assessed will not be shared ahead of the interview
+- Pablo
+	- They're looking for enthusiastic people
+	- Probably going to ask about what motivates you
+	- Weakness
+		- Once your aware of your weakness, identify what the issue is, then spin it to say it's a challenge you're looking forward to.
+			- He always says it takes a little while to understand the IT systems
+		- Stakeholders for DWP
+			- Union leaders
+			- Ministers
+			- Senior policy advisors
+			- Communicating:
+				- You don't have to tell them all the minutiae, just tell them what they need to know.
+				- Telling something to a data analyst will have a different tone to a stakeholder
+				- It's a good way to network
+		- "What do you want to do if you get accepted"
+			- Volunteer for anything else
+			- I'll be networking as much as possible
+			- Look out for any internal courses that I can do
+		- "What do you do if you make a mistake"
+			- Maybe the mistake is because the information given to me was incorrect,
+			- Analyse why the mistake happened: was it my own error, or was it bad info?
+		- "What if there is a breach of ethics near you or in your team"
+			- Report it!
+			- Maybe do some research into guidelines and if I suspect there was a problem I would speak to supervisor
+		- "What is high quality written work"
+			- Don't use pretentious words
+			- Report should be tailored to audience
+			- Provide solid evidence
+				- There's three kinds of data: useable, "half"-useable (slightly out of date), useless
+		- "What is inclusivity"
+			- Not everyone is going to be an extrovert
+			- Don't be too stubborn
+			- Make space for different ways of working, 
+		- "Developing professional relationships"
+			- Get to know other interns on a human basis
+				- Do some social activities
+				- Get to understand **culture of working**. Do they prefer data-based things, or other things?
+# Questions
+1. Research into DWP things
+	1. I see you've been in the news recently for the two child benefit cap and your research on that, as well as a backlog on PIP payments. Is this the kind of research I'd be doing?
+2. What do you enjoy about working at the Department for Work and Pensions?

@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "374a620c7ceffc07",
+        "id": "ed21d71e315afe1d",
         "type": "tabs",
         "children": [
           {
-            "id": "43b89848f3c95a0b",
+            "id": "0e687a3701b59aae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Readings/The Housing Problem in London.md",
+                "file": "Jobs/Civil Service/DWP.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6d9fd076d4b3394e",
+            "id": "60933d94550e38fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leeds Think Tank/Urban Planning and Transport/Plan for Restructuring and Direction.md",
+                "file": "Jobs/Civil Service/ORR.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leeds Think Tank/Urban Planning and Transport/Plan for Restructuring and Direction.md",
+                "file": "Jobs/Civil Service/DWP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leeds Think Tank/Urban Planning and Transport/Plan for Restructuring and Direction.md",
+                "file": "Jobs/Civil Service/DWP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leeds Think Tank/Urban Planning and Transport/Plan for Restructuring and Direction.md"
+                "file": "Jobs/Civil Service/DWP.md"
               }
             }
           },
@@ -176,8 +175,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ddb9eb0abfadfc5d",
+  "active": "0e687a3701b59aae",
   "lastOpenFiles": [
+    "Jobs/Civil Service/ORR.md",
+    "Jobs/Civil Service/DWP.md",
+    "Jobs/Civil Service/Interview Practice.md",
+    "Economics/Maths for Business and Economics 2/Optimisation/Untitled.md",
+    "Economics/Maths for Business and Economics 2/Optimisation/Optimisation.md",
+    "Economics/Maths for Business and Economics 2/Optimisation/Lagrangian Multiplier, Lambda.md",
+    "Leeds Think Tank/Urban Planning and Transport/Meetings/msoA4F3.tmp",
+    "Leeds Think Tank/Urban Planning and Transport/Meetings/msoA30E.tmp",
+    "Leeds Think Tank/Urban Planning and Transport/Meetings/UBT and TrAMS Meeting 24_03_2024.pdf",
+    "Leeds Think Tank/Urban Planning and Transport/Meetings/mso1893.tmp",
+    "Leeds Think Tank/Urban Planning and Transport/Meetings/~$T and TrAMS Meeting 24_03_2024.docx",
+    "Jobs/Civil Service",
+    "Jobs",
+    "Personal Readings/The Housing Problem in London.md",
+    "Leeds Think Tank/Urban Planning and Transport/Plan for Restructuring and Direction.md",
+    "Leeds Think Tank/Urban Planning and Transport/TrAMS Meeting Agenda.md",
+    "Leeds Think Tank/Urban Planning and Transport/Meetings/UBT and TrAMS Meeting 24_03_2024.docx",
     "Leeds Think Tank/Urban Planning and Transport/Notes and Sources/Multiple Criteria Evaluation of different redesign variants of the public tram system.md",
     "Leeds Think Tank/Urban Planning and Transport/Notes and Sources",
     "Economics/Industrial Economics/attachments/Pasted image 20240321135338.png",
@@ -188,14 +204,11 @@
     "Economics/Industrial Economics/Oligopoly Prices.md",
     "Economics/Industrial Economics/Oligopoly Leadership.md",
     "Economics/Industrial Economics/Oligopoly Collusions.md",
-    "Economics/Maths for Business and Economics 2/Optimisation/Optimisation.md",
-    "Economics/Maths for Business and Economics 2/Optimisation/Lagrangian Multiplier, Lambda.md",
     "Economics/Industrial Economics/Forms of Collusions.md",
     "Economics/Economics Research Methods/Introduction to Research Ethics.md",
     "Philosophy/How Biology Works/Metaphysics of Pregnancy.md",
     "Economics/Maths for Business and Economics 2/Optimisation",
     "Personal Readings/Is Zoning the Solution to the UK Housing Crisis.md",
-    "Personal Readings/The Housing Problem in London.md",
     "Personal Readings/Tackling the UK housing crisis - is supply the answer.md",
     "Personal Readings/Leeds Housing Strategy 2022-2027.md",
     "Economics/Econometrics and Statistics/Econometrics/Dummy Variables.md",
@@ -209,21 +222,7 @@
     "Economics/Images/Pasted image 20240311154305.png",
     "Economics/Images/Pasted image 20240311153443.png",
     "Economics/Images/Pasted image 20240311153155.png",
-    "Personal Readings/PDFs/20190820-CaCHE-Housing-Supply-FINAL.pdf",
-    "Leeds Think Tank/Urban Planning and Transport/Plan for Restructuring and Direction.md",
     "Leeds Think Tank/Urban Planning and Transport/Bibliography.md",
-    "Economics/Econometrics and Statistics/Econometrics/SLRM Estimation.md",
-    "Economics/Econometrics and Statistics/Econometrics/Simple Linear Regression Model.md",
-    "Philosophy/How Biology Works/Health and Disease.md",
-    "Economics/Economics Research Methods/Seminars/Seminar 2.md",
-    "Economics/Economics Research Methods/Seminars/Seminar 1.md",
-    "Leeds Think Tank/Urban Planning and Transport/attachments/1-s2.0-S2352146514002117-main.pdf",
-    "Leeds Think Tank/Urban Planning and Transport/attachments/naegeli-et-al-2012-checklist-for-successful-application-of-tram-train-systems-in-europe.pdf",
-    "Leeds Think Tank/Urban Planning and Transport/attachments",
-    "Leeds Think Tank/Urban Planning and Transport",
-    "Leeds Think Tank",
-    "Economics/Industrial Economics/attachments/Diagram.svg.xml",
-    "Economics/Industrial Economics/attachments",
     "Untitled.canvas"
   ]
 }
