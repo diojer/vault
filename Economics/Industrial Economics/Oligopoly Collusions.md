@@ -22,5 +22,10 @@ $\pi^{(cheat)}+\pi^{(CN)}\sum_{1}^{\infty}\frac{1}{(1+r)^i}$
 - We also know that the geometric sum sums to $\frac{1}{r}$ when it approaches infinity.
 
 Whenever interest rates are low, then, firms are more likely to cooperate.
+## Firm Cooperation Condition
+$$
+\pi^{coop}+\frac{\pi^{coop}}{r}>\pi^{cheat}+\frac{\pi^{CN}}{r}
+$$
+
 ## Finite Horizon
 When the game has a last move, whoever gets the last move will cheat, given that the other co-operated last period. Since both players know this, the second-to-last player will never co-operate on their last move.

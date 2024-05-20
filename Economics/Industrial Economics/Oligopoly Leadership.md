@@ -15,3 +15,5 @@ With firm A as a leader, and firm B as a follower:
 Because firm A is aware of firm B's reaction function, they will choose their output so that they can maximise their profit level while still falling on firm B's reaction function.
 ![[Pasted image 20240321135338.png]]
 This isoprofit line intersects with their profits at a monopoly level of output, given by the point $M$. This is only achievable if firm A produces at output $q_{A,M}$, because they are factoring in firm B's reaction function into their calculations.
+
+Firm A will not respond by following their own reaction function, as they know firm B will respond and their isoprofit curve will shift upwards.
