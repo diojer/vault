@@ -1,0 +1,1 @@
+Diminishing marginal utility can be found when the second partial derivative of utility is less than 0, i.e., the coefficient is negative.
