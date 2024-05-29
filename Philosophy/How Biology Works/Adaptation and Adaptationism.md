@@ -43,7 +43,6 @@ Gould and Lewontin outline alternatives:
 There are three kinds of adaptationism:
 1. Empirical adaptationism
 	- Natural selection is ubiquitous. It is very often possible to explain and predict evolutionary processes by only considering natural selection. Other processes can usually be ignored.
-	- Natural selection is ubiquitous
 1. Methodological adaptationism
 	- The best way to explain and predict evolutionary processes is via natural selection. It is often a good idea to presuppose that a trait is an adaptation.
 	- Natural selection is the best way to approach a problem

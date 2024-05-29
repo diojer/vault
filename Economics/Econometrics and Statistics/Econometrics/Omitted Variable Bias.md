@@ -1,4 +1,3 @@
-# Omitted Variable Bias
 The error term may pick up variables that affect $y$.
 - For example, if we are finding the effect of class size on test score and run a regression with only those two variables, the error term may incorporate omitted confounding variables, such as funding.
 - Thus, our estimates are likely to be biased.
