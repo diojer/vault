@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jobs/Civil Service/DWP.md",
+                "file": "Economics/Maths for Business and Economics 2/Vectors and Matrices/Matrices.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 261.5
   },
   "right": {
     "id": "0463835573c2a040",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jobs/Civil Service/DWP.md",
+                "file": "Economics/Maths for Business and Economics 2/Vectors and Matrices/Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jobs/Civil Service/DWP.md",
+                "file": "Economics/Maths for Business and Economics 2/Vectors and Matrices/Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jobs/Civil Service/DWP.md"
+                "file": "Economics/Maths for Business and Economics 2/Vectors and Matrices/Matrices.md"
               }
             }
           },
@@ -162,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 221.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,8 +177,11 @@
   },
   "active": "0e687a3701b59aae",
   "lastOpenFiles": [
-    "Jobs/Civil Service/ORR.md",
+    "Economics/Maths for Business and Economics 2/Vectors and Matrices/Rank of a Matrix.md",
+    "Economics/Maths for Business and Economics 2/Vectors and Matrices/Matrices.md",
+    "Economics/Maths for Business and Economics 2/Vectors and Matrices/Vectors and Properties of Vectors.md",
     "Jobs/Civil Service/DWP.md",
+    "Jobs/Civil Service/ORR.md",
     "Jobs/Civil Service/Interview Practice.md",
     "Economics/Maths for Business and Economics 2/Optimisation/Untitled.md",
     "Economics/Maths for Business and Economics 2/Optimisation/Optimisation.md",
@@ -215,14 +218,11 @@
     "Economics/Econometrics and Statistics/Econometrics/MLRM.md",
     "Economics/Econometrics and Statistics/Econometrics/Propagating Changes To Estimators.md",
     "Economics/Econometrics and Statistics/Econometrics/Limits of the SLRM.md",
-    "Economics/Econometrics and Statistics/Econometrics/Hypothesis Testing on Estimators.md",
-    "Economics/Econometrics and Statistics/Econometrics/Algebraic Properties of OLS.md",
     "Economics/Images/Pasted image 20240311155024.png",
     "Economics/Images/Pasted image 20240311154320.png",
     "Economics/Images/Pasted image 20240311154305.png",
     "Economics/Images/Pasted image 20240311153443.png",
     "Economics/Images/Pasted image 20240311153155.png",
-    "Leeds Think Tank/Urban Planning and Transport/Bibliography.md",
     "Untitled.canvas"
   ]
 }
