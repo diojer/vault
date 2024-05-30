@@ -36,6 +36,17 @@ Under homoscedasticity, we should see constant variance between the residuals an
 - LM stands for Lagrange Multiplier
 First, we estimate the model:
 ![[Pasted image 20240529192411.png]]
+We want to regress the explanatory variables against the error term in order to find if there is variance changing on the x-axis.
+
+$e=\alpha_{1} +\alpha_{2}x_{2}+\alpha_{3}x_{3}\dots$
+However, rather than regressing against each explanatory value, we can just regress it against the fitted $\hat{y}$ values as that will reduce calculations and reduce impact on degrees of freedom.
+
+Also, we want to use $\hat{e}^{2}$ to avoid negative values.
+
+$\hat{e}^{2}=\alpha_{1}+\alpha_{2}\hat{y}$
+
+Once we obtain the $R^{2}$ from this model, we can use it to estimate the LM statistic: $nR^{2}$. This follows a $\chi^{2}$ distribution with $k$ degrees of freedom, where $k$ is the number of explanatory variables. In the case of the fitted value equation, that is 1. If the LM statistic is greater than the $\chi^{2}_{1}$ 5% critical value, we can say with 95% confidence that there is heteroscedasticity present.
+
 ## Consequences of Heteroscedasticity
 - The least squares estimator is still a linear and unbiased estimator, but it is no longer the best, i.e., lowest variance.
 - Consequently, there is another estimator with lower variance.
