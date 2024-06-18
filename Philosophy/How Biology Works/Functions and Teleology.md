@@ -28,5 +28,3 @@ In common manufactures items, this is not a problem. In natural selection theory
 		1. This is still historical, because the process of natural selection will give a background of analysis
 		2. The role of the heart in circulation is part of a selection story
 			1. Why does the heart have the capacity it does rather than some other capacity
-			2. 
-4. 

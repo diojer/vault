@@ -1,5 +1,5 @@
 - Natural selection explains adaptation: the form, function, and design of organismal traits that make them suited to their immediate environment.
-- Sexual selection is "any selection that arises from fitness differences associated with nonrandom success in the competition for access to gametes for fertilisation."
+- Sexual selection is "any selection that arises from fitness differences associated with non-random success in the competition for access to gametes for fertilisation."
 	- Essentially, sexual selection results in differences between sexual mates, and differential success in attracting mates.
 	- Sexual selection is meant to explain sexual dimorphism.
 ![[Pasted image 20240213141027.png]]
@@ -47,4 +47,3 @@ Why should we give weight to arbitrary selection, which seems arbitrary, in an e
 
 - Prum (2012) argues that natural selection should only be proposed if an LK null model has been falsified.
 - On the other hand, the utilitarian approach does have more parsimony and value-neutrality.
-
