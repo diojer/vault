@@ -18,6 +18,9 @@ Monopoly produces where MR=MC at the price given by the demand curve.
 So, we can use:
 - $L=\frac{P-MC}{P}$
 In an extreme monopoly case, this will equal 1.
+Lerner index can be written:
+$\frac{P-MR}{P}=\frac{1}{\epsilon}=L$
+
 # Monopsony
 - One buyer
 - For example,
