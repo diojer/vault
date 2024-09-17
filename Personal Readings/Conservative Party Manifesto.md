@@ -31,3 +31,4 @@
 			- Local referenda will determine 20mph zones and Low Traffic Neighbourhoods
 		- Invest more in farmers and don't build solar farms on farmland
 		- Continue to directly invest in communities across the UK to "protect the UK's internal market and the integrity of the United Kingdom"
+
