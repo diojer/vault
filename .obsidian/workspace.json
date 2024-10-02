@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ed21d71e315afe1d",
+        "id": "af50bafa5da98446",
         "type": "tabs",
         "children": [
           {
-            "id": "0e687a3701b59aae",
+            "id": "18c2c1c77872b4af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Maths for Business and Economics 2/Vectors and Matrices/Matrices.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60933d94550e38fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jobs/Civil Service/ORR.md",
+                "file": "Economics/Behavioural Economics/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 325.5
   },
   "right": {
     "id": "0463835573c2a040",
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Maths for Business and Economics 2/Vectors and Matrices/Matrices.md",
+                "file": "Economics/Behavioural Economics/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Maths for Business and Economics 2/Vectors and Matrices/Matrices.md",
+                "file": "Economics/Behavioural Economics/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Maths for Business and Economics 2/Vectors and Matrices/Matrices.md"
+                "file": "Economics/Behavioural Economics/Introduction.md"
               }
             }
           },
@@ -175,54 +163,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0e687a3701b59aae",
+  "active": "18c2c1c77872b4af",
   "lastOpenFiles": [
-    "Economics/Maths for Business and Economics 2/Vectors and Matrices/Rank of a Matrix.md",
-    "Economics/Maths for Business and Economics 2/Vectors and Matrices/Matrices.md",
-    "Economics/Maths for Business and Economics 2/Vectors and Matrices/Vectors and Properties of Vectors.md",
-    "Jobs/Civil Service/DWP.md",
-    "Jobs/Civil Service/ORR.md",
-    "Jobs/Civil Service/Interview Practice.md",
-    "Economics/Maths for Business and Economics 2/Optimisation/Untitled.md",
-    "Economics/Maths for Business and Economics 2/Optimisation/Optimisation.md",
-    "Economics/Maths for Business and Economics 2/Optimisation/Lagrangian Multiplier, Lambda.md",
-    "Leeds Think Tank/Urban Planning and Transport/Meetings/msoA4F3.tmp",
-    "Leeds Think Tank/Urban Planning and Transport/Meetings/msoA30E.tmp",
-    "Leeds Think Tank/Urban Planning and Transport/Meetings/UBT and TrAMS Meeting 24_03_2024.pdf",
-    "Leeds Think Tank/Urban Planning and Transport/Meetings/mso1893.tmp",
-    "Leeds Think Tank/Urban Planning and Transport/Meetings/~$T and TrAMS Meeting 24_03_2024.docx",
-    "Jobs/Civil Service",
-    "Jobs",
-    "Personal Readings/The Housing Problem in London.md",
-    "Leeds Think Tank/Urban Planning and Transport/Plan for Restructuring and Direction.md",
-    "Leeds Think Tank/Urban Planning and Transport/TrAMS Meeting Agenda.md",
-    "Leeds Think Tank/Urban Planning and Transport/Meetings/UBT and TrAMS Meeting 24_03_2024.docx",
-    "Leeds Think Tank/Urban Planning and Transport/Notes and Sources/Multiple Criteria Evaluation of different redesign variants of the public tram system.md",
-    "Leeds Think Tank/Urban Planning and Transport/Notes and Sources",
-    "Economics/Industrial Economics/attachments/Pasted image 20240321135338.png",
-    "Economics/Industrial Economics/attachments/Pasted image 20240321135258.png",
-    "Economics/Industrial Economics/attachments/Pasted image 20240321133156.png",
-    "Economics/Industrial Economics/attachments/Pasted image 20240321133119.png",
-    "Economics/Industrial Economics/attachments/Pasted image 20240321133100.png",
-    "Economics/Industrial Economics/Oligopoly Prices.md",
-    "Economics/Industrial Economics/Oligopoly Leadership.md",
-    "Economics/Industrial Economics/Oligopoly Collusions.md",
-    "Economics/Industrial Economics/Forms of Collusions.md",
-    "Economics/Economics Research Methods/Introduction to Research Ethics.md",
-    "Philosophy/How Biology Works/Metaphysics of Pregnancy.md",
-    "Economics/Maths for Business and Economics 2/Optimisation",
-    "Personal Readings/Is Zoning the Solution to the UK Housing Crisis.md",
-    "Personal Readings/Tackling the UK housing crisis - is supply the answer.md",
-    "Personal Readings/Leeds Housing Strategy 2022-2027.md",
-    "Economics/Econometrics and Statistics/Econometrics/Dummy Variables.md",
+    "Economics/Econometrics and Statistics/Time Series Introduction.md",
+    "Economics/Behavioural Economics/Introduction.md",
+    "Economics/Behavioural Economics",
+    "Economics/Images/Pasted image 20241001191245.png",
+    "Economics/Images/Pasted image 20241001191047.png",
+    "Economics/Images/Pasted image 20241001191033.png",
+    "Economics/Images/Pasted image 20241001191016.png",
+    "Economics/Images/Pasted image 20241001190508.png",
+    "Economics/Images/Pasted image 20241001190301.png",
+    "Economics/Images/Pasted image 20241001190214.png",
+    "Economics/Images/Pasted image 20241001190104.png",
+    "Economics/Econometrics and Statistics/Econometrics/Assessing Validity of Estimators.md",
+    "Economics/Econometrics and Statistics/Econometrics/SLRM Non-Linearity.md",
+    "Economics/Econometrics and Statistics/Econometrics/Omitted Variable Bias.md",
     "Economics/Econometrics and Statistics/Econometrics/MLRM.md",
-    "Economics/Econometrics and Statistics/Econometrics/Propagating Changes To Estimators.md",
-    "Economics/Econometrics and Statistics/Econometrics/Limits of the SLRM.md",
-    "Economics/Images/Pasted image 20240311155024.png",
-    "Economics/Images/Pasted image 20240311154320.png",
-    "Economics/Images/Pasted image 20240311154305.png",
-    "Economics/Images/Pasted image 20240311153443.png",
-    "Economics/Images/Pasted image 20240311153155.png",
+    "Economics/Econometrics and Statistics/Econometrics/Introduction.md",
+    "Economics/Econometrics and Statistics/Econometrics/Hypothesis Testing on Estimators.md",
+    "Economics/Econometrics and Statistics/Econometrics/Further Topics and Tests.md",
+    "Economics/Econometrics and Statistics/Econometrics/Dummy Variables.md",
+    "Economics/Econometrics and Statistics/Econometrics/Algebraic Properties of OLS.md",
+    "Economics/Econ JH FYP 3RD YEAR/Introduction.md",
+    "Economics/Macroeconomics/Year 3 Introduction/Introduction.md",
+    "Economics/Macroeconomics/Year 3 Introduction",
+    "Economics/Public Enterprise and Reg/Introduction.md",
+    "Economics/Econ JH FYP 3RD YEAR",
+    "Personal Readings/Margaret Thatcher.md",
+    "Economics/Public Enterprise and Reg",
+    "Time Deposits.md",
+    "Personal Readings/Glossary/Checkable Deposits.md",
+    "Personal Readings/attachments/022-article-A009-en.pdf",
+    "Economics/Macroeconomics/Monetary Policy/Endogenous Money Creation.md",
+    "Economics/Macroeconomics/Monetary Policy/IS-LM-PC with Exogenous Money.md",
+    "Economics/Macroeconomics/Monetary Policy/Collapse of Exogenous Money Theory.md",
+    "Economics/Macroeconomics/Monetary Policy/Central Bank Corridor System.md",
+    "Personal Readings/EU-UK Free Trade Agreement.md",
+    "Personal Readings/Fiscal Policy under Low Interest Rates.md",
+    "Personal Readings/Have China's Pilot Emissions Trading Schemes Promoted Carbon Emission Reductions.md",
+    "Personal Readings/IFS March 2024 Budget Evaluation.md",
+    "Personal Readings/Leeds Housing Strategy 2022-2027.md",
+    "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20240529192411.png",
+    "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20240529191857.png",
+    "Economics/Econometrics and Statistics/Econometrics/attachments",
+    "Economics/Maths for Business and Economics 2/Vectors and Matrices/attachments",
+    "Economics/Maths for Business and Economics 2/Optimisation/attachments",
+    "Economics/Economics Research Methods/The Preston Model 11 Years On.pdf",
+    "Economics/Economics Research Methods/201596918.pdf",
     "Untitled.canvas"
   ]
 }

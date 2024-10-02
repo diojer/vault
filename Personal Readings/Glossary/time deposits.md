@@ -1,0 +1,1 @@
+A deposit that cannot be withdrawn before a set date.

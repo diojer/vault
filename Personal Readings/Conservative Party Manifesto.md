@@ -1,0 +1,34 @@
+ - Decent Summary
+	 - Economy
+		 - Cut national insurance by 2p globally
+		 - Abolish national insurance for the self employed
+		 - Give working parents 30 hours of free childcare a week
+		 - Rework child benefit so it is a per-household system, only lost when combined income exceeds £120,000
+		 - Guaranteed no new green levies
+		 - Sign more trade deals
+	- "Young People"
+		- Mandatory national service (choose between placement in the military or civic service)
+		- Curb number of poor-quality uni degrees to fund 100,000 high-quality apprenticeships
+		- Banned phones in school
+		- Advanced British Standard
+	- Borders and national sec.
+		- Boost defence spending to 2.5% by 2030
+		- Introduce a legal cap on migration
+		- Fully implement Rwanda initiative
+		- Work with other countries to rewrite asylum treaties
+	- Strengthen Communities
+		- Increase NHS spending above inflation every year
+		- Make clear that sex means biological sex in the Equality Act
+		- Permanently abolish stamp duty for homes up to £425,000 for first-time buyers
+		- Recruit 8,000 more police officers
+		- Reduce anti-social behaviours with "Hotspot Policing"
+			- Expand community payback -> community service
+			- Legislate to evict social tenants who repeatedly disrupt their neighbours
+		- Invest £36bn in roads, rail and buses
+			- £8.3bn to fill potholes and resurface roads (funded by HS2 money LOL)
+		- "Back Drivers"
+			- Reverse ULEZ
+			- Local referenda will determine 20mph zones and Low Traffic Neighbourhoods
+		- Invest more in farmers and don't build solar farms on farmland
+		- Continue to directly invest in communities across the UK to "protect the UK's internal market and the integrity of the United Kingdom"
+
