@@ -1,0 +1,1 @@
+A checkable deposit is a bank account balance that can be used to make other transactions. In other words, the bank must pay out the funds on demand.
