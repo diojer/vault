@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Econ JH FYP 3RD YEAR/Lecture 2.md",
+                "file": "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d7f668a3c859a37",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Economics/Images/Pasted image 20241001190104.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Econ JH FYP 3RD YEAR/Lecture 2.md",
+                "file": "Economics/Images/Pasted image 20241001190104.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Econ JH FYP 3RD YEAR/Lecture 2.md",
+                "file": "Economics/Images/Pasted image 20241001190104.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Econ JH FYP 3RD YEAR/Lecture 2.md"
+                "file": "Economics/Images/Pasted image 20241001190104.png"
               }
             }
           },
@@ -163,15 +174,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ddb9eb0abfadfc5d",
+  "active": "8d7f668a3c859a37",
   "lastOpenFiles": [
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Introduction.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/MA, AR, ARMA Models.md",
+    "Economics/Econ JH FYP 3RD YEAR/Lecture 2.md",
+    "Economics/Microeconomics/Utility.md",
+    "Economics/Microeconomics/Outlining Preference Functions.md",
     "Personal Readings/Effects of Immigration on a variety of economic metrics.docx",
     "Economics/Econ JH FYP 3RD YEAR/Introduction.md",
-    "Economics/Econ JH FYP 3RD YEAR/Lecture 2.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/MA, AR, ARMA Models.md",
     "Economics/Maths/Formula Sheet.md",
     "Economics/Econometrics and Statistics/Statistics/Variance 2 R.V.s.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Introduction.md",
     "Economics/Econometrics and Statistics/Econometrics/Second Year/Algebraic Properties of OLS.md",
     "Economics/Econometrics and Statistics/Econometrics/Second Year",
     "Economics/Econometrics and Statistics/Econometrics/Second Year/Dummy Variables.md",
@@ -207,10 +220,8 @@
     "Personal Readings/attachments/022-article-A009-en.pdf",
     "Economics/Macroeconomics/Monetary Policy/Endogenous Money Creation.md",
     "Economics/Macroeconomics/Monetary Policy/IS-LM-PC with Exogenous Money.md",
-    "Economics/Macroeconomics/Monetary Policy/Collapse of Exogenous Money Theory.md",
     "Economics/Econometrics and Statistics/Econometrics/attachments",
     "Economics/Maths for Business and Economics 2/Vectors and Matrices/attachments",
-    "Economics/Maths for Business and Economics 2/Optimisation/attachments",
     "Untitled.canvas"
   ]
 }
