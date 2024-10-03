@@ -30,9 +30,38 @@ OLS on non-stationary series can lead to spurious regression. This could mean th
 - High $R^{2}$
 - High t-values
 - High F-values
-Stationarity is defined by:
+**Stationarity is defined by:**
 - Constant mean over time,
 - Constant variance over time,
 - The COV() between two values depends on the *length of time* separating the two values, **not on t**.
 	- ![[Pasted image 20241001191245.png]]
 ## Serial Correlation
+When working with cross-sectional data, we assume that all dependent variables are not correlated, i.e., taking the food expenditure and income example, the food expenditure in household $j$ is unaffected and does not affect the food expenditure in household $k$.
+- This is because samples are randomly collected.
+However, time-series observations on a given economic unit over time are likely to be correlated.
+- When a variable displays this correlation **over time**, it is autocorrelated, or serially correlated.
+The equation for the Pearson correlation coefficient is:
+$$
+\rho=\frac{cov(x,y)}{\sqrt{ var(x) }\sqrt{ var(y) }}=\frac{\sigma_{xy}}{\sigma_{x}\sigma_{y}}
+$$
+Similarly, we can calculate the correlation between $y_{t} \text{ and }y_{t-1}$ as:
+$$
+\rho_{1}=\frac{cov(y_{t},y_{t-1})}{\sqrt{ var(y_{t}) }\sqrt{ var(y_{t-1}) }}=\frac{cov(y_{t},y_{t-1})}{var(y_{t})}=\frac{\gamma_{1}}{\sigma^{2}_{y}}
+$$
+- $\rho_{1}$ is the "first-order population autocorrelation".
+- We use the sample data to estimate the population autocorrelations.
+![[Pasted image 20241003143626.png]]
+In time-series analysis, we are usually interested in testing whether a variable *is autocorrelated*.
+- $H_{0}:\rho_{k}=0$
+- $H_{1}:\rho_{k}\neq 0$
+A suitable test statistic is:
+$$
+Z=\frac{\bar{\rho}_{k}-0}{\frac{1}{\sqrt{ T }}}
+$$
+- Where $T$ is the range of time being observed, i.e., the sample size.
+![[Pasted image 20241003144230.png]]
+## Cointegration
+- Non-stationary variables should not be used in regression models.
+- However, there is an exception:
+	- When a model involves two or more non-stationary variables, the analysis only makes sense if there are one or more linear combinations of the non-stationary variables that **are stationary**.
+A set of variables that are individually non-stationary, but whose linear combination is stationary, are said to be **cointegrated**.
