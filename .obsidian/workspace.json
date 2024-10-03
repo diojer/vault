@@ -23,9 +23,10 @@
             "id": "8d7f668a3c859a37",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "diff-view",
               "state": {
-                "file": "Economics/Images/Pasted image 20241001190214.png"
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -104,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Images/Pasted image 20241001190214.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Images/Pasted image 20241001190214.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Economics/Images/Pasted image 20241001190214.png"
-              }
+              "state": {}
             }
           },
           {
@@ -174,9 +171,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f0c12c808815b81e",
+  "active": "8d7f668a3c859a37",
   "lastOpenFiles": [
-    "Economics/Images/Pasted image 20241001190104.png",
+    "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20241001190104.png",
+    "Economics/Images/Pasted image 20240522170748.png",
+    "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20241001190214.png",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Introduction.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/MA, AR, ARMA Models.md",
     "Economics/Econ JH FYP 3RD YEAR/Lecture 2.md",
@@ -196,13 +195,12 @@
     "Economics/Public Enterprise and Reg/The Case for Privatisation.md",
     "Economics/Behavioural Economics/Introduction.md",
     "Economics/Behavioural Economics",
-    "Economics/Images/Pasted image 20241001191245.png",
-    "Economics/Images/Pasted image 20241001191047.png",
-    "Economics/Images/Pasted image 20241001191033.png",
-    "Economics/Images/Pasted image 20241001191016.png",
-    "Economics/Images/Pasted image 20241001190508.png",
-    "Economics/Images/Pasted image 20241001190301.png",
-    "Economics/Images/Pasted image 20241001190214.png",
+    "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20241001191245.png",
+    "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20241001191047.png",
+    "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20241001191033.png",
+    "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20241001191016.png",
+    "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20241001190508.png",
+    "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20241001190301.png",
     "Economics/Econometrics and Statistics/Econometrics/Second Year/Assessing Validity of Estimators.md",
     "Economics/Econometrics and Statistics/Econometrics/Second Year/SLRM Non-Linearity.md",
     "Economics/Econometrics and Statistics/Econometrics/Second Year/Omitted Variable Bias.md",
