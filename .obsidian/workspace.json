@@ -20,13 +20,12 @@
             }
           },
           {
-            "id": "8d7f668a3c859a37",
+            "id": "98edafec0e2d67e7",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "image",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20241001190104.png"
               }
             }
           }
@@ -105,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20241001190104.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20241001190104.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20241001190104.png"
+              }
             }
           },
           {
@@ -171,12 +174,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d7f668a3c859a37",
+  "active": "98edafec0e2d67e7",
   "lastOpenFiles": [
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Introduction.md",
     "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20241001190104.png",
     "Economics/Images/Pasted image 20240522170748.png",
     "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20241001190214.png",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Introduction.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/MA, AR, ARMA Models.md",
     "Economics/Econ JH FYP 3RD YEAR/Lecture 2.md",
     "Economics/Microeconomics/Utility.md",
@@ -200,7 +203,6 @@
     "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20241001191033.png",
     "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20241001191016.png",
     "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20241001190508.png",
-    "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20241001190301.png",
     "Economics/Econometrics and Statistics/Econometrics/Second Year/Assessing Validity of Estimators.md",
     "Economics/Econometrics and Statistics/Econometrics/Second Year/SLRM Non-Linearity.md",
     "Economics/Econometrics and Statistics/Econometrics/Second Year/Omitted Variable Bias.md",
