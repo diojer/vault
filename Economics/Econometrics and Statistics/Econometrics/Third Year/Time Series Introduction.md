@@ -4,6 +4,14 @@ In a static model,
 In a dynamic model,
 - A change in income at time *t* can cause a change in consumption at times *t, t+1, t+2... etc*.
 This dynamic model incorporates what is known as the distributed lag effect.
+## Lag Operator in Dynamic Models
+$$
+\begin{eqnarray}
+Ly_{t}&=&y_{t-1} \\
+L(Ly_{t})&=&Ly_{t-1}=L^{2}y_{t}=y_{t-2} \\
+L^k y_{t}&=&y_{t-k}
+\end{eqnarray}
+$$
 ## Modelling a dynamic relationship
 1. Specify that a dependent variable is a function of current *and past values* of an explanatory variable (in this case *z*).
 	1. ![[Pasted image 20241001190104.png]]
