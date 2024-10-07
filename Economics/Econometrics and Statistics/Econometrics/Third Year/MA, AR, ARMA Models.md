@@ -106,3 +106,5 @@ $$
 ### Constraints in general
 1. AIC = BIC when $\ln(T)=2$,
 2. Smallest AIC or BIC is preferred,
+3. With a difference of opinion, use judgement.
+	1. If one criterium suggests dropping parameters, and these parameters' coefficients are insignificant, then the criterium is probably the best to follow.
