@@ -7,6 +7,10 @@ $$
 	- The cost of total output Y is less than the sum of the cost of that output subdivided.
 	- Essentially, it is cheaper for one firm to produce the total output than to subdivide that production process between multiple firms.
 	- This does not necessarily imply falling average cost over *all* output levels.
+
+| Scale          | Increasing returns        | Constant returns | Decreasing returns                   |
+| -------------- | ------------------------- | ---------------- | ------------------------------------ |
+| Inputs double, | Output more than doubles. | Output doubles.  | Output increase by less than double. |
 ## The single product case
 >Falling unit cost over all output levels are sufficient, but not necessary, for a natural monopoly to exist.
 - The alternative is a weak, or non-sustainable, natural monopoly.
