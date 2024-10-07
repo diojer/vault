@@ -20,13 +20,14 @@
             }
           },
           {
-            "id": "8d7f668a3c859a37",
+            "id": "98edafec0e2d67e7",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Economics/Econometrics and Statistics/Econometrics/Third Year/MA, AR, ARMA Models.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -105,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Economics/Econometrics and Statistics/Econometrics/Third Year/MA, AR, ARMA Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Economics/Econometrics and Statistics/Econometrics/Third Year/MA, AR, ARMA Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Economics/Econometrics and Statistics/Econometrics/Third Year/MA, AR, ARMA Models.md"
+              }
             }
           },
           {
@@ -171,13 +176,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d7f668a3c859a37",
+  "active": "98edafec0e2d67e7",
   "lastOpenFiles": [
-    "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20241001190104.png",
-    "Economics/Images/Pasted image 20240522170748.png",
-    "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20241001190214.png",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Introduction.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/MA, AR, ARMA Models.md",
+    "Economics/Public Enterprise and Reg/Natural Monopoly and Competition.md",
+    "Economics/Public Enterprise and Reg/The Case for Privatisation.md",
+    "Economics/Modern Theories of Money",
+    "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20241001190104.png",
+    "Economics/Econometrics and Statistics/Econometrics/Second Year/Further Topics and Tests (!).md",
+    "Economics/Images/Pasted image 20240522170748.png",
+    "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20241001190214.png",
     "Economics/Econ JH FYP 3RD YEAR/Lecture 2.md",
     "Economics/Microeconomics/Utility.md",
     "Economics/Microeconomics/Outlining Preference Functions.md",
@@ -192,7 +201,6 @@
     "Economics/Images/Pasted image 20241003144230.png",
     "Economics/Images/Pasted image 20241003143626.png",
     "Economics/Econometrics and Statistics/Econometrics/Second Year/Introduction.md",
-    "Economics/Public Enterprise and Reg/The Case for Privatisation.md",
     "Economics/Behavioural Economics/Introduction.md",
     "Economics/Behavioural Economics",
     "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20241001191245.png",
@@ -200,7 +208,6 @@
     "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20241001191033.png",
     "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20241001191016.png",
     "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20241001190508.png",
-    "Economics/Econometrics and Statistics/Econometrics/attachments/Pasted image 20241001190301.png",
     "Economics/Econometrics and Statistics/Econometrics/Second Year/Assessing Validity of Estimators.md",
     "Economics/Econometrics and Statistics/Econometrics/Second Year/SLRM Non-Linearity.md",
     "Economics/Econometrics and Statistics/Econometrics/Second Year/Omitted Variable Bias.md",
@@ -216,9 +223,7 @@
     "Time Deposits.md",
     "Personal Readings/Glossary/Checkable Deposits.md",
     "Personal Readings/attachments/022-article-A009-en.pdf",
-    "Economics/Macroeconomics/Monetary Policy/Endogenous Money Creation.md",
     "Economics/Econometrics and Statistics/Econometrics/attachments",
-    "Economics/Maths for Business and Economics 2/Vectors and Matrices/attachments",
     "Untitled.canvas"
   ]
 }
