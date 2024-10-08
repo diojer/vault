@@ -1,2 +1,0 @@
-- Is everyone employed where price setting = APL?
-	- WS is inelastic, everyone is employed
