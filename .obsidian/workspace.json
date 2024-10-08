@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Public Enterprise and Reg/Natural Monopoly and Competition.md",
+                "file": "Economics/Maths/Formula Sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Public Enterprise and Reg/Natural Monopoly and Competition.md",
+                "file": "Economics/Maths/Formula Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Public Enterprise and Reg/Natural Monopoly and Competition.md",
+                "file": "Economics/Maths/Formula Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Public Enterprise and Reg/Natural Monopoly and Competition.md"
+                "file": "Economics/Maths/Formula Sheet.md"
               }
             }
           },
@@ -176,54 +176,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "98edafec0e2d67e7",
+  "active": "f0c12c808815b81e",
   "lastOpenFiles": [
+    "Economics/Econometrics and Statistics/Applied Econometric Time Series/Stationary Time-Series Models/Stochastic Difference Equation Models.md",
+    "Economics/Maths/Formula Sheet.md",
+    "Economics/Maths for Business and Economics 2/Introduction.md",
+    "Economics/Econ JH FYP 3RD YEAR/Lecture 2.md",
+    "Economics/Econ JH FYP 3RD YEAR/Introduction.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/MA, AR, ARMA Models.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Tests for Serial Correlation.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Introduction.md",
+    "Economics/Public Enterprise and Reg/Natural Monopoly and Competition.md",
+    "Economics/Public Enterprise and Reg/The Case for Privatisation.md",
+    "Economics/Public Enterprise and Reg/Introduction.md",
+    "Economics/Econometrics and Statistics/Applied Econometric Time Series/Stationary Time-Series Models",
+    "Economics/Behavioural Economics/Introduction.md",
+    "Economics/Econometrics and Statistics/Applied Econometric Time Series/Difference Equations/Intro to Difference Equations.md",
+    "Economics/Econometrics and Statistics/Applied Econometric Time Series/Difference Equations",
+    "Economics/Macroeconomics/Year 3/Permanent Income Hypothesis/Introduction.md",
+    "Economics/Econometrics and Statistics/Applied Econometric Time Series",
+    "Economics/Images/Pasted image 20241008123759.png",
+    "Economics/Images/Pasted image 20241008123512.png",
+    "Economics/Macroeconomics/Year 3/Permanent Income Hypothesis",
+    "Economics/Macroeconomics/Year 1&2",
+    "Economics/Macroeconomics/Year 3",
+    "Economics/Images/Pasted image 20241007183720.png",
+    "Economics/Images/Pasted image 20241007174632.png",
+    "Economics/Images/Pasted image 20241007173858.png",
     "Personal Readings/attachments/Pasted image 20241004131348.png",
     "Personal Readings/attachments/Pasted image 20241004131035.png",
     "Personal Readings/attachments/Pasted image 20241004130400.png",
     "Personal Readings/attachments/Pasted image 20241004125748.png",
     "Personal Readings/attachments/Pasted image 20241004125702.png",
-    "Personal Readings/attachments/Pasted image 20241004124341.png",
-    "Personal Readings/attachments/Pasted image 20241004123449.png",
-    "Personal Readings/attachments/Pasted image 20241004123415.png",
-    "Personal Readings/attachments/Pasted image 20241004123015.png",
     "Personal Readings/Labour Productivity and Compensation Gap.md",
-    "Economics/Public Enterprise and Reg/attachments/Pasted image 20241007153408.png",
-    "Economics/Public Enterprise and Reg/attachments/Pasted image 20241007153145.png",
     "Economics/Public Enterprise and Reg/attachments",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Tests for Serial Correlation.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/MA, AR, ARMA Models.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Introduction.md",
-    "Economics/Public Enterprise and Reg/Natural Monopoly and Competition.md",
-    "Economics/Public Enterprise and Reg/The Case for Privatisation.md",
     "Economics/Modern Theories of Money",
     "Economics/Econometrics and Statistics/Econometrics/Second Year/Further Topics and Tests (!).md",
-    "Economics/Econ JH FYP 3RD YEAR/Lecture 2.md",
     "Economics/Microeconomics/Utility.md",
     "Economics/Microeconomics/Outlining Preference Functions.md",
     "Personal Readings/Effects of Immigration on a variety of economic metrics.docx",
-    "Economics/Econ JH FYP 3RD YEAR/Introduction.md",
-    "Economics/Maths/Formula Sheet.md",
     "Economics/Econometrics and Statistics/Statistics/Variance 2 R.V.s.md",
     "Economics/Econometrics and Statistics/Econometrics/Second Year/Algebraic Properties of OLS.md",
     "Economics/Econometrics and Statistics/Econometrics/Second Year",
     "Economics/Econometrics and Statistics/Econometrics/Second Year/Dummy Variables.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year",
     "Economics/Econometrics and Statistics/Econometrics/Second Year/Introduction.md",
-    "Economics/Behavioural Economics/Introduction.md",
-    "Economics/Behavioural Economics",
     "Economics/Econometrics and Statistics/Econometrics/Second Year/Assessing Validity of Estimators.md",
     "Economics/Econometrics and Statistics/Econometrics/Second Year/SLRM Non-Linearity.md",
     "Economics/Econometrics and Statistics/Econometrics/Second Year/Omitted Variable Bias.md",
     "Economics/Econometrics and Statistics/Econometrics/Second Year/MLRM.md",
-    "Economics/Econometrics and Statistics/Econometrics/Second Year/Hypothesis Testing on Estimators.md",
-    "Economics/Econometrics and Statistics/Econometrics/Second Year/Further Topics and Tests.md",
-    "Economics/Macroeconomics/Year 3 Introduction/Introduction.md",
-    "Economics/Macroeconomics/Year 3 Introduction",
-    "Economics/Public Enterprise and Reg/Introduction.md",
-    "Economics/Econ JH FYP 3RD YEAR",
-    "Economics/Public Enterprise and Reg",
-    "Personal Readings/attachments/022-article-A009-en.pdf",
     "Untitled.canvas"
   ]
 }
