@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Maths/Formula Sheet.md",
+                "file": "Economics/Econometrics and Statistics/Econometrics/Third Year/Tests for Serial Correlation.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Maths/Formula Sheet.md",
+                "file": "Economics/Econometrics and Statistics/Econometrics/Third Year/Tests for Serial Correlation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Maths/Formula Sheet.md",
+                "file": "Economics/Econometrics and Statistics/Econometrics/Third Year/Tests for Serial Correlation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Maths/Formula Sheet.md"
+                "file": "Economics/Econometrics and Statistics/Econometrics/Third Year/Tests for Serial Correlation.md"
               }
             }
           },
@@ -176,10 +176,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f0c12c808815b81e",
+  "active": "98edafec0e2d67e7",
   "lastOpenFiles": [
-    "Economics/Econometrics and Statistics/Applied Econometric Time Series/Stationary Time-Series Models/Stochastic Difference Equation Models.md",
+    "Economics/Public Enterprise and Reg/Contestability and Competition 1~3.md",
     "Economics/Maths/Formula Sheet.md",
+    "Economics/Econometrics and Statistics/Applied Econometric Time Series/Stationary Time-Series Models/Stochastic Difference Equation Models.md",
     "Economics/Maths for Business and Economics 2/Introduction.md",
     "Economics/Econ JH FYP 3RD YEAR/Lecture 2.md",
     "Economics/Econ JH FYP 3RD YEAR/Introduction.md",
@@ -223,7 +224,6 @@
     "Economics/Econometrics and Statistics/Econometrics/Second Year/Assessing Validity of Estimators.md",
     "Economics/Econometrics and Statistics/Econometrics/Second Year/SLRM Non-Linearity.md",
     "Economics/Econometrics and Statistics/Econometrics/Second Year/Omitted Variable Bias.md",
-    "Economics/Econometrics and Statistics/Econometrics/Second Year/MLRM.md",
     "Untitled.canvas"
   ]
 }
