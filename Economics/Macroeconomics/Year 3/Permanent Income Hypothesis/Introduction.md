@@ -56,7 +56,7 @@ $$
 - Consequently, present consumption is a function of impatience, interest rates and future consumption.
 Depending on impatience and interest rates, present consumption will rise, remain constant, or fall into the next period:
 1. $\rho=r\to$ constant consumption,
-2. $p>r\to$ impatient consumer; consumption falls over time.
+2. $\rho>r\to$ impatient consumer; consumption falls over time.
 3. $\rho<r\to$ patient consumer; consumption grows over time.
 
 If we continue with the assumption that $\rho=r$, and we solve for 2 time periods, then:
