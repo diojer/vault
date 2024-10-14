@@ -50,6 +50,7 @@ This means that:
 - Profits would never be higher than normal profits,
 - Cost function would remain as low as possible,
 In oligopoly situations, P=MC (does not apply to natural monopolies).
+- If the price is less than or greater than the marginal cost, there is an entry possibility.
 ## Imperfect Contestability
 >Are the assumptions realistic?
 - Is assumption 3 ever reasonably met?
