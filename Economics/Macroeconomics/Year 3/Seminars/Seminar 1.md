@@ -21,6 +21,5 @@ $$
 $$
 
 - (c) What is her budget constraint?
->The budget constraint is different for two different periods. If she spends all of her money earned in period 1, *in* period 1, then her budget constraint is simply $y_{t}+y_{t+1}$. If she saves all of her money, her budget constraint in period 2 is $ry_{t}+y_{t+1}$.
+>The budget constraint is different for two different periods. If she spends all of her money earned in period 1, *in* period 1, then her budget constraint is simply $y_{t}+y_{t+1}$. If she saves all of her money, her budget constraint in period 2 is $(1+r)y_{t}+y_{t+1}$.
 >Assuming she can borrow in period 1, her budget constraint is instead $y_{t}+y_{t+1}\cdot \frac{1}{1+r}$.
-1. 

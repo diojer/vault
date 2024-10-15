@@ -16,7 +16,7 @@ Simplest class of univariate time series models.
 ## MA(q) Models
 Moving average models intend to account for shocks which are expressed as previous time period error terms. $q$ expresses how much lag is being taken into account.
 ### MA(1)
-Example: $\Delta X_{t}=e_{t}+0.6_{t-1}$
+Example: $\Delta X_{t}=e_{t}+0.6\epsilon_{t-1}$
 > The dependent variable, in this case $\Delta X_{t}$ must be stationary, as noted previously.
 
 This means that a shock in the previous period creates an impulse which affects the next period with a strength of 60%.
