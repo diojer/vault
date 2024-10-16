@@ -58,3 +58,4 @@ In oligopoly situations, P=MC (does not apply to natural monopolies).
 	- But commitments from incumbent not to undersell, e.g., "we'll refund any lower price" provides an instantaneous price adjustment.
 - The assumption of zero sunk costs is very hard to meet where most natural monopolies exist, like in heavy infrastructure operation.
 This all suggests that perfect contestability is very rare, or non-existent.
+[[Contestability and Competition 2~3|Continue here.]]
