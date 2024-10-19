@@ -65,3 +65,13 @@ If $|\rho|=1$
 ## Augmented Dickey-Fuller
 >In practice, we always use the Augmented Dickey-Fuller (ADF) to ensure the errors are uncorrelated.
 ![[Pasted image 20241015182255.png]]
+# Applied in Stata
+#stata 
+We use:
+```Stata
+dfuller y, lags(2) regress
+```
+- `lags(2)` dictates how many lags *of the differenced* dependent variable to include.
+	- This is used to eliminate serial correlation.
+	- This makes the test an Augmented Dickey-Fuller test.
+- `regress` adds in the regression information, without it only the test results are displayed.

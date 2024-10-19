@@ -24,6 +24,7 @@ Using example data from the lecture:
 ![[Pasted image 20241007183720.png]]
 Consequently, using a lag of one does *not* satisfy the assumption of no serial correlation.
 ## T-test
+#stata
 Consider the following AR(1) representation of the **serial correlation of the error term**:
 $$
 e_{t}=\rho_{1}e_{t-1}+v_{t}

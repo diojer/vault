@@ -26,7 +26,7 @@ We can then construct cumulative dynamic multipliers.
 - The 1 period *cumulative* dynamic multiplier is $(\delta_{0}+\delta_{1})$.
 - The 2 period is $(\delta_{0}+\delta_{1}+\delta_{2})$,
 - The q-th period is $(\delta_{0}+\delta_{1}+\delta_{2}+\dots+\delta _{q})$
-(To capture cumulative impact multipliers, estimate the model as a regression of $\Delta x_{t-q}$.)
+(To capture cumulative impact multipliers, change the first term of the model into $\Delta x_{t}$.)
 
 >If the error term is not serially correlated, we can estimate the dynamic impact multipliers normally.
 >>We can reduce serial correlation by introducing enough lags of the error term.
@@ -42,10 +42,11 @@ We can then construct cumulative dynamic multipliers.
 ## Breusch-Godfrey (BG) test for serial correlation
 - We cannot use the [[Tests for Serial Correlation#Durbin-Watson (DW) test for autocorrelation|Durbin-Watson]] test because that is not for AR(q) models of the dependent variable.
 >The BG test consists of estimating the residuals and then regressing:
->>$\hat{e}_{t}=\gamma+\rho_{1} \hat{e}_{t-1}+\dots+\rho _q\hat{e}_{t-q}+(\hat{DU}_{t}-\hat{e}_{t}+u_{t})$
+>>$\hat{e}_{t}=\gamma+\rho_{1} \hat{e}_{t-1}+\dots+\rho _q\hat{e}_{t-q}+(\hat{DU}_{t}-\hat{e}_{t})+u_{t}$
 >>In other words, we regress the error term against the past error terms, the dependent and independent variables (captured by $\hat{DU}_{t}$) and another error term ($u_{t}$).
 >Once we have run that regression, we multiply the $R^{2}$ value with the number of observations, $T$.
 ### Applying BG to Stata
+#stata
 We run the initial regression:
 ```Stata
 reg du L.du g L.g L2.g
