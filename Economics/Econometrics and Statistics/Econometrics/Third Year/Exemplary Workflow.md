@@ -11,7 +11,7 @@ $$
 1. Before we check the data for stationarity, we should check if the variables are *cointegrated*. If they are, they do not have to be stationary to run the regression.
 	- To check for cointegration, we check whether the error term is stationary. If the error term is stationary, that means there is a *linear combination of the independent and dependent variables which are stationary*, i.e., those variables are *cointegrated.*
 	- **Reminder:** variables can only be cointegrated if they are of the same [[Cointegration#Order of Integration|order of integration]].
-	- If they are cointegrated, we can run the regression. If not, we move onto:
+	- If they are cointegrated, we can go straight to step 3. If not, we move onto:
 # 2: Stationarity
 2. If the variables are not cointegrated, they must be stationary, i.e., $I(0)$ for the regression to not be spurious.
 	- The first step of checking for stationarity is to actually look at the data set. This will help tell if it's trending, drifting, a random walk, simply stationary.
@@ -39,7 +39,7 @@ $$
 			- For example, if the specification recommended by AIC has insignificant coefficients, this might incentivise us to use the model specified by BIC instead.
 # 4: Serial Correlation (again)
 4. Once we have our model specification, we should check again for serial correlation within the error term using the BG test.
-	- This tests for the model's serial correlation, rather than for serial correlation within the variables themselves (that's what the other serial correlation test tested for).
+	- This tests for the model's serial correlation, rather than for serial correlation within the variables themselves (that's what the first serial correlation test tested for).
 	- If we detect serial correlation, we should add more AR(q) variables, *even if they are insignificant*. This will reduce the serial correlation.
 	- Even if a variable is insignificant, this still tells us something: that something that happened $i$ periods ago likely does not have a significant effect on the present day.
 # 5: Regressing
