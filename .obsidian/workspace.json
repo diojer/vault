@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work Queue.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work Queue.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work Queue.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work Queue.md"
+                "file": "README.md"
               }
             }
           },
@@ -190,8 +190,10 @@
   },
   "active": "56673fa4e34d54be",
   "lastOpenFiles": [
-    "Modules Notes.md",
+    "Economics.md",
+    "README.md",
     "Work Queue.md",
+    "Modules Notes.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/ARDL Multipliers and Serial Correlation.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/MA, AR, ARMA Models.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Tests for Serial Correlation.md",
@@ -227,7 +229,6 @@
     "Economics/Maths/Sampling/Rules of the Variance Operator.md",
     "Economics/Econometrics and Statistics/Statistics/Measures of Association.md",
     "Economics/Maths/Formula Sheet.md",
-    "Economics/Econometrics and Statistics/Statistics/Variance 2 R.V.s.md",
     "Economics/Images/Pasted image 20241016164905.png",
     "Economics/Images/Pasted image 20241016163310.png",
     "Economics/Images/Pasted image 20241016162620.png",
