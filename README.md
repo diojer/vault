@@ -11,4 +11,4 @@ Notes here are mainly on Politics, Philosophy and Economics, but will also be on
 	4. [Behavioural Economics](Economics/Behavioural%20Economics)
 	5. [Regulatory Economics](Economics/Public%20Enterprise%20and%20Reg)
 2. [Personal Reading and Notes](Personal%20Readings)
-3. [Formula Sheet](Economics/Maths/Formula%20Sheet)
+3. [Formula Sheet](Economics/Maths/Formula%20Sheet.md)
