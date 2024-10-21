@@ -4,6 +4,8 @@ Notes here are mainly on Politics, Philosophy and Economics, but will also be on
 >Most used links:
 1. [Economics](Economics/)
 	1. [Econometrics](Economics/Econometrics%20and%20Statistics/Econometrics)
+		1. [Statistics](Economics/Econometrics%20and%20Statistics/Statistics)
+		2. [Time Series Econometrics](Economics/Econometrics%20and%20Statistics/Econometrics/Third%20Year)
 	2. [Macroeconomics](Economics/Macroeconomics)
 	3. [Microeconomics](Economics/Microeconomics)
 	4. [Behavioural Economics](Economics/Behavioural%20Economics)
