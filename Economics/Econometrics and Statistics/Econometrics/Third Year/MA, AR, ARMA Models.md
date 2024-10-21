@@ -108,3 +108,6 @@ $$
 2. Smallest AIC or BIC is preferred,
 3. With a difference of opinion, use judgement.
 	1. If one criterium suggests dropping parameters, and these parameters' coefficients are insignificant, then the criterium is probably the best to follow.
+# ARIMA Models
+ARIMA = Autoregressive Integrated Moving Average
+- ARIMA(2,1,3) means the dependent variable is $I(1)$.

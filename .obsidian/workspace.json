@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modules Notes.md",
+                "file": "Work Queue.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modules Notes.md",
+                "file": "Work Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modules Notes.md",
+                "file": "Work Queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modules Notes.md"
+                "file": "Work Queue.md"
               }
             }
           },
@@ -190,32 +190,44 @@
   },
   "active": "56673fa4e34d54be",
   "lastOpenFiles": [
+    "Modules Notes.md",
+    "Work Queue.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/ARDL Multipliers and Serial Correlation.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/MA, AR, ARMA Models.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Tests for Serial Correlation.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Panel Data.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/VAR Models.md",
+    "Economics/Images/Pasted image 20241021193739.png",
+    "Economics/Images/Pasted image 20241021193151.png",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Error Correction Models.md",
+    "Economics/Public Enterprise and Reg/Contestability and Competition 3~3.md",
+    "Economics/Econometrics and Statistics/Econometrics/Second Year/Further Topics and Tests (!).md",
+    "Economics/Econometrics and Statistics/Econometrics/Second Year/Omitted Variable Bias.md",
+    "Economics/Econometrics and Statistics/Econometrics/Second Year/Dummy Variables.md",
+    "Extra Files/gradrolesxlsx.xlsx",
+    "Extra Files",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/attachments/Pasted image 20241019203555.png",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/attachments",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Exemplary Workflow.md",
+    "Economics/Econometrics and Statistics/Assessment/canada AETS.xlsx",
+    "Economics/Econometrics and Statistics/Assessment/Canada files/bis_dp_search_export_20241017-131630.xlsx",
+    "Economics/Econometrics and Statistics/Assessment/Canada files/OECD.SDD.TPS,DSD_G20_PRICES@DF_G20_PRICES,1.0+all.csv",
+    "Economics/Econometrics and Statistics/Assessment/Canada files/OECD.SDD.TPS,DSD_G20_PRICES@DF_G20_PRICES,1.0+CAN.Q...PA...GY.csv",
+    "Economics/Econometrics and Statistics/Assessment/Canada files/OECD.SDD.TPS,DSD_G20_PRICES@DF_G20_PRICES,1.0+.M...PA....csv",
+    "Economics/Econometrics and Statistics/Assessment/Canada files/OECD.SDD.STES,DSD_STES@DF_MONAGG,4.0+all.csv",
+    "Economics/Econometrics and Statistics/Assessment/Canada files/OECD.SDD.STES,DSD_STES@DF_MONAGG,4.0+CAN.Q.MABM...N....csv",
     "Economics/Econometrics and Statistics/Applied Econometric Time Series/Difference Equations/Intro to Difference Equations.md",
     "Economics/Econometrics and Statistics/Applied Econometric Time Series/Stationary Time-Series Models/Stochastic Difference Equation Models.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Cointegration.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Stationarity, Drifts and Trends.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Forecasting.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Tests for Serial Correlation.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/ARDL Multipliers and Serial Correlation.md",
     "Free Time Activities.md",
-    "Economics/Public Enterprise and Reg/Contestability and Competition 3~3.md",
-    "Modules Notes.md",
-    "Work Queue.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Labs/Lab 1 ~ ARMA, ARDL and Serial Correlation.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Seminars/Seminar 1.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/MA, AR, ARMA Models.md",
     "Economics/Maths/Sampling/Rules of the Variance Operator.md",
     "Economics/Econometrics and Statistics/Statistics/Measures of Association.md",
     "Economics/Maths/Formula Sheet.md",
     "Economics/Econometrics and Statistics/Statistics/Variance 2 R.V.s.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Introduction.md",
-    "Personal Readings/Labour Productivity and Compensation Gap.md",
-    "Economics/Public Enterprise and Reg/Contestability and Competition 2~3.md",
-    "Economics/Public Enterprise and Reg/Contestability and Competition 1~3.md",
-    "Economics/Public Enterprise and Reg/Natural Monopoly and Competition.md",
-    "Economics/Public Enterprise and Reg/Introduction.md",
-    "README.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Seminars",
     "Economics/Images/Pasted image 20241016164905.png",
     "Economics/Images/Pasted image 20241016163310.png",
     "Economics/Images/Pasted image 20241016162620.png",
@@ -223,19 +235,6 @@
     "Economics/Images/Pasted image 20241016161448.png",
     "Economics/Images/Pasted image 20241016161021.png",
     "Economics/Images/Pasted image 20241016160847.png",
-    "Economics/Images/Pasted image 20241016153402.png",
-    "Economics/Images/Pasted image 20241016153322.png",
-    "Economics/Images/Pasted image 20241016153219.png",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Labs",
-    "Economics/Behavioural Economics/Prospect Theory.md",
-    "Economics/Macroeconomics/Year 3/Investment Theory",
-    "Economics/Macroeconomics/Year 3/Seminars",
-    "Economics/Behavioural Economics/Seminars",
-    "Economics/Macroeconomics/Year 3/Permanent Income Hypothesis/attachments",
-    "Personal Readings/Marx Historical Materialism.docx",
-    "Economics/Econometrics and Statistics/Applied Econometric Time Series/Stationary Time-Series Models",
-    "Economics/Econometrics and Statistics/Applied Econometric Time Series/Difference Equations",
-    "Economics/Econometrics and Statistics/Applied Econometric Time Series",
     "Untitled.canvas"
   ]
 }
