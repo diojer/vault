@@ -16,7 +16,9 @@
                 "file": "Modules Notes.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Modules Notes"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Free Time Activities.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Free Time Activities"
             }
           },
           {
@@ -37,10 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work Queue.md",
+                "file": "Economics/Behavioural Economics/Seminars/Seminar 2.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Seminar 2"
             }
           }
         ],
@@ -64,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -79,7 +87,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -87,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -95,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -118,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work Queue.md",
+                "file": "Economics/Behavioural Economics/Seminars/Seminar 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +140,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Seminar 2"
             }
           },
           {
@@ -135,10 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work Queue.md",
+                "file": "Economics/Behavioural Economics/Seminars/Seminar 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Seminar 2"
             }
           },
           {
@@ -149,7 +167,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -158,8 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work Queue.md"
-              }
+                "file": "Economics/Behavioural Economics/Seminars/Seminar 2.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Seminar 2"
             }
           },
           {
@@ -167,7 +189,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -190,6 +214,10 @@
   },
   "active": "56673fa4e34d54be",
   "lastOpenFiles": [
+    "Economics/Modern Theories of Money/Endogenous and Exogenous Money/Macro-Led Modelling.md",
+    "Economics/Behavioural Economics/Seminars/Seminar 2.md",
+    "Economics/Modern Theories of Money/Endogenous and Exogenous Money",
+    "Work Queue.md",
     "Economics/Public Enterprise and Reg/Contestability and Competition 3~3.md",
     "Economics/Public Enterprise and Reg/Seminars/Seminar 1 Reading Notes ~ British Bus Deregulation.md",
     "Economics/Econometrics and Statistics/Assessment/~$canada AETS.xlsx",
@@ -222,11 +250,8 @@
     "Economics/Macroeconomics/Year 3/Aggregate Supply",
     "Economics/Macroeconomics/Year 3/Wage Setting.md",
     "README.md",
-    "Economics.md",
-    "Work Queue.md",
     "Economics/Images/Pasted image 20241021193739.png",
     "Economics/Images/Pasted image 20241021193151.png",
-    "Extra Files/gradrolesxlsx.xlsx",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/attachments/Pasted image 20241019203555.png",
     "Economics/Images/Pasted image 20241016164905.png",
     "Economics/Images/Pasted image 20241016163310.png",
