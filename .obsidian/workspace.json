@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Behavioural Economics/Seminars/Seminar 2.md",
+                "file": "Economics/Public Enterprise and Reg/Seminars/Seminar 1 Reading Notes ~ British Bus Deregulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seminar 2"
+              "title": "Seminar 1 Reading Notes ~ British Bus Deregulation"
             }
           }
         ],
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "covariance",
+                "query": "unconstra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Behavioural Economics/Seminars/Seminar 2.md",
+                "file": "Economics/Public Enterprise and Reg/Seminars/Seminar 1 Reading Notes ~ British Bus Deregulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Seminar 2"
+              "title": "Backlinks for Seminar 1 Reading Notes ~ British Bus Deregulation"
             }
           },
           {
@@ -151,12 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Behavioural Economics/Seminars/Seminar 2.md",
+                "file": "Economics/Public Enterprise and Reg/Seminars/Seminar 1 Reading Notes ~ British Bus Deregulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Seminar 2"
+              "title": "Outgoing links from Seminar 1 Reading Notes ~ British Bus Deregulation"
             }
           },
           {
@@ -178,10 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Behavioural Economics/Seminars/Seminar 2.md"
+                "file": "Economics/Public Enterprise and Reg/Seminars/Seminar 1 Reading Notes ~ British Bus Deregulation.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Seminar 2"
+              "title": "Outline of Seminar 1 Reading Notes ~ British Bus Deregulation"
             }
           },
           {
@@ -214,10 +214,25 @@
   },
   "active": "56673fa4e34d54be",
   "lastOpenFiles": [
-    "Economics/Modern Theories of Money/Endogenous and Exogenous Money/Macro-Led Modelling.md",
-    "Economics/Behavioural Economics/Seminars/Seminar 2.md",
-    "Economics/Modern Theories of Money/Endogenous and Exogenous Money",
+    "Economics/Maths for Business and Economics 2/Optimisation/Optimisation.md",
+    "Economics/Macroeconomics/Year 3/Investment Theory/Tobin and Keynes.md",
+    "Economics/Macroeconomics/Year 3/Seminars/Seminar 2.md",
+    "Economics/Macroeconomics/Year 3/Seminars/Seminar 1.md",
+    "Economics/Econometrics and Statistics/Statistics/Probability Distributions.md",
+    "Free Time Activities.md",
+    "Modules Notes.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Panel Data.md",
     "Work Queue.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Exemplary Workflow.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Stationarity, Drifts and Trends.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Tests for Serial Correlation.md",
+    "Economics/Macroeconomics/Year 3/Permanent Income Hypothesis/Empirics and Alternate Theories.md",
+    "Economics/Macroeconomics/Year 3/Aggregate Supply/Wage Setting.md",
+    "Economics/Behavioural Economics/Prospect Theory.md",
+    "Economics/Behavioural Economics/Risk and Uncertainty.md",
+    "Economics/Behavioural Economics/Seminars/Seminar 2.md",
+    "Economics/Modern Theories of Money/Endogenous and Exogenous Money/Macro-Led Modelling.md",
+    "Economics/Modern Theories of Money/Endogenous and Exogenous Money",
     "Economics/Public Enterprise and Reg/Contestability and Competition 3~3.md",
     "Economics/Public Enterprise and Reg/Seminars/Seminar 1 Reading Notes ~ British Bus Deregulation.md",
     "Economics/Econometrics and Statistics/Assessment/~$canada AETS.xlsx",
@@ -227,29 +242,14 @@
     "Economics/Econometrics and Statistics/Assessment/23EBC1B0",
     "Economics/Public Enterprise and Reg/Contestability and Competition 1~3.md",
     "Economics/Public Enterprise and Reg/Seminars",
-    "Modules Notes.md",
     "Economics/Econ JH FYP 3RD YEAR/Lecture 4.md",
     "Extra Files/0122E7A0",
     "Economics/Econ JH FYP 3RD YEAR/Introduction.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Introduction.md",
     "Extra Files/~$gradrolesxlsx.xlsx",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Tests for Serial Correlation.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/VAR Models.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Panel Data.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Labs/Lab 1 ~ ARMA, ARDL and Serial Correlation.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Exemplary Workflow.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/ARDL Multipliers and Serial Correlation.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Stationarity, Drifts and Trends.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Forecasting.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Error Correction Models.md",
-    "Personal Readings/IFS - Capital Gains Tax Reform.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Cointegration.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/MA, AR, ARMA Models.md",
-    "Economics/Econometrics and Statistics/Econometrics/Second Year/Further Topics and Tests (!).md",
-    "Economics/Macroeconomics/Year 3/Aggregate Supply/Wage Setting.md",
     "Economics/Macroeconomics/Year 3/Aggregate Supply",
-    "Economics/Macroeconomics/Year 3/Wage Setting.md",
-    "README.md",
     "Economics/Images/Pasted image 20241021193739.png",
     "Economics/Images/Pasted image 20241021193151.png",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/attachments/Pasted image 20241019203555.png",

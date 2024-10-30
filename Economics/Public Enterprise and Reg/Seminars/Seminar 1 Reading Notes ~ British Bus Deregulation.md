@@ -33,3 +33,4 @@ However, real fares increased everywhere except Scotland, and passenger trips de
 Due to 42 day window, incumbents could adjust prices down before entrants came in.
 ## London
 In London deregulation was not pursued so vigorously, instead entry was regulated but the incumbent was decided via competitive tendering. Results were better, with the regulator retaining some control over fares and timetables, but costs still decreasing by 14%.
+- In London, the passenger usage of public transport did go down, but it "outperformed" expectations - the drop was much smaller than originally thought.
