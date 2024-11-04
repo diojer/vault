@@ -1,3 +1,4 @@
+#study
 # Background
 Prior to deregulation, entry into the British bus industry had been restricted by a licensing system.
 - Single operator was given the right to run any particular route,
