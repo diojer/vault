@@ -1,5 +1,0 @@
-- Rail operators typically don't take on the contract themselves, instead setting up limited liability companies.
-	- This can create perverse incentives where the main company can walk away from the bankrupt Ltd. if it fails.
-	- To offset this risk, the contract authority forces the main company to lend the Ltd. some amount of money.
-		- This increases the riskier the initial bid. I.e., if the initial bid is higher than average, that is riskier - to offset risk of "winner's curse", main companies have to "put their money where their mouth is" and lend more. In the event of bankruptcy, the contract authority uses the money as collateral.
-- Germany/Sweden use gross cost contracts.

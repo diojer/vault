@@ -1,3 +1,4 @@
+#study
 # Abstract:
 CTC tends to improve service quality and efficiency in healthcare services in Norway.
 # Theoretical Framework
@@ -40,7 +41,7 @@ Dependent variables:
 2. Living Facilities
 3. Home nursing
 4. Home help
-(Each dependent variable was measured for citizen satisfaction and user satisfaction).
+(Each dependent variable was twice measured for citizen satisfaction and user satisfaction).
 ---
 - CTC is a significantly significant, positive relationship with satisfaction in 7 of the 8 dependent variables modelled.
 - When CTC is *recently introduced*, it has a negative relation with satisfaction. This indicates that the transaction-cost economics view has some merit - with more experience, government contract-management capacity improves and the relationship switches to positive.
