@@ -32,7 +32,7 @@ Assumptions:
 1. Firms cannot monitor workers' effort ($\epsilon$) and use unemployment as a disciplinary device to extract the desired productivity.
 2. When $\epsilon=0$, workers put in *no effort*. The disutility of work is zero.
 3. When $\epsilon=\epsilon^{min}$, workers put in the minimum desired effort ("no shirking"). The disutility of work is greater than zero.
-4. Workers' effort is a function: $\epsilon=\epsilon(w(-),N(+), \dots)$
+4. Workers' effort is a function: $\epsilon=\epsilon(w(+),N(-), \dots)$
 	- Firms have two methods to encourage effort:
 		- Unemployment threat to increase the risk of shirking,
 		- Offering real wages above the opportunity cost of losing job.
@@ -48,7 +48,7 @@ Assumptions:
 	- They will find an equivalent job with probability $0<h<1\to$ earning $w$.
 	- They will find no job with probability $1-h\to$ receive benefits $0<b<w$.
 	- If we ==treat the unemployment rate $u$ as the probability of not finding a job==, then:
-		- $1-h=u$
+		- $1-h=u$, or $h=N$
 Hence, the workers' ==value of shirking== is:
 $$
 V_{S}=(1-\tau)w+\tau[hw+(1-h)b]
@@ -77,7 +77,22 @@ $$
 
 In this model, unemployment occurs because it helps increase the productivity in an economy.
 ## Policy Implications
+- Reducing benefits increases the opportunity cost of losing job, increasing productivity and thus employment (because unemployment does not need to be used as a disciplinary device).
+- Improved monitoring technology or a reduction in the disutility of work increase employment,
+- Full employment is impossible - firms need to extract extra productivity and the threat of not finding a job immediately after being fired does that.
+# Fair Wage-Effort Hypothesis
+Akerlof and Yelen (1990) propose an alternative explanation, typically called the behavioural approach.
 
+The fair wage-effort hypothesis posits that effort is a function of the real wage earned compared to the real wage others earn for other (or the same) jobs.
+- If $w=w^* \to \epsilon=1$ : normal effort is given in return for fair wages.
+- If $w<w^* \to \epsilon<1$ : less than normal effort given for unfair wages.
+$$
+\epsilon=min\left( \frac{w}{w^*},1 \right)
+$$
+It is therefore in the interest of profit maximising firms to offer wages above the bare minimum to show workers they are paid a fair wage, ensuring $\epsilon=1$.
+# Empirical Evidence
+![[Pasted image 20241106215501.png]]
+- While high union density and collective bargaining is sometimes linked to high unemployment, it is also linked to very low unemployment in many European countries.
 # Questions
 - Does the assessment of workers for shirking take into account behavioural understandings, e.g., risk-aversion, loss-aversion, uncertainty-aversion.
 - Does Antonio have an opinion on Blanchard's "why is there persistent unemployment in Europe"?
