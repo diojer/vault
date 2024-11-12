@@ -9,7 +9,11 @@ $$
 \frac{W}{P}=(1-\mu)MPL
 $$Also:
 $$
-\frac{\eta-1}{\eta}= (1+\mu)
+\frac{\eta}{\eta-1}= (1+\mu)
+$$
+And:
+$$
+\frac{\eta-1}{\eta}=\frac{1}{1+\mu}\approx 1-\mu
 $$
 So:
 - Real wages are a positive function of demand elasticity, but a negative function of the mark-up.
