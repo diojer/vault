@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Public Enterprise and Reg/Seminars/Seminar 2 Reading Notes ~ CTC Healthcare.md",
+                "file": "Economics/Behavioural Economics/Seminars/Seminar 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seminar 2 Reading Notes ~ CTC Healthcare"
+              "title": "Seminar 3"
             }
           }
         ],
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Public Enterprise and Reg/Seminars/Seminar 2 Reading Notes ~ CTC Healthcare.md",
+                "file": "Economics/Behavioural Economics/Seminars/Seminar 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Seminar 2 Reading Notes ~ CTC Healthcare"
+              "title": "Backlinks for Seminar 3"
             }
           },
           {
@@ -151,12 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Public Enterprise and Reg/Seminars/Seminar 2 Reading Notes ~ CTC Healthcare.md",
+                "file": "Economics/Behavioural Economics/Seminars/Seminar 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Seminar 2 Reading Notes ~ CTC Healthcare"
+              "title": "Outgoing links from Seminar 3"
             }
           },
           {
@@ -178,10 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Public Enterprise and Reg/Seminars/Seminar 2 Reading Notes ~ CTC Healthcare.md"
+                "file": "Economics/Behavioural Economics/Seminars/Seminar 3.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Seminar 2 Reading Notes ~ CTC Healthcare"
+              "title": "Outline of Seminar 3"
             }
           },
           {
@@ -199,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 422.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,9 +214,36 @@
   },
   "active": "56673fa4e34d54be",
   "lastOpenFiles": [
+    "Economics/Behavioural Economics/Seminars/Seminar 1.md",
+    "Economics/Behavioural Economics/Seminars/Seminar 2.md",
+    "Economics/Behavioural Economics/Seminars/Seminar 3.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Discrete Choice Models/Binary Choice.md",
+    "Economics/Modern Theories of Money/Seminar 1.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data/ARDL Multipliers and Serial Correlation.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Discrete Choice Models",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Panel Data/Testing for Models.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Panel Data/Random Effects.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Panel Data/Panel Data Introduction.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Panel Data/Fixed Effects.md",
+    "Personal Readings/What Causes High Inflation/What Causes High Inflation.md",
+    "Economics/Dissertation/First Meeting Presentation.md",
+    "Economics/Dissertation/Reading Notes/Is Public Procurement a Successful Small Business Policy.md",
+    "Economics/Images/Pasted image 20241104130111.png",
+    "Economics/Images/Pasted image 20241104130104.png",
+    "Economics/Images/Pasted image 20241104130033.png",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data/Error Correction Models.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data/Cointegration.md",
+    "Economics/Public Enterprise and Reg/Seminars/Seminar 2 Reading Notes ~ CTC Healthcare.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Panel Data",
+    "Economics/Dissertation/Reading Notes/attachments/Pasted image 20241104014623.png",
+    "Economics/Dissertation/Reading Notes/attachments/Pasted image 20241104014607.png",
+    "Economics/Dissertation/Reading Notes/attachments/Pasted image 20241104014549.png",
+    "Economics/Dissertation/Reading Notes/attachments",
+    "Economics/Dissertation/Reading Notes",
+    "Economics/Dissertation",
     "Personal Readings/Autumn Budget 2024.md",
     "Personal Readings/IFS - Capital Gains Tax Reform.md",
-    "Economics/Public Enterprise and Reg/Seminars/Seminar 2 Reading Notes ~ CTC Healthcare.md",
     "Economics/Public Enterprise and Reg/Seminars/Seminar 2 Class Notes.md",
     "Modules Notes.md",
     "Economics/Public Enterprise and Reg/Seminars/Seminar 1 Reading Notes ~ British Bus Deregulation.md",
@@ -225,41 +252,14 @@
     "Economics/Macroeconomics/Year 3/Seminars/Seminar 2.md",
     "Economics/Macroeconomics/Year 3/Seminars/Seminar 1.md",
     "Economics/Econometrics and Statistics/Statistics/Probability Distributions.md",
-    "Free Time Activities.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Panel Data.md",
-    "Work Queue.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Exemplary Workflow.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Stationarity, Drifts and Trends.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Tests for Serial Correlation.md",
-    "Economics/Macroeconomics/Year 3/Permanent Income Hypothesis/Empirics and Alternate Theories.md",
-    "Economics/Macroeconomics/Year 3/Aggregate Supply/Wage Setting.md",
-    "Economics/Behavioural Economics/Prospect Theory.md",
-    "Economics/Behavioural Economics/Risk and Uncertainty.md",
-    "Economics/Behavioural Economics/Seminars/Seminar 2.md",
-    "Economics/Modern Theories of Money/Endogenous and Exogenous Money/Macro-Led Modelling.md",
     "Economics/Modern Theories of Money/Endogenous and Exogenous Money",
-    "Economics/Public Enterprise and Reg/Contestability and Competition 3~3.md",
     "Economics/Econometrics and Statistics/Assessment/~$canada AETS.xlsx",
     "Economics/Econometrics and Statistics/Assessment/56C332B0",
     "Economics/Econometrics and Statistics/Assessment/ED53D1B0",
-    "Economics/Econometrics and Statistics/Assessment/F04DC1B0",
-    "Economics/Econometrics and Statistics/Assessment/23EBC1B0",
-    "Economics/Public Enterprise and Reg/Contestability and Competition 1~3.md",
-    "Economics/Public Enterprise and Reg/Seminars",
-    "Economics/Econ JH FYP 3RD YEAR/Lecture 4.md",
-    "Extra Files/0122E7A0",
-    "Extra Files/~$gradrolesxlsx.xlsx",
-    "Economics/Macroeconomics/Year 3/Aggregate Supply",
     "Economics/Images/Pasted image 20241021193739.png",
     "Economics/Images/Pasted image 20241021193151.png",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/attachments/Pasted image 20241019203555.png",
     "Economics/Images/Pasted image 20241016164905.png",
-    "Economics/Images/Pasted image 20241016163310.png",
-    "Economics/Images/Pasted image 20241016162620.png",
-    "Economics/Images/Pasted image 20241016162525.png",
-    "Economics/Images/Pasted image 20241016161448.png",
-    "Economics/Images/Pasted image 20241016161021.png",
-    "Economics/Images/Pasted image 20241016160847.png",
     "Untitled.canvas"
   ]
 }
