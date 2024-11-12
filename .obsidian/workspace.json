@@ -39,14 +39,13 @@
             "id": "56673fa4e34d54be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Economics/Behavioural Economics/Seminars/Seminar 3.md",
-                "mode": "source",
-                "source": false
+                "file": "Economics/Macroeconomics/Year 3/AS/Empirics and Hysteresis.md",
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "Seminar 3"
+              "icon": "git-pull-request",
+              "title": "Diff View (Empirics and Hysteresis)"
             }
           }
         ],
@@ -132,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Behavioural Economics/Seminars/Seminar 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Seminar 3"
+              "title": "Backlinks"
             }
           },
           {
@@ -151,12 +149,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Behavioural Economics/Seminars/Seminar 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Seminar 3"
+              "title": "Outgoing links"
             }
           },
           {
@@ -177,11 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Economics/Behavioural Economics/Seminars/Seminar 3.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Seminar 3"
+              "title": "Outline"
             }
           },
           {
@@ -214,52 +209,52 @@
   },
   "active": "56673fa4e34d54be",
   "lastOpenFiles": [
+    "Economics/Macroeconomics/Year 3/Monetary Policy/IS-PC-MR.md",
+    "Economics/Macroeconomics/Year 3/AS/Wage and Price Setting.md",
+    "Economics/Macroeconomics/Year 3/Monetary Policy",
+    "Economics/Macroeconomics/Year 3/AS/Untitled.md",
+    "Economics/Macroeconomics/Year 3/AS/Empirics and Hysteresis.md",
+    "Economics/Behavioural Economics/Seminars/Seminar 3.md",
+    "Economics/Modern Theories of Money/Seminars/Seminar 1 ~ Nature and Origin of Money.md",
+    "Economics/Modern Theories of Money/Seminars",
+    "Economics/Modern Theories of Money/Reading Notes/Handbook of Alternative Monetary Economics ~ Chap 5.md",
+    "Economics/Modern Theories of Money/Reading Notes",
+    "Economics/Macroeconomics/Year 3/Readings/w14818.pdf",
+    "Economics/Macroeconomics/Year 3/Readings/Howell20et20al_Institutions20and20Unemployment_march15.07.pdf",
+    "Economics/Macroeconomics/Year 3/Readings",
+    "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241110145758.png",
+    "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241110192024.png",
+    "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241110191722.png",
+    "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241110191235.png",
+    "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241110175814.png",
+    "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241110151455.png",
+    "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241110151347.png",
+    "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241110150212.png",
+    "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241107003442.png",
+    "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241106221014.png",
+    "Economics/Macroeconomics/Year 3/AS/Wage Setting.md",
+    "Economics/Macroeconomics/Year 3/AS/Price Setting.md",
+    "Economics/Macroeconomics/Year 3/AS/attachments",
+    "Economics/Macroeconomics/Year 3/AS",
+    "Economics/Macroeconomics/Year 3/AD/Investment/Tobin and Keynes.md",
+    "Economics/Macroeconomics/Year 3/AD/Consumption/Introduction.md",
+    "Economics/Macroeconomics/Year 3/AD/Consumption/Empirics and Alternate Theories.md",
+    "Economics/Macroeconomics/Year 3/AD/Consumption/attachments",
+    "Economics/Macroeconomics/Year 3/AD/Investment",
     "Economics/Behavioural Economics/Seminars/Seminar 1.md",
     "Economics/Behavioural Economics/Seminars/Seminar 2.md",
-    "Economics/Behavioural Economics/Seminars/Seminar 3.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Discrete Choice Models/Binary Choice.md",
     "Economics/Modern Theories of Money/Seminar 1.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data/ARDL Multipliers and Serial Correlation.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Discrete Choice Models",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Panel Data/Testing for Models.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Panel Data/Random Effects.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Panel Data/Panel Data Introduction.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Panel Data/Fixed Effects.md",
     "Personal Readings/What Causes High Inflation/What Causes High Inflation.md",
     "Economics/Dissertation/First Meeting Presentation.md",
     "Economics/Dissertation/Reading Notes/Is Public Procurement a Successful Small Business Policy.md",
-    "Economics/Images/Pasted image 20241104130111.png",
-    "Economics/Images/Pasted image 20241104130104.png",
-    "Economics/Images/Pasted image 20241104130033.png",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data/Error Correction Models.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data/Cointegration.md",
-    "Economics/Public Enterprise and Reg/Seminars/Seminar 2 Reading Notes ~ CTC Healthcare.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Panel Data",
-    "Economics/Dissertation/Reading Notes/attachments/Pasted image 20241104014623.png",
-    "Economics/Dissertation/Reading Notes/attachments/Pasted image 20241104014607.png",
-    "Economics/Dissertation/Reading Notes/attachments/Pasted image 20241104014549.png",
-    "Economics/Dissertation/Reading Notes/attachments",
-    "Economics/Dissertation/Reading Notes",
-    "Economics/Dissertation",
-    "Personal Readings/Autumn Budget 2024.md",
-    "Personal Readings/IFS - Capital Gains Tax Reform.md",
-    "Economics/Public Enterprise and Reg/Seminars/Seminar 2 Class Notes.md",
-    "Modules Notes.md",
-    "Economics/Public Enterprise and Reg/Seminars/Seminar 1 Reading Notes ~ British Bus Deregulation.md",
-    "Economics/Maths for Business and Economics 2/Optimisation/Optimisation.md",
-    "Economics/Macroeconomics/Year 3/Investment Theory/Tobin and Keynes.md",
-    "Economics/Macroeconomics/Year 3/Seminars/Seminar 2.md",
-    "Economics/Macroeconomics/Year 3/Seminars/Seminar 1.md",
-    "Economics/Econometrics and Statistics/Statistics/Probability Distributions.md",
-    "Economics/Modern Theories of Money/Endogenous and Exogenous Money",
-    "Economics/Econometrics and Statistics/Assessment/~$canada AETS.xlsx",
-    "Economics/Econometrics and Statistics/Assessment/56C332B0",
-    "Economics/Econometrics and Statistics/Assessment/ED53D1B0",
-    "Economics/Images/Pasted image 20241021193739.png",
-    "Economics/Images/Pasted image 20241021193151.png",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/attachments/Pasted image 20241019203555.png",
-    "Economics/Images/Pasted image 20241016164905.png",
     "Untitled.canvas"
   ]
 }
