@@ -1,3 +1,4 @@
+# Pre-seminar
 1. --
 $$
 \frac{W}{P}=\frac{\eta-1}{\eta}\cdot MPL
@@ -24,3 +25,4 @@ Where:
 	b)
 		![[Pasted image 20241112133828.png]]
 		Policy implications: the price elasticity of demand in the goods market should be maximised to ensure high levels of employment.
+# Seminar Questions

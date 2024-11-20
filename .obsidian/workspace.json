@@ -41,11 +41,11 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Economics/Macroeconomics/Year 3/AS/Empirics and Hysteresis.md",
+                "file": "Economics/Macroeconomics/Year 3/Seminars/Seminar 3.md",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (Empirics and Hysteresis)"
+              "title": "Diff View (Seminar 3)"
             }
           }
         ],
@@ -207,8 +207,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ddb9eb0abfadfc5d",
+  "active": "56673fa4e34d54be",
   "lastOpenFiles": [
+    "Economics/Behavioural Economics/Fairness and Social Preference.md",
+    "Economics/Behavioural Economics/Prospect Theory.md",
+    "Economics/Behavioural Economics/Risk and Uncertainty.md",
+    "Economics/Behavioural Economics/Introduction.md",
+    "Economics/Macroeconomics/Year 3/Seminars/Seminar 3.md",
+    "Economics/Macroeconomics/Year 3/AS/Price Setting.md",
+    "Economics/Macroeconomics/Year 3/Seminars/attachments/Pasted image 20241112133828.png",
+    "Economics/Macroeconomics/Year 3/Seminars/attachments",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Discrete Choice Models/attachments/Pasted image 20241112123813.png",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Discrete Choice Models/attachments",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Discrete Choice Models/Probit and Logit.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Discrete Choice Models/Linear Probability Model.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Discrete Choice Models/Introduction.md",
     "Economics/Modern Theories of Money/Reading Notes/Handbook of Alternative Monetary Economics.md",
     "Economics/Macroeconomics/Year 3/Monetary Policy/IS-PC-MR.md",
     "Economics/Macroeconomics/Year 3/AS/Wage and Price Setting.md",
@@ -231,30 +244,17 @@
     "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241110151455.png",
     "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241110151347.png",
     "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241110150212.png",
-    "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241107003442.png",
-    "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241106221014.png",
     "Economics/Macroeconomics/Year 3/AS/Wage Setting.md",
-    "Economics/Macroeconomics/Year 3/AS/Price Setting.md",
     "Economics/Macroeconomics/Year 3/AS/attachments",
     "Economics/Macroeconomics/Year 3/AS",
     "Economics/Macroeconomics/Year 3/AD/Investment/Tobin and Keynes.md",
     "Economics/Macroeconomics/Year 3/AD/Consumption/Introduction.md",
     "Economics/Macroeconomics/Year 3/AD/Consumption/Empirics and Alternate Theories.md",
-    "Economics/Macroeconomics/Year 3/AD/Consumption/attachments",
-    "Economics/Macroeconomics/Year 3/AD/Investment",
     "Economics/Behavioural Economics/Seminars/Seminar 1.md",
     "Economics/Behavioural Economics/Seminars/Seminar 2.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Discrete Choice Models/Binary Choice.md",
     "Economics/Modern Theories of Money/Seminar 1.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data/ARDL Multipliers and Serial Correlation.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Panel Data/Testing for Models.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Panel Data/Random Effects.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Panel Data/Panel Data Introduction.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Panel Data/Fixed Effects.md",
-    "Personal Readings/What Causes High Inflation/What Causes High Inflation.md",
-    "Economics/Dissertation/First Meeting Presentation.md",
-    "Economics/Dissertation/Reading Notes/Is Public Procurement a Successful Small Business Policy.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data/Error Correction Models.md",
     "Untitled.canvas"
   ]
 }
