@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modules Notes.md",
+                "file": "Economics/Dissertation/Reading Notes/Second Meeting Presentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modules Notes"
+              "title": "Second Meeting Presentation"
             }
           },
           {
@@ -34,22 +34,8 @@
               "icon": "lucide-file",
               "title": "Free Time Activities"
             }
-          },
-          {
-            "id": "56673fa4e34d54be",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Economics/Macroeconomics/Year 3/Seminars/Seminar 3.md",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (Seminar 3)"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Economics/Dissertation/Reading Notes/Second Meeting Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Second Meeting Presentation"
             }
           },
           {
@@ -149,11 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Economics/Dissertation/Reading Notes/Second Meeting Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Second Meeting Presentation"
             }
           },
           {
@@ -174,9 +162,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Economics/Dissertation/Reading Notes/Second Meeting Presentation.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Second Meeting Presentation"
             }
           },
           {
@@ -207,8 +197,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "56673fa4e34d54be",
+  "active": "18c2c1c77872b4af",
   "lastOpenFiles": [
+    "Economics/Dissertation/First Meeting Presentation.md",
+    "Economics/Dissertation/Reading Notes/Second Meeting Presentation.md",
+    "Economics/Dissertation/Reading Notes/Is Public Procurement a Successful Small Business Policy.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data/Cointegration.md",
+    "Modules Notes.md",
+    "Economics/Modern Theories of Money/Seminars/Seminar 2 ~ Endogenous Money Theory and EM Macro Modelling.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/Readings/The_Determinants_of_Inflation_in_Pakista.pdf",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/Readings/List of Links.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/Readings/DETERMINANTSOFINFLATIONINJORDANIANECONOMYFMOLSAPPROACH.pdf",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/Readings/125946698.pdf",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/attachments/Pasted image 20241115000047.png",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/attachments/Pasted image 20241112172303.png",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/attachments/Pasted image 20241112165554.png",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/Readings",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/Inflation in West Sumatra 2020.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/Inflation in Ukraine 2000.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/Inflation in Thailand 2024.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/Inflation in Pakistan 2017.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/Inflation in Pakistan 2011.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/attachments",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment",
     "Economics/Behavioural Economics/Fairness and Social Preference.md",
     "Economics/Behavioural Economics/Prospect Theory.md",
     "Economics/Behavioural Economics/Risk and Uncertainty.md",
@@ -228,33 +240,11 @@
     "Economics/Macroeconomics/Year 3/Monetary Policy",
     "Economics/Macroeconomics/Year 3/AS/Untitled.md",
     "Economics/Macroeconomics/Year 3/AS/Empirics and Hysteresis.md",
-    "Economics/Behavioural Economics/Seminars/Seminar 3.md",
-    "Economics/Modern Theories of Money/Seminars/Seminar 1 ~ Nature and Origin of Money.md",
-    "Economics/Modern Theories of Money/Seminars",
-    "Economics/Modern Theories of Money/Reading Notes/Handbook of Alternative Monetary Economics ~ Chap 5.md",
-    "Economics/Modern Theories of Money/Reading Notes",
-    "Economics/Macroeconomics/Year 3/Readings/w14818.pdf",
-    "Economics/Macroeconomics/Year 3/Readings/Howell20et20al_Institutions20and20Unemployment_march15.07.pdf",
-    "Economics/Macroeconomics/Year 3/Readings",
     "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241110145758.png",
     "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241110192024.png",
     "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241110191722.png",
     "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241110191235.png",
     "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241110175814.png",
-    "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241110151455.png",
-    "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241110151347.png",
-    "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241110150212.png",
-    "Economics/Macroeconomics/Year 3/AS/Wage Setting.md",
-    "Economics/Macroeconomics/Year 3/AS/attachments",
-    "Economics/Macroeconomics/Year 3/AS",
-    "Economics/Macroeconomics/Year 3/AD/Investment/Tobin and Keynes.md",
-    "Economics/Macroeconomics/Year 3/AD/Consumption/Introduction.md",
-    "Economics/Macroeconomics/Year 3/AD/Consumption/Empirics and Alternate Theories.md",
-    "Economics/Behavioural Economics/Seminars/Seminar 1.md",
-    "Economics/Behavioural Economics/Seminars/Seminar 2.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Discrete Choice Models/Binary Choice.md",
-    "Economics/Modern Theories of Money/Seminar 1.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data/ARDL Multipliers and Serial Correlation.md",
     "Untitled.canvas"
   ]
 }
