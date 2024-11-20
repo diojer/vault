@@ -1,0 +1,30 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  G:\University Documents\Notes\PPE\Shared Notes\Economics\Econometrics and Statistics\Econometrics\Third Year\Assessment\Data\Stata\denmark1.log
+  log type:  text
+ opened on:  18 Nov 2024, 00:53:49
+
+. sum inf m xr gep
+
+    Variable |        Obs        Mean    Std. dev.       Min        Max
+-------------+---------------------------------------------------------
+         inf |         96    .0186354    .0193995      -.003       .111
+           m |         96     1271726    377165.8     507134    1922206
+          xr |         96    96.05021    3.814832      85.43     103.24
+         gep |         96    153.2676      64.919    51.7029   350.1239
+
+. do "C:\Users\Admin\AppData\Local\Temp\STD63bc_000000.tmp"
+
+. foreach v of var * {
+  2.         gen l`v' = ln(`v')
+  3. }
+(2 missing values generated)
+
+. 
+end of do-file
+
+. browse
+
+. drop linf lm lxr lgep ltime
+
+. exit, clear
