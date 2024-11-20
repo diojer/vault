@@ -1,5 +1,6 @@
 Available [here](https://ifs.org.uk/publications/capital-gains-tax-reform).
-
+```table-of-contents
+```
 ---
 - Capital Gains Tax
 	- A tax levied on the increase in value of an asset between its acquisition and disposal (sale).
