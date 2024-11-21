@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Dissertation/Reading Notes/Second Meeting Presentation.md",
+                "file": "University Events/Karsten Kohler Macroeconomic Modelling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Second Meeting Presentation"
+              "title": "Karsten Kohler Macroeconomic Modelling"
             }
           },
           {
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Dissertation/Reading Notes/Second Meeting Presentation.md",
+                "file": "University Events/Karsten Kohler Macroeconomic Modelling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Second Meeting Presentation"
+              "title": "Backlinks for Karsten Kohler Macroeconomic Modelling"
             }
           },
           {
@@ -136,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Dissertation/Reading Notes/Second Meeting Presentation.md",
+                "file": "University Events/Karsten Kohler Macroeconomic Modelling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Second Meeting Presentation"
+              "title": "Outgoing links from Karsten Kohler Macroeconomic Modelling"
             }
           },
           {
@@ -163,10 +163,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Dissertation/Reading Notes/Second Meeting Presentation.md"
+                "file": "University Events/Karsten Kohler Macroeconomic Modelling.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Second Meeting Presentation"
+              "title": "Outline of Karsten Kohler Macroeconomic Modelling"
             }
           },
           {
@@ -199,28 +199,39 @@
   },
   "active": "18c2c1c77872b4af",
   "lastOpenFiles": [
+    "Economics/Behavioural Economics/Nonstandard Beliefs.md",
+    "University Events/Karsten Kohler Macroeconomic Modelling.md",
+    "Modules Notes.md",
+    "Economics/Behavioural Economics/Social Preferences II.md",
+    "Economics/Dissertation/Second Meeting Presentation.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/Variables Data/XR Data.csv",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/Variables Data/M4 Data.csv",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/Variables Data/GEP Data.csv",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/Variables Data/CPI Data.csv",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/Variables Data",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/uk.csv",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/UK STATA DATA.dta",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/test.rft",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/iceland.csv",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/Graph.png",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/Do1.do",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/DNKXR.png",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/DNKM.png",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/DNKGEP.png",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/DNKCPI.png",
     "Economics/Dissertation/First Meeting Presentation.md",
-    "Economics/Dissertation/Reading Notes/Second Meeting Presentation.md",
     "Economics/Dissertation/Reading Notes/Is Public Procurement a Successful Small Business Policy.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data/Cointegration.md",
-    "Modules Notes.md",
     "Economics/Modern Theories of Money/Seminars/Seminar 2 ~ Endogenous Money Theory and EM Macro Modelling.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/Readings/The_Determinants_of_Inflation_in_Pakista.pdf",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/Readings/List of Links.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/Readings/DETERMINANTSOFINFLATIONINJORDANIANECONOMYFMOLSAPPROACH.pdf",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/Readings/125946698.pdf",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/attachments/Pasted image 20241115000047.png",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/attachments/Pasted image 20241112172303.png",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/attachments/Pasted image 20241112165554.png",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/Readings",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/Inflation in West Sumatra 2020.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/Inflation in Ukraine 2000.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/Inflation in Thailand 2024.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/Inflation in Pakistan 2017.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/Inflation in Pakistan 2011.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes/attachments",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Reading Notes",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment",
     "Economics/Behavioural Economics/Fairness and Social Preference.md",
     "Economics/Behavioural Economics/Prospect Theory.md",
     "Economics/Behavioural Economics/Risk and Uncertainty.md",
@@ -228,23 +239,12 @@
     "Economics/Macroeconomics/Year 3/Seminars/Seminar 3.md",
     "Economics/Macroeconomics/Year 3/AS/Price Setting.md",
     "Economics/Macroeconomics/Year 3/Seminars/attachments/Pasted image 20241112133828.png",
-    "Economics/Macroeconomics/Year 3/Seminars/attachments",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Discrete Choice Models/attachments/Pasted image 20241112123813.png",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Discrete Choice Models/attachments",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Discrete Choice Models/Probit and Logit.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Discrete Choice Models/Linear Probability Model.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Discrete Choice Models/Introduction.md",
     "Economics/Modern Theories of Money/Reading Notes/Handbook of Alternative Monetary Economics.md",
     "Economics/Macroeconomics/Year 3/Monetary Policy/IS-PC-MR.md",
-    "Economics/Macroeconomics/Year 3/AS/Wage and Price Setting.md",
-    "Economics/Macroeconomics/Year 3/Monetary Policy",
-    "Economics/Macroeconomics/Year 3/AS/Untitled.md",
-    "Economics/Macroeconomics/Year 3/AS/Empirics and Hysteresis.md",
-    "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241110145758.png",
-    "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241110192024.png",
-    "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241110191722.png",
-    "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241110191235.png",
-    "Economics/Macroeconomics/Year 3/AS/attachments/Pasted image 20241110175814.png",
     "Untitled.canvas"
   ]
 }
