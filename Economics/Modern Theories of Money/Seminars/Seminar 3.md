@@ -4,3 +4,10 @@
 2. Main transmission mechanism of monetary policy in modern macro.
 	- The main transmission mechanism relies on the fact that prices and wages are sticky in the short- to medium-run. Due to wage-contract and price rigidities, central banks can influence the real rate by changing the nominal rate. If these rigidities did not exist, any change in the nominal rate would not necessarily transmit to the real rate.
 	- After the real rate changes, aggregate demand is reduced, due to a reduction in consumption and investment. The decline in aggregate demand eases inflationary pressures.
+3. Pros and cons of the different non-quantity theoretic approaches
+	- The new consensus approach still relegates monetary policy to price stability and does not allow it to have any real effects.
+		- The real rate cannot affect the natural rate; investments never change savings; current output never changes potential output.
+		- The assumption of long-run neutrality may not be valid - Bernanke and Mihov (1998) use a VAR model to show that real GDP does not return to baseline after a monetary shock.
+	- The endogenous view supports the idea of path dependency - essentially, past levels of real output may affect potential output.
+		- However, with unit root hysteresis, we are left with two possible conclusions:
+			- 
