@@ -1,0 +1,9 @@
+1. Discuss the distinction between quantity theoretic and non-quantity theoretic approaches to monetary policy.
+	- Non-quantity theoretic approaches emphasise the role of the interest rate in affecting aggregate demand and consequently price levels. Quantity theories of money put more focus on the $MV \equiv PY$ relationship and assume $M\bar{V}=P\bar{Y}$, such that in the long-run the price level can only be influenced by the money supply.
+	- Non-quantity theories focus on the discrepancy between the real and natural rates of interest. When the real rate is above the natural rate, this constricts investment, reducing wages and aggregate demand. This reduction in aggregate demand alleviates inflationary pressure. The opposite is true. The change in the money supply is endogenously determined and is secondary to movements in the interest rate.
+		- Could be argued that Wicksell's theory still approaches a quantity theory of money, because the extra borrowing spurred on by a difference in interest rates is still a creation of money, and it is only through this new money which acts as income that aggregate demand can increase. 
+1. Discuss the main features of the transmission mechanism of monetary policy in modern macroeconomics.
+	- A change in the nominal interest rate affects the real interest rate only because prices and wages are "sticky" in the short-run, i.e., held constant due to structural factors, e.g., wage contracts.
+		- The change in the real interest rate affects the IS curve through consumption and investment. An increase in the rate will decrease investment, consumption, reduce aggregate demand and 
+1. Compare the strength and weakness of the different "non-quantity theoretic" approaches to monetary policy.
+	- ---
