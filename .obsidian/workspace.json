@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Economics/Macroeconomics/Year 3/AS/Empirics and Hysteresis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Empirics and Hysteresis"
+            }
+          },
+          {
+            "id": "12011376f7fe111d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Economics/Modern Theories of Money/Seminars/Seminar 3.md",
                 "mode": "source",
                 "source": false
@@ -35,7 +49,8 @@
               "title": "Free Time Activities"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Modern Theories of Money/Seminars/Seminar 3.md",
+                "file": "Economics/Macroeconomics/Year 3/AS/Empirics and Hysteresis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Seminar 3"
+              "title": "Backlinks for Empirics and Hysteresis"
             }
           },
           {
@@ -136,12 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Modern Theories of Money/Seminars/Seminar 3.md",
+                "file": "Economics/Macroeconomics/Year 3/AS/Empirics and Hysteresis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Seminar 3"
+              "title": "Outgoing links from Empirics and Hysteresis"
             }
           },
           {
@@ -163,10 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Modern Theories of Money/Seminars/Seminar 3.md"
+                "file": "Economics/Macroeconomics/Year 3/AS/Empirics and Hysteresis.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Seminar 3"
+              "title": "Outline of Empirics and Hysteresis"
             }
           },
           {
@@ -184,8 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5,
-    "collapsed": true
+    "width": 422.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,10 +212,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "18c2c1c77872b4af",
+  "active": "12011376f7fe111d",
   "lastOpenFiles": [
-    "Economics/Modern Theories of Money/Wicksell Questions.md",
+    "Economics/Behavioural Economics/Seminars/Seminar 4.md",
     "Economics/Modern Theories of Money/Seminars/Seminar 3.md",
+    "Economics/Modern Theories of Money/Wicksell Questions.md",
     "Economics/Modern Theories of Money/The Nature and Origin of Money.md",
     "University Events/Karsten Kohler Macroeconomic Modelling.md",
     "Economics/Behavioural Economics/Nonstandard Beliefs.md",
@@ -245,7 +260,6 @@
     "Economics/Macroeconomics/Year 3/Seminars/attachments/Pasted image 20241112133828.png",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Discrete Choice Models/attachments/Pasted image 20241112123813.png",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Discrete Choice Models/Probit and Logit.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Discrete Choice Models/Linear Probability Model.md",
     "Untitled.canvas"
   ]
 }
