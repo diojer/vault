@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University Events/Karsten Kohler Macroeconomic Modelling.md",
+                "file": "Economics/Modern Theories of Money/Seminars/Seminar 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Karsten Kohler Macroeconomic Modelling"
+              "title": "Seminar 3"
             }
           },
           {
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University Events/Karsten Kohler Macroeconomic Modelling.md",
+                "file": "Economics/Modern Theories of Money/Seminars/Seminar 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Karsten Kohler Macroeconomic Modelling"
+              "title": "Backlinks for Seminar 3"
             }
           },
           {
@@ -136,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University Events/Karsten Kohler Macroeconomic Modelling.md",
+                "file": "Economics/Modern Theories of Money/Seminars/Seminar 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Karsten Kohler Macroeconomic Modelling"
+              "title": "Outgoing links from Seminar 3"
             }
           },
           {
@@ -163,10 +163,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University Events/Karsten Kohler Macroeconomic Modelling.md"
+                "file": "Economics/Modern Theories of Money/Seminars/Seminar 3.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Karsten Kohler Macroeconomic Modelling"
+              "title": "Outline of Seminar 3"
             }
           },
           {
@@ -199,8 +199,10 @@
   },
   "active": "18c2c1c77872b4af",
   "lastOpenFiles": [
-    "Economics/Behavioural Economics/Nonstandard Beliefs.md",
+    "Economics/Modern Theories of Money/The Nature and Origin of Money.md",
+    "Economics/Modern Theories of Money/Seminars/Seminar 3.md",
     "University Events/Karsten Kohler Macroeconomic Modelling.md",
+    "Economics/Behavioural Economics/Nonstandard Beliefs.md",
     "Modules Notes.md",
     "Economics/Behavioural Economics/Social Preferences II.md",
     "Economics/Dissertation/Second Meeting Presentation.md",
@@ -243,8 +245,6 @@
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Discrete Choice Models/Probit and Logit.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Discrete Choice Models/Linear Probability Model.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Discrete Choice Models/Introduction.md",
-    "Economics/Modern Theories of Money/Reading Notes/Handbook of Alternative Monetary Economics.md",
-    "Economics/Macroeconomics/Year 3/Monetary Policy/IS-PC-MR.md",
     "Untitled.canvas"
   ]
 }
