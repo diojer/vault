@@ -1,3 +1,4 @@
+>Do not test with robust standard errors until all models have been tested for.
 # Testing for Fixed Effects vs. OLS
 >If any coefficient of an $f_{i}$ term is significant, we know we should use a fixed effects model instead of OLS. Consequently, we can do a joint-hypothesis testing if they are all statistically equal to zero:
 $$

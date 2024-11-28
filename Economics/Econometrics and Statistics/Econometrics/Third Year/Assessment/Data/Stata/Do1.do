@@ -1,3 +1,5 @@
+*------------------------
+*FOR SETTING UP FROM EXCEL UNDIFFERENCED VARIABLES
 gen date = quarterly(quarter, "YQ")
 
 foreach v of var * {
@@ -8,41 +10,26 @@ foreach v of var * {
 	gen l`v' = ln(`v')
 }
 
-forvalues lags = 1/4 {
-	quietly regress Dlcpi L(1/`lags').Dlcpi L.lcpi
-	estat bgodfrey, lags(1/4) nomiss0
-}
+*------------------------
+*FOR SERIAL CORRELATION TESTING ALL UNDIFFERENCED VARIABLES
+*UNCOMMENT FOLLOWING LINE FOR SERIAL CORRELATION TESTING DIFFERENCED VARIABLES
 
-quietly regress Dlm L.lm
-estat bgodfrey, lags(1/4) nomiss0
-forvalues lags = 1/4 {
-	quietly regress Dlm L(1/`lags').Dlm L.lm
-	estat bgodfrey, lags(1/4) nomiss0
-}
-
+*foreach v of varlist D.lcpi D.lm D.lxr D.lgep {
 foreach v of varlist lcpi lm lxr lgep {
 	display "`v'"
-	quietly regress D`v' L.`v'
-	eststo m5: quietly estat bgodfrey, lags(1/4) nomiss0
-	forvalues lags = 1/4 {
-		quietly regress D`v' L(1/`lags').D`v' L.`v'
-		eststo m`lags': quietly estat bgodfrey, lags(1/4) nomiss0
-	}
-	esttab m1 m2 m3 m4 m5, scalars(bic aic bgodfrey) obslast
-}
-
-foreach v of varlist Dlcpi Dlm Dlxr Dlgep {
-	display "`v'"
-	gen D`v' = `v' - L.`v'
-	quietly regress D`v' L.`v'
+	display "Lags: 0"
+	quietly regress D.`v' L.`v'
 	estat bgodfrey, lags(1/4) nomiss0
-	forvalues lags = 1/4 {
-		quietly regress D`v' L(1/`lags').D`v' L.`v'
+	forvalues lags = 1/5 {
+		display "Lags: `lags'"
+		quietly regress D.`v' L(1/`lags')D.`v' L.`v'
 		estat bgodfrey, lags(1/4) nomiss0
 	}
 	display "*-----------------*"
-	drop D`v'
 }
+
+*------------------------
+*FOR ARDL TESTING ALL UNDIFFERENCED VARIABLES
 
 forvalues cpilags = 1/2 {
 	forvalues mlags = 0/2 {
@@ -56,6 +43,9 @@ forvalues cpilags = 1/2 {
 	}
 }
 esttab, scalars (aic bic) noobs
+
+*------------------------
+*FOR ARDL TESTING ALL DIFFERENCED VARIABLES
 
 eststo clear
 forvalues cpilags = 1/2 {
@@ -73,4 +63,12 @@ forvalues cpilags = 1/2 {
 	forvalues elags = 1/2 {
 		eststo: regress Dlcpi L(1/`cpilags').Dlcpi L(1/`elags')
 	}
+}
+
+*------------------------
+*FOR DETRENDING ALL VARIABLES
+
+foreach v of varlist lcpi lm lxr lgep {
+	quietly reg `v' date
+	predict t`v', resid
 }
