@@ -62,3 +62,5 @@ $$
 	- $X$ is a vector of exogenous variables such as government spending, tax, exports, etc.
 - The second shows that inflation is a function of the output gap.
 - The final equation shows a monetary policy rule, where the central bank will adjust interest rates closer to $\rho$ to achieve a stable rate of inflation.
+# Keynesian View
+- If the natural rate is a function of aggregate demand, then clearly the bank rate can influence the natural rate.
