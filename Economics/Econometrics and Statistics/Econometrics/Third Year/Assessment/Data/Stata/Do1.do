@@ -18,11 +18,11 @@ foreach v of var * {
 foreach v of varlist lcpi lm lxr lgep {
 	display "`v'"
 	display "Lags: 0"
-	quietly regress D.`v' L.`v'
+	quietly regress D.`v' L.`v' date
 	estat bgodfrey, lags(1/4) nomiss0
 	forvalues lags = 1/5 {
 		display "Lags: `lags'"
-		quietly regress D.`v' L(1/`lags')D.`v' L.`v'
+		quietly regress D.`v' L(1/`lags')D.`v' L.`v' date
 		estat bgodfrey, lags(1/4) nomiss0
 	}
 	display "*-----------------*"
