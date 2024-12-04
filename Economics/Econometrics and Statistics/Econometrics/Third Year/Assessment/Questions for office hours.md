@@ -11,3 +11,7 @@
 ---
 6. Should I first include the trend term when doing BG testing
 7. If I find that for the first country, M3, XR and GEP are all drift-stationary, then should I assume for panel data estimation that they are drift stationary across all countries? If not what to do...
+8. Can ARDL constraint be extended due to autocorrelation?
+9. Can ARMA constraint be extended due to autocorrelation?
+	- Is correlogram enough to check for autocorrelation in ARMA? BG test not working
+10. Can I ask how to interpret the coefficient of a differenced logged variable or no?
