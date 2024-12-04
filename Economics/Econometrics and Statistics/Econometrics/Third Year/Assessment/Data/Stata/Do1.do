@@ -18,15 +18,29 @@ foreach v of var * {
 foreach v of varlist lcpi lm lxr lgep {
 	display "`v'"
 	display "Lags: 0"
-	quietly regress D.`v' L.`v' date
+	quietly regress D.`v' L.`v' trend
 	estat bgodfrey, lags(1/4) nomiss0
 	forvalues lags = 1/5 {
 		display "Lags: `lags'"
-		quietly regress D.`v' L(1/`lags')D.`v' L.`v' date
+		quietly regress D.`v' L(1/`lags')D.`v' L.`v' trend
 		estat bgodfrey, lags(1/4) nomiss0
 	}
 	display "*-----------------*"
 }
+
+foreach v of varlist cpi m xr gep {
+	display "`v'"
+	display "Lags: 0"
+	quietly regress D.`v' L.`v' 
+	estat bgodfrey, lags(1/4) nomiss0
+	forvalues lags = 1/5 {
+		display "Lags: `lags'"
+		quietly regress D.`v' L(1/`lags')D.`v' L.`v' 
+		estat bgodfrey, lags(1/4) nomiss0
+	}
+	display "*-----------------*"
+}
+
 
 *------------------------
 *FOR ARDL TESTING ALL UNDIFFERENCED VARIABLES
@@ -59,11 +73,22 @@ forvalues cpilags = 1/2 {
 }
 esttab using test2.csv, replace scalars (aic bic) se
 
+*------------------------
+*FOR ARDL TESTING FINAL SPECIFICATION
+
+eststo clear
 forvalues cpilags = 1/2 {
-	forvalues elags = 1/2 {
-		eststo: regress Dlcpi L(1/`cpilags').Dlcpi L(1/`elags')
+	forvalues mlags = 0/2 {
+		forvalues xrlags = 0/2 {
+			forvalues geplags = 0/2 {
+				eststo: quietly regress Dlcpi L(1/`cpilags').Dlcpi L(0/`mlags').lm L(0/`xrlags').lxr L(0/`geplags').lgep, robust
+			}
+		}
 	}
 }
+esttab using ardlspec.csv, replace scalars (aic bic) se
+
+
 
 *------------------------
 *FOR DETRENDING ALL VARIABLES
