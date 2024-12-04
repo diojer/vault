@@ -19,15 +19,16 @@ xtset countryID date
 *Breusch Pagan test: RE vs OLS
 reg dlcpi lm lxr lgep
 xtreg dlcpi lm lxr lgep, re
-xtest0
+xttest0
 
 *F-test: FE vs OLS
 xtreg dlcpi lm lxr lgep, fe
 	*Automatically performs the F-test at the bottom
 	
 *Hausman test: FE vs RE
-eststo fixed: xtreg dlcpi lm lxr lgep, fe
+eststo fixed: qui xtreg dlcpi lm lxr lgep, fe
 xtreg dlcpi lm lxr lgep, re
 hausman fixed
 
 *note: I think random effects win
+xtreg dlcpi lm lxr lgep, re robust
