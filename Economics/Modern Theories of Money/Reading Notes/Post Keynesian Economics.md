@@ -11,6 +11,8 @@ The main point is that there are two main channels which affect aggregate demand
 - The debt flow from households with low MPC to those with high MPC increases aggregate demand.
 Flow and stock increase during times of "tranquillity" but neither flow ceases when there is a downturn in AD and consequently we are only left with stock which causes AD to further fall.
 
+Importantly, Palley's model is concerned primarily with household indebtedness rather than corporate indebtedness.
+
 ## Notes from the Author
 - Minsky does not factor in consumer spending because it was not such a widespread phenomenon during his time, but Palley argues that it can be incorporated without difficulty and with it we can more accurately model real behaviour.
 - The MPC of borrowers is less than, but close to, unity.

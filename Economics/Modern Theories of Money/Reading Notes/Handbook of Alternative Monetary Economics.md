@@ -72,5 +72,59 @@ There is a special case, where central banks do target a monetary aggregate.
 	- Consequently, the upward-sloping LM curve is a special case.
 
 Lavoie argues that there is no single rule for interest-setting decisions. The most we know is that is that the LM curve is perfectly flat for a month, or whatever rate-setting period the central bank operates on.
-# Chapter 3 ~ Endogenous Money: Structuralist
-# Chapter 5 ~ Chartalism and the tax-driven approach to money
+# Chapter 10: Minsky on Financial Instability
+>Elisabetta De Antoni
+## Introduction
+Minsky believed that the New Keynesian Neoclassical synthesis abandoned the most important aspect of Keynes' General Theory, namely, uncertainty.
+- Uncertainty is critical to understanding financial markets and expected returns.
+- To this end, Minsky focused on financial relations in the economy, investments under uncertainty and on instability.
+## Debt and Profits
+Minsky's main problem with the neoclassical synthesis is that it neglects financial relationships.
+- Theorems about a non-financial abstract economy are extrapolated to be valid about an economy with complex financial relationships. This "logical jump is an act of faith".
+For Minsky, large, expensive, debt-financed long-term investments are presupposed.
+- Investments generate profits greater than debt commitments is the underlying assumption.
+	- Due to uncertainty, this cannot always be the case.
+	- Markets are also expected to clear.
+
+There are three assumptions Minsky rejected:
+1. The dichotomy between the monetary/nominal and real sectors.
+	- These sectors are necessarily linked because production relies on the monetary sector.
+2. The efficacy of the price mechanism.
+	- Patinkin (1956) is one of the most important faces of the neoclassical synthesis. According to him, a fall in unemployment is self correcting: the fall in wages reduces prices, increasing *real* money balances, stimulating consumption and moving the system back toward full employment.
+	- Minsky argues that, in a world with finance, deflation will also increase the real value of debts which could depress aggregate demand.
+		- As well as this, deflation will cause a fall in profits, harming the ability of firms to make good on debt obligations.
+	- Consequently, this fall in price may exacerbate unemployment rather than alleviate it.
+3. Financial stability cannot be taken for granted as it is in the neoclassical synthesis.
+	- The market does not assure that in the monetary circuit enough money will return to firms to allow the fulfilment of prior debt obligations.
+## Financial Units
+There are: hedge and speculative units. Speculative units can be further split into either normal or Ponzi units.
+
+In the case of a hedge unit, creditors and lenders foresee that expected cash receipts are more than enough to meet all future debt commitments.
+- Think of a loan needed to open a retailer in an underserved area, where we expect that future sales will raise enough profit to pay off both the loan and interest.
+
+In a normal speculative unit, future expected cash receipts are only enough to pay off the interest payments on a loan. However, if there is a boost to aggregate demand (a bonanza), then the loan could be paid off.
+- Think of taking a loan to open a gambling store in an underserved area. At first, not many people come because no one is very exposed to gambling, but as more people come they bring others who tend to raise the general popularity of the store beyond its initial aggregate demand.
+	- At the beginning, proceeds can only cover part of the debt obligations (interest payments). However, we could reasonably expect that in the future there will be a bonanza.
+- In simpler terms, speculators expect most of their profits to come at the tail-end of investment
+
+In a Ponzi speculative unit, future expected cash receipts are not enough to pay off either the interest or the loan - only a bonanza will allow the debt to shrink over time. If there is no bonanza, debt grows.
+
+Speculators (both Ponzi and normal) need credit in the short-term. Without credit, a normal speculative unit cannot roll over her debts, and a Ponzi unit cannot continue to indebt herself waiting for the bonanza.
+- On the other hand, hedge units are not susceptible to changes in the financial reality, only in the goods market (also termed the real sector).
+
+Economies are more robust when dominated by hedge units and more fragile when dominated by speculative units.
+- The problem is that a robust economy where profits regularly exceed expected profits will encourage speculative investment.
+- Because governments, firms, and financial institutions tend to finance long-term investment with short-term debt, they are classified as speculative units.
+	- All governments around the world are dependent on finance - almost no government is hedged.
+## The Financial Theory of Investment
+Minsky rejects the concept of equilibrium, as constantly changing expectations mean that any hypothetical equilibrium would be constantly changing, and that any alignment with the equilibrium would then be purely coincidental and instantaneous.
+
+Instability arises because periods of solid growth and investment lead to an overestimation of future profits, too much speculative investment and a contraction of credit when future profit expectations decrease.
+
+The basic characteristic of an economy is the existence of two prices:
+1. The price of capital assets,
+2. The price of current production.
+Because investment involves purchasing capital assets in order to produce, it occurs when these two prices are aligned.
+- The demand price of a capital asset, i.e., how much an investor is willing to pay for an asset, is a function of the potential returns on that asset.
+- The supply price of a capital asset, i.e., how much a producer is willing to sell an asset for, is a function of its marginal cost.
+	- This marginal cost factors in any interest payments on finance and mark-up *in the production process*.
