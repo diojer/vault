@@ -94,4 +94,25 @@ Price-earnings ratios:
 		- Companies with a higher p/e benefited from this as their valuation is being estimated lower than it would be with more specific targeting.
 - It would have been possible to use alternative ratios.
 # Economics of the tax
+- Does excess profit mean regulation failed?
+	- Excess profits are intended to be there - the cost savings made which allow for excess profits are then passed to consumers at each review period.
+- Was the windfall tax right?
+	- Does it raise money without distorting economic behaviour?
+	- The one-off nature of the tax reduces distortion,
+		- But the credibility of the one-off nature will change distortion.
+	- On the one hand, the government is forcing others to pay for their mistakes, on the other hand, it is others who made excess profits due to these government mistakes.
+- What are the alternatives?
+	- Rate of return regulation - would keep RoR from getting too high but might disincentivise cost-savings.
+# Energy Price Cap
+RPI-X regulation tends to incentivise the infrastructure to become more efficient
+Price cap regulation, on the other hand, is typically set on distribution companies which rarely hold assets.
+- As the time period shortens, this approaches rate-of-return regulation, especially since most costs are out of the distributors' control and so all price caps are really just changing how much return a distributor gets on top of these costs.
 
+Questions:
+- Why did the crisis lead to small energy suppliers going bankrupt?
+	- Smaller firms could not absorb nor pass on costs.
+- Who did the energy crisis windfall tax apply to?
+	- Extractors, i.e., people who supply oil and gas to private generators.
+		- They were taxed 35%,
+	- Private generators - those not generating using oil or gas and who thus made excess profits.
+		- They were taxed 45%
