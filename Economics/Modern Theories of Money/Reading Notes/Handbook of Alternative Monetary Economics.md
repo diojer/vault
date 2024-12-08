@@ -127,4 +127,104 @@ The basic characteristic of an economy is the existence of two prices:
 Because investment involves purchasing capital assets in order to produce, it occurs when these two prices are aligned.
 - The demand price of a capital asset, i.e., how much an investor is willing to pay for an asset, is a function of the potential returns on that asset.
 - The supply price of a capital asset, i.e., how much a producer is willing to sell an asset for, is a function of its marginal cost.
-	- This marginal cost factors in any interest payments on finance and mark-up *in the production process*.
+	- This marginal cost includes in any interest payments on finance and mark-up *in the production process*.
+### Modelling Investment
+![[Pasted image 20241208002608.png]]
+This diagram shows:
+- The supply price of capital, $P_{i}$,
+- The demand price of capital, $Pk$
+	- The demand price is equal to the potential future returns $PV(\Pi_{e})$,
+- Internal funding available to be spent on investment $Q_{i}$
+	- $Q_{i}$ gives a schedule of how much internal investment can be raised depending on the supply price of capital. As the difference increases the availability of funds grows. 
+- The level of investment possible with internal funding $I_{i}$,
+- The maximum amount of desirable funding $I_{n}$.
+Currently the diagram does not factor in credit.
+
+When we factor in credit, we modify the $Pk$ and $P_{i}$ lines.
+- The purchase price of capital must now factor in interest payments. As the *lender's* (bank's) risk increase, the interest rate rises.
+- The expected value of the investment $PV(\Pi_{e})$ must now also factor in the *borrower's* (firm's) risk, because leveraging investment means the firm now stands to lose more if expectations are not met.
+	- This can also be thought of in a different way: firms need a greater margin to accept higher levels of risk, and so their offering price is disconnected from the true expected return, creating a margin.
+This modifies the diagram:
+![[Pasted image 20241208004612.png]]
+Where:
+- $Br$ is the borrower's risk,
+- $Lr$ is the lender's risk,
+- $P_{i}'$ is the new effective demand price (discounting for risk from borrowing),
+- $Pk'$ is the new effective supply price (accounting for cost of interest).
+- $Ie$ is the effective level of investment, where $Ie$ is self-financed and debt-financed investment combined.
+The lines curve as more finance will increase risk.
+- The degree to which these lines curves indicate the margins of safety, or feeling of risk, in an economy.
+
+### Modelling a change in the rate of interest
+According to Minsky (1986, p. 195), the "long-term rate of interest is used to actualise expected profits" p. 159.
+- ==What exactly does this mean?==
+	- Maybe it means that a higher interest rate means future expected profits have a higher opportunity cost due to a higher savings rate.
+The short-term interest rate represents a present cost of production.
+
+Synthesising these two changes, we get a fall in the demand-price and a rise in the supply-price.
+![[Pasted image 20241208010536.png]]
+- Consequently, Minsky's theory affirms the existing consensus that higher interest rates lower investment.
+	- De Antoni states that the novelty is that this relationship tends to stay in the background of Minsky's analysis.
+
+### Modelling multiple time periods
+Following an unexpected increase in realised profits, various curves shift.
+
+First, more internal funding is available due to greater cashflow, shifting $Q_{i}$ outward.
+- Second, future profit expectation increases to account for this unexpected "bonanza",
+- The margins of safety, i.e., borrower's and lender's perception of risk, are loosened,
+![[Pasted image 20241208011520.png]]
+- Implicitly, firms must have adaptive expectations, i.e., they must assume that this increase in profits is permanent.
+	- Cashflow from investment is also not fully self-financing.
+
+Consequently, economic growth leads to a more fragile, i.e., leveraged, economy.
+
+Is the idea that investment is not self-financing, and that firms have adaptive expectations, fully convincing?
+### The Deviation-Amplifying Process
+The interdependence of profit and investment is what leads to a positive feedback loop underlying the financial instability hypothesis.
+
+Remembering that $Y=C+I+G$, an initial increase in investment increases incomes, which are in part the profits of firms.
+- These increased profits have three effects:
+	1. Increases expected profits when investments are still underway, increasing expected internal funds $Q_{i}^e$
+	2. It raises profits post-investment increasing the price willing to be paid for capital assets ($Pk$)
+	3. It raises confidence in fulfilling future debt commitments, decreasing the margins of safety.
+		- A decrease in the margin of safety also eases the liquidity preference of individuals, as money is typically used as a store of value in times of uncertainty. In other words, the demand for deposits is reduced.
+- These three effect a further rise in investment which is composed of self-financed and debt-financed investment, bringing us back to the beginning.
+	- The increase in indebtedness increases the supply of credit.
+![[Pasted image 20241208020446.png]]
+
+### The Financial Instability Hypothesis
+The financial origin of fluctuation comes directly from Keynes.
+- Neoclassical synthesis of New Keynesianism tends to focus more on rigidities, like wage and price stickiness.
+	- Minsky traces his theory based on Keynes' direct reply to this interpretation (essentially rebuking it).
+
+An economic boom has two drawbacks:
+- Inflation or financial bottlenecks leading to a higher interest rate,
+- Decreasing margins of safety and transitions into speculative and ultraspeculative units.
+The greater interest rate, due to how leveraged companies have become in the boom, not only ends the boom but triggers a downward spiral.
+- An unexpected increase in the cost of credit comes after the unexpected fall in profits.
+	- However, the fall in profits means firms need more credit if they are speculating on capital assets (they need to either roll over their debt or simply borrow more).
+- The main priority of the firm becomes to pay off debt rather than finance investment.
+	- Assets must be sold (which at this point are likely illiquid) and consequently asset prices fall, meaning more assets must be sold.
+	- Falling capital asset prices reinforces the fall of investment
+		- ==Wouldn't this be classified as falling capital supply prices - wouldn't aggregate demand for goods need to decrease for the projected value to fall (which would then harm investment)?==
+- Debt repayment becomes impossible due to lower profits and asset prices.
+	- The consequence is many bankruptcies.
+Hedge units, however, survive - tranquillity will return as stable profits are made without the need for financial stability.
+### Solutions
+- The central banks need to reaffirm their position as lenders of last resort,
+	- This can decrease the risk that banks feel when lending to firms.
+	- Changing the interest rate doesn't do much when expectations are too low.
+- Fiscal policy should have the task of promoting full employment and stabilising the economy.
+	- Underpin demand to achieve full employment,
+	- Implement fiscal stabilisers.
+
+According to Minsky, the most significant economic event since WWII is actually the absence of a long-lasting, deep depression.
+- He attributes this to the lender of last resort status of central banks and the presence of "big government".
+
+### Applications
+
+
+- In figure 10.4 RHS, case *b* can actually be used to demonstrate the financing of a ponzi unit.
+	- All investment thus far is concerned with short-term expected profits being higher than the cost of a capital asset. However, introducing speculative units could introduce some new variety in modelling.
+- Is it true that an increase in the rate of interest would reduce profit expectations - the rate of interest is set, according to Wicksellian theory, in such a way as to align itself with the rate of return in an economy (which in this model firms are projecting into the future due to adaptive expectations).
+- 
