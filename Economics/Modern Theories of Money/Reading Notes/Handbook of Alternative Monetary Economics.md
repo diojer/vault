@@ -222,9 +222,22 @@ According to Minsky, the most significant economic event since WWII is actually 
 - He attributes this to the lender of last resort status of central banks and the presence of "big government".
 
 ### Applications
+Economists from the Levy Institute focus on the financial imbalances of the US. The private sector is heavily indebted (2004) and there are large government deficits. The maintenance of satisfactory growth in the medium term will apparently require devaluation of the dollar, which could send a deflationary shock to the rest of the world as US consumption of imports falls.
 
+Sawyer (2001) criticises the Eurozone. A Minskyian analysis would suggest different policies in the Eurozone. The primary task of the ECB should've been financial, rather than price, stability.
+- The ECB would use the lender-of-last-resort to control debt deflations,
+- Fiscal policy should've been recognised as the necessary element to support employment, possibly instituted through a European federal budget.
+	- Instead, national budgets have been constrained.
 
+In the open economy, debt used to finance foreign investments further increases fragility as speculators are now subject to exchange rate fluctuations.
+- They could suffer from a domestic crisis that impacts their external investments,
+- They could suffer from an external crisis that impacts their domestic financial environment,
+The IMF mistook the Asian financial crisis for a traditional balance of payments crisis.
+- It required a reduction in gov. spending and tighter monetary policy.
+	- This reduced aggregate demand and led to the Minsky debt-deflation spiral described earlier.
+
+### Notes and thoughts
 - In figure 10.4 RHS, case *b* can actually be used to demonstrate the financing of a ponzi unit.
 	- All investment thus far is concerned with short-term expected profits being higher than the cost of a capital asset. However, introducing speculative units could introduce some new variety in modelling.
 - Is it true that an increase in the rate of interest would reduce profit expectations - the rate of interest is set, according to Wicksellian theory, in such a way as to align itself with the rate of return in an economy (which in this model firms are projecting into the future due to adaptive expectations).
-- 
+- Could a opportunistic and flexible central bank be a suggestion to quell financial instability?
