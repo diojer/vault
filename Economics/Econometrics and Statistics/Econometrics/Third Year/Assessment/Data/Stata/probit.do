@@ -1,9 +1,20 @@
+gen inf = lcpi - l4.lcpi
+
+drop it
+
 gen it = 0
 
-replace it = 1 if dlcpi < 0.025 & dlcpi > 0.015
-*Uses inflation band of 2%+-0.5%. 1% may be better as a band, find a source though.
+replace it = 1 if rinf < 0.02
 
-probit it lgep
+probit it lm lgep
+estat class
+margins, dydx(*)
+	*Tells the the AVERAGE MARGINAL EFFECTS
+margins, dydx(*) atmeans
+	*Tells us the MARGINAL EFFECTS AT MEAN
+
+logistic it lm lgep
+estat class
 margins, dydx(*)
 	*Tells the the AVERAGE MARGINAL EFFECTS
 margins, dydx(*) atmeans
