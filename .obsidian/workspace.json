@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Public Enterprise and Reg/Seminars/Seminar 3 Reading Notes ~ Windfall Taxes.md",
+                "file": "Economics/Econometrics and Statistics/Econometrics/Second Year/Further Topics and Tests (!).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seminar 3 Reading Notes ~ Windfall Taxes"
+              "title": "Further Topics and Tests (!)"
             }
           },
           {
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unconstra",
+                "query": "likelihood",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,19 +197,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "18c2c1c77872b4af",
+  "active": "f0c12c808815b81e",
   "lastOpenFiles": [
-    "Economics/Public Enterprise and Reg/Contestability and Competition 1~3.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/~WRL3646.tmp",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/~WRD3502.tmp",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Panel Data/Random Effects.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/inf/YoYinf.png",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/inf",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/New folder (2)",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/New folder",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Panel Data/Testing for Models.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data/MA, AR, ARMA Models.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/~probit.do.stswp",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data/Tests for Serial Correlation.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data/Time Series Introduction.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data/Stationarity, Drifts and Trends.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/~$terminants of Inflation in Denmark.docx",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Questions for office hours.md",
+    "Economics/Modern Theories of Money/Reading Notes/Handbook of Alternative Monetary Economics.md",
+    "Economics/Modern Theories of Money/Reading Notes/Macroeconomic Policy after the Conservative Era.md",
+    "Economics/Modern Theories of Money/Reading Notes/Post Keynesian Economics.md",
     "Economics/Public Enterprise and Reg/Seminars/Seminar 3 Reading Notes ~ Windfall Taxes.md",
+    "Economics/Modern Theories of Money/Reading Notes/Financial Keynesianism and Market Instability.md",
+    "Economics/Public Enterprise and Reg/Contestability and Competition 1~3.md",
     "Economics/Public Enterprise and Reg/Contestability and Competition 3~3.md",
     "Economics/Public Enterprise and Reg/Seminars/attachments/Pasted image 20241206014207.png",
     "Economics/Public Enterprise and Reg/Seminars/attachments/Pasted image 20241206010423.png",
     "Economics/Public Enterprise and Reg/Seminars/attachments",
-    "Economics/Modern Theories of Money/Reading Notes/Post Keynesian Economics.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Determinants of Inflation in Denmark backup.docx",
     "Economics/Modern Theories of Money/Seminars/Seminar 4 ~ Financial Instability Hypothesis.md",
     "Economics/Public Enterprise and Reg/Access Regulation and Regulatory Independence.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Questions for office hours.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/stationary graphs/lxr.png",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/stationary graphs/logged inflation.png",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/stationary graphs/lm.png",
@@ -218,18 +235,9 @@
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/stationary graphs/dlcpi.png",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/stationary graphs",
     "desktop.ini",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Determinants of Inflation in Denmark.pdf",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/ac ardl 2.png",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/ac ardl 1.png",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/AICBIC ARMA.gph",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Variables Data/XR Data.csv",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Variables Data/M4 Data.csv",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Variables Data/GEP Data.csv",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Variables Data/CPI Data.csv",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data/Instrument Variable Techniques.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data/MA, AR, ARMA Models.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Discrete Choice Models/Probit and Logit.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data/Stationarity, Drifts and Trends.md",
     "README.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Discrete Choice Models/Ordered Probit Model.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Discrete Choice Models/Linear Probability Model.md",
@@ -237,14 +245,6 @@
     "Economics/Modern Theories of Money/Assessment/Guidelines for ACW.md",
     "Economics/Modern Theories of Money/Seminars/Seminar 2 ~ Endogenous Money Theory and EM Macro Modelling.md",
     "Economics/Modern Theories of Money/Seminars/Seminar 3 ~ Monetary Policy.md",
-    "Economics/Modern Theories of Money/Quantity and Non-Quantity Theories of Money.md",
-    "Economics/Modern Theories of Money/Seminars/Seminar 3.md",
-    "Economics/Modern Theories of Money/Seminars/Seminar 1 ~ Nature and Origin of Money.md",
-    "Economics/Econometrics and Statistics/Econometrics/Second Year/Further Topics and Tests (!).md",
-    "Economics/Macroeconomics/Year 3/AS/Empirics and Hysteresis.md",
-    "University Events/Karsten Kohler Macroeconomic Modelling.md",
-    "University Events/Competition and Markets Authority.md",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Panel Data/Testing for Models.md",
     "Untitled.canvas"
   ]
 }
