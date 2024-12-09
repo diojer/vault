@@ -7,3 +7,20 @@
 | Dissertation                | Find some a paper other than the lancelet one: something to do with local procurement.                                                                                                    | [Lancelet one](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(23)00059-2/fulltext) | Something on how local procurement affects government spending? | Also think about model specification. |
 | LCC                         | Website case studies and team members                                                                                                                                                     |                                                                                                     |                                                                 |                                       |
 | LPI                         | Administrative $\to$ Efficiency                                                                                                                                                           |                                                                                                     |                                                                 |                                       |
+
+---
+Movies
+- The Third Man,
+- Ghostbusters,
+- The Menu,
+- Seventh Samurai,
+- Crouching Tiger, Hidden Dragon,
+- Weathering with You,
+- In Bruges,
+- 
+
+Shows
+- Silicon Valley,
+- The Penguin,
+- Normal People,
+- The Franchise,
