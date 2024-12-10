@@ -12,9 +12,7 @@ foreach v of var * {
 
 *------------------------
 *FOR SERIAL CORRELATION TESTING ALL UNDIFFERENCED VARIABLES
-*UNCOMMENT FOLLOWING LINE FOR SERIAL CORRELATION TESTING DIFFERENCED VARIABLES
 
-*foreach v of varlist D.lcpi D.lm D.lxr D.lgep {
 foreach v of varlist lcpi lm lxr lgep {
 	display "`v'"
 	display "Lags: 0"
@@ -28,19 +26,18 @@ foreach v of varlist lcpi lm lxr lgep {
 	display "*-----------------*"
 }
 
-foreach v of varlist cpi m xr gep {
+foreach v of varlist D.lcpi {
 	display "`v'"
 	display "Lags: 0"
-	quietly regress D.`v' L.`v' 
+	quietly regress D.`v' L.`v' trend
 	estat bgodfrey, lags(1/4) nomiss0
 	forvalues lags = 1/5 {
 		display "Lags: `lags'"
-		quietly regress D.`v' L(1/`lags')D.`v' L.`v' 
+		quietly regress D.`v' L(1/`lags')D.`v' L.`v' trend
 		estat bgodfrey, lags(1/4) nomiss0
 	}
 	display "*-----------------*"
 }
-
 
 *------------------------
 *FOR ARDL TESTING ALL UNDIFFERENCED VARIABLES
@@ -88,7 +85,14 @@ forvalues cpilags = 1/2 {
 }
 esttab using ardlspec.csv, replace scalars (aic bic) se
 
+*------------------------
+*FOR SERIAL CORRELATION TESTING DIFFERENT ARDL SPECIFICATIONS
 
+forvalues lags = 1/5 {
+	display "AR lags: `lags'"
+	eststo: quietly regress Dlcpi L(1/`lags').Dlcpi L(0/1).lm lxr L(0/1).lxr
+	estat bgodfrey, lags(1/5)
+}
 
 *------------------------
 *FOR DETRENDING ALL VARIABLES
