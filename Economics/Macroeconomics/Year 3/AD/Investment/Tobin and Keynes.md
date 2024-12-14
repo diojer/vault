@@ -116,3 +116,16 @@ This lines up Tobin's model with the Keynesian assumption that investment depend
 	- Firms face uncertainty in future profits and there is "*value in waiting*".
 	- This suggests a hurdle where $q>\beta$, where $\beta=1-\rho_{I}$, where $\rho_{I}$ is the impatience of investors.
 		- Sometimes $\beta$ may be as high as 3 or 4.
+# Textbook Notes
+- Investment is very volatile because we are dealing with stocks and flows.
+	- The current capital stock determines how much investment, i.e., extra capital stock, i.e., capital flow, there should be.
+	- A small change in the stock can therefore translate into a larger change in the flow.
+
+Empirical evidence:
+- Average Q, i.e., the market value of a firm divided by the cost of replacing capital, is typically used in real-life situations since measuring the marginal productivity and cost of capital is difficult.
+- Q is helpful in explaining investment but is not the only influence.
+	- Credit constraints.
+		- Cash flow should have no impact on investment, since the only determining factor, according to q-theory, is the rate of return on investment.
+		- However, there appears to be excess sensitivity of investment to internal funds which may be due to existing credit constraints.
+			- A UK study from 1975-86 found that while Q and credit both impacted investment, the impact of Q was very small: a 10% rise in valuation only corresponded to a 2.5% increase in the investment rate.
+				- Cashflow, on the other hand, was very important, especially during a recession, which adds to the idea that credit constraints have a large impact.
