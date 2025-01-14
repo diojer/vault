@@ -1,4 +1,4 @@
-- Consumption
+-  ==Consumption==
 	- Jappelli and Pistaferri (2010) [*The consumption response to Income Changes*](https://web.stanford.edu/~pista/ann_rev.pdf)
 	- Campbell and Mankiw (1998) [*Consumption, Income, and Interest Rates*](https://www.nber.org/system/files/chapters/c10965/c10965.pdf)
 		- Aggregate consumption data from the G7 cannot reject the hypothesis that >50% of consumers spend according to current income $y_{t}$.
@@ -7,7 +7,7 @@
 	- Stracca and al-Nowaihi (2005) [*Keeping up with the Joneses, Reference Dependence, and Equilibrium Indeterminancy*](https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp444.pdf?4beeec5cf013dfaa852ccbdc1a556e3b)
 		- Rather than using information about a life-time budget constraint, agents tend to spend around their reference point.
 		- Can help to explain consumption bubbles.
-- Investment
+- ==Investment==
 	- Chirinko (1993) & Caballero (1999)
 		- Investment is lumpy, meaning that it concentrates in specific plants and periods.
 		- Firms do not, therefore, increase capital smoothly until q=1.
