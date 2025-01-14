@@ -16,3 +16,12 @@ Indicates a preference between unemployment $y_{1}-y_{e}$ and inflation $\pi_{1}
 - If $\beta>1$, inflation deviating from target incurs a harsher loss than unemployment deviating from equilibrium. Central banks will be more inflation averse.
 	- This flattens the isoloss curves, because a *smaller amount of inflation* is as bad as *the static comparator of unemployment*.
 	- This also flattens the MR curve as the intersections between the isoloss curves and PC curves change.
+# Critiques
+- Ignores hysteresis,
+- Fiscal policy is downgraded and full crowding out is assumed.
+- No recognition of credit markets or the banking system.
+- The central bank has no tool to fight **cost-push inflation** or **asset-price bubbles** other than depressing AD.
+	- Macroprudential tools were introduced to deal with this.
+- CB must be able to forecast inflation but suffer from large estimation errors.
+- Price stability is still followed by shocks,
+- The connection between inflation targeting and inflation moderation is still up for decision.

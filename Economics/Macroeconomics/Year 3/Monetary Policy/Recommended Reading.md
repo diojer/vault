@@ -3,6 +3,9 @@
 	- Taylor (2021) [*Simple monetary rules: many strengths and few weaknesses*](https://pmc.ncbi.nlm.nih.gov/articles/PMC7802817/pdf/10657_2020_Article_9683.pdf)
 - ==Monetary Policy in General==
 	- Wren-Lewis (2013) [*Response to the Treasury Committee's questionnaire*](https://publications.parliament.uk/pa/cm201213/cmselect/cmtreasy/944/944we05.htm)
+- Crowding Out
+	- Hemming et al. (2002)
+		- Positive multipliers imply that government spending does not fully crowd out private investment.
 - ==Financial Accelerator==
 	- Bernanke (2007) [*The Financial Accelerator and the Credit Channel*](https://www.federalreserve.gov/newsevents/speech/bernanke20070615a.htm)
 - ==Indicators==
