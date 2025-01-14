@@ -1,0 +1,9 @@
+- Wage Setting
+	- Akerloff and Yellen (1990) [*The Fair Wage-Effort Hypothesis and Unemployment*](https://www.jstor.org/stable/2937787)
+	- Shapiro and Stiglitz (1984) [*Equilibrium Unemployment as a Worker Discipline Device*](https://www.jstor.org/stable/1804018?seq=1)
+- Price Setting
+	- Kohler, Guschanski, Stockhammer (2019) [*The Impact of Financialisation on the wage share: a theoretical clarification and empirical test*](https://academic.oup.com/cje/article-abstract/43/4/937/5538917)
+- Wage and Price Setting
+	- Layard, Nickell, Jackman (1991) pp. (12-16)
+- Hysteresis
+	- Rodriguez-Gil (2017) [*Hysteresis and labour market institutions. Evidence from the UK and the Netherlands*](https://link.springer.com/article/10.1007/s00181-017-1338-y)

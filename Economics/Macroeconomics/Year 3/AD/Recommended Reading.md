@@ -1,0 +1,25 @@
+- Consumption
+	- Jappelli and Pistaferri (2010) [*The consumption response to Income Changes*](https://web.stanford.edu/~pista/ann_rev.pdf)
+	- Campbell and Mankiw (1998) [*Consumption, Income, and Interest Rates*](https://www.nber.org/system/files/chapters/c10965/c10965.pdf)
+		- Aggregate consumption data from the G7 cannot reject the hypothesis that >50% of consumers spend according to current income $y_{t}$.
+	- Johnson et al. (2006) [*Household expenditure and the income tax rebates of 2001*](https://www.aeaweb.org/articles?id=10.1257/aer.96.5.1589)
+		- Households spend 20-40% of tax rebate after **receiving the cheque** rather than **when an initial tax cut policy was announced**.
+	- Stracca and al-Nowaihi (2005) [*Keeping up with the Joneses, Reference Dependence, and Equilibrium Indeterminancy*](https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp444.pdf?4beeec5cf013dfaa852ccbdc1a556e3b)
+		- Rather than using information about a life-time budget constraint, agents tend to spend around their reference point.
+		- Can help to explain consumption bubbles.
+- Investment
+	- Chirinko (1993) & Caballero (1999)
+		- Investment is lumpy, meaning that it concentrates in specific plants and periods.
+		- Firms do not, therefore, increase capital smoothly until q=1.
+		- Also presents problems for Keynes' theory of Desired Capital.
+		- This suggests that firms face large fixed costs of adjustment.
+	- Fazzari et al. (1988) & Blundell et al. (1992)
+		- Investment sensitivity to cashflow is larger during recessions, and for smaller firms.
+		- This means that investment is likely credit constrained.
+	- Dixit (1992)
+		- Firms face sunk costs and uncertainty.
+		- Firms therefore forego investment decisions until it is clear what future profit streams will be.
+		- Waiting is more likely when:
+			- Future is more important, i.e., low interest rates,
+			- Uncertainty about earnings,
+			- More imperfect competition (as competition becomes more perfect waiting is no longer feasible).
