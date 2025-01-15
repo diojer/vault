@@ -7,3 +7,4 @@
 	- Layard, Nickell, Jackman (1991) pp. (12-16)
 - ==Hysteresis==
 	- Rodriguez-Gil (2017) [*Hysteresis and labour market institutions. Evidence from the UK and the Netherlands*](https://link.springer.com/article/10.1007/s00181-017-1338-y)
+	- [Ball (1999, 2009)](obsidian://open?vault=PPE&file=Shared%20Notes%2FEconomics%2FMacroeconomics%2FYear%203%2FReadings%2Fw14818.pdf) recommends *rapid macro policy intervention* to counter negative shocks, before search effectiveness is eroded, i.e., before those unemployed by the shock enter LTU.

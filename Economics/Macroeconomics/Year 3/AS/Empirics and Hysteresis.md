@@ -43,7 +43,7 @@ Some problems with the panel analysis:
 ![[Pasted image 20241110151347.png]]
 ![[Pasted image 20241110151455.png]]
 - Red lines represent unemployment equilibrium before and after inflationary period.
-- [Ball (2009) suggests finds that actions by central banks did reduce the NAIRU.](obsidian://open?vault=PPE&file=Shared%20Notes%2FEconomics%2FMacroeconomics%2FYear%203%2FReadings%2Fw14818.pdf)
+- [Ball (2009) finds that actions by central banks did reduce the NAIRU.](obsidian://open?vault=PPE&file=Shared%20Notes%2FEconomics%2FMacroeconomics%2FYear%203%2FReadings%2Fw14818.pdf)
 ## Policy Implications
 Hysteresis suggests an alternative explanation for the Europe-USA gap:
 - More restrictive monetary and fiscal policy $\to$ longer recessions $\to$ hysteresis.
@@ -64,8 +64,9 @@ Lower search effectiveness means that the long-term unemployed are no longer com
 - This means that unemployment becomes less of a threat.
 	- In the [[Wage Setting#Model 2 Shirking Model|Shirking model]], this means firms will *raise wages* to maintain the opportunity cost of shirking,
 	- In the [[Wage Setting#With a Monopolistic Union|Monopoly union model]], unions will push for higher wages.
-- So, an increase in the number of long-term unemployed will *raise wages*, shifting the wage-setting curve and reducing the employment equilibrium.
-	- ==Question: why does the firm raising wages cause a shift in the WS curve? Shouldn't it create movement in the PS curve?==
+- So, an increase in the number of long-term unemployed will *raise efficient wages*, shifting the wage-setting curve and reducing the employment equilibrium.
+	- The wage setting curve shifts as higher wages are needed for workers to have the same amount of motivation - efficiency wages.
+	- The PS curve will shift up if firms want to continue to employ the same number of people, or will stay if firms are willing to employ less people, paying the same real wage and thus ensuring the same level of motivation.
 ### Graphically
 Relationship between long-term unemployment and employment:
 - When employment is low, we would expect there to be a high number of long-term unemployed (LTU) workers. When employment is high, we would expect the opposite.
