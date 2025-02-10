@@ -1,0 +1,103 @@
+# Privatisation in:
+## Britain
+- In 1979, state-owned enterprise accounted for ~10.5% of Britain's GDP. The greatest share came from state monopolies in:
+	- Telecommunications,
+	- Gas, electricity,
+	- Water,
+	- Rail transport,
+	- Postal services.
+- Other state-owned enterprise existed in competitive (or potentially competitive) industries such as steel, coal, oil, and vehicles.
+- Molyneux and Thompson (1987) found that the state-owned enterprises during the 60s and 70s did have inefficient resource allocation but did experienced productivity growth in-line with the private sector.
+	- There were substantial financial deficits, however, which amounted to over 20% state-owned enterprises' contribution to GDP.
+		- This was down from 35% in 1975.
+
+Privatisation came in several phases:
+- Phase 1: 1979-83
+	- Asset sales were concentrated in enterprise other than the major monopolies.
+	- This included:
+		- Port operations,
+		- Aircraft and defense,
+		- Oil explorations (particularly in the North Sea),
+		- Telecommunications (cable and wireless),
+		- National freight,
+		- Sales of shares in BP.
+	- Proceeds were no higher than £500mn.
+	- Stricter budget constraints were placed on state-owned enterprise.
+	- A new public sector operator in telecommunications (Mercury) was licensed to compete with BT.
+	- Much of the impact of these measures turned out to be disappointing: the entry-deterring strategies of incumbents went largely unchecked.
+- Phase 2: 1983-87
+	- Asset sales were further conducted in:
+		- More oil exploration,
+		- Car manufacturing,
+		- Banks,
+		- 50% of the shares in BT,
+		- Complete sale of British Gas
+	- Huge capital gains were recorded on the first day,
+		- 33% on the full price and 86% on a partly-paid basis.
+			- Link to undervaluation by the government leading to non-optimal welfare distribution.
+	- After 1985, tendering or the sale of companies in increments rarely occurred.
+		- This would further exacerbate problems of inaccurate pricing and unfair distributional effects.
+	- New regulatory bodies, Oftel and Ofgas, were established to deal with natural monopolies. 
+- Phase 3: 1987-91
+	- The third phase was dominated by the sale of water and electricity utilities.
+	- There was substantial restructuring prior to privatisation.
+	- New regulatory bodies were established to deal with these utilities.
+	- Regulatory contracts were struck with water companies which allowed prices to increase above the rate of inflation iff key investment objectives were met.
+	- Electricity companies were restructured to help increase competition.
+## Chile
+- The state-owned enterprise history of Chile includes the developments of industries such as:
+	- Railroad,
+	- Ports,
+	- Postal service,
+	- Finance.
+- Difficulties in securing investment goods and finance were motivating factors in this move.
+- The state-owned enterprise accounted for roughly 15% of GDP.
+- From 1970-73, the Allende government tried to sharply increase the size of the public sector to around 40% of GDP.
+	- The military government that followed had privatisation as a general policy.
+- Phase 1: 1974-75
+	- This involved the simple return of those enterprises which had been privatised in the directly preceding period.
+- Phase 2: 1975-83
+	- The principal objective of privatisation was to raise revenue. More than 100 enterprises were privatised.
+	- In 1975 (peak year), privatisation raised approximately 3.5% of GDP in rev.
+		- This was a small fraction of the fiscal deficit which soared to a level equal to 25% of GDP in 1973.
+		- In the following year, proceeds fell to 1.5% of GDP and then to <1% pa.
+	- The main sale method was a public auction followed by negotiations with the highest/most qualified bidder.
+		- Due to a desire to privatise the public sector quickly, partial payment was allowed with the difference financed by loans from the state.
+		- This led to an economic environment with highly leveraged industrial conglomerates and concentrated ownership, which was unable to survive the financial crisis of 1982-3.
+			- As such, many recently privatised enterprises were taken under state control again.
+- Phase 3: 1985-6
+	- In this case, broad share ownership was desired, which included employee share ownership.
+		- This was hoped to be less vulnerable to collapse.
+- Phase 4: 1986-
+	- (Paper published in 1991)
+	- Most enterprise targeted for privatisation were those whose establishment pre-dated the Allende government.
+
+The second phase of Chile's privatisation policy is an illustrative example of where problems arise if "public policy are not properly aligned".
+- The government sold assets in a way that jeopardized the survival of new enterprise (high leverage ratios).
+	- Liberalisation prior was more advisable.
+## Conclusion
+- Market failures lead to a wedge between profit and welfare objectives.
+- Government failure leads to a similar wedge between political and welfare objectives.
+- Monitoring failure leads to a divergence between principals and agents.
+- As a first approximation, privatisation clearly reduces government failure but care is needed not to exacerbate the possibility of a market failure. Furthermore, simply by changing the monitoring arrangements does not necessarily eliminate the principal agent problem.
+	- However, some property rights views do certainly argue well that the introduction of capital market liberalisation does, to a certain extent, ease principal-agent problems.
+- Where market failures are significant, government intervention will continue.
+	- This leaves open elements of "stop-and-go" investment and other related government-failure issues.
+- Commitments not to intervene by the government are undesirable in cases of natural monopoly or other market failures (pollution is a clear example).
+- The issue of whether the government should raise revenue by taxation, selling equity, bonds or seigniorage is an interesting one.
+	- ==Although the treasury bill market does allow for a certain extent of principal agent alignment to some degree, i.e., debt-holders signalling views on public enterprise, the broad nature of the government will mean that it is much harder to decode specific signals from the market and so information is necessarily limited.==
+		- For this reason, selling equity is likely preferred.
+- Privatisation is inherently a government activity, and so it itself should not be expected to be exempt from the impact of government failure.
+	- Most clearly demonstrated in Chile's second phase.
+
+Further thoughts:
+- There is strong evidence that monitoring technology improves given privatisation because government officials spend more time developing necessary monitoring technology that would otherwise have been too expensive.
+- However, there is certainly nuance when it comes to the privatisation of parts of a service which, on the whole, is not intended to be privatised.
+	- This comes most clearly from the NHS, where Independent Sector Providers (ISPs) are increasingly relied upon to cover gaps in NHS service capacity.
+	- The British Medical Association argues that this:
+		- Decreases NHS capacity by not providing NHS doctors with appropriate levels of training,
+		- Provides worse value for money than the NHS,
+		- 83% of doctors were concerned that continued outsourcing to ISP hospitals would worsen the availability of NHS staff.
+		- May lead to fracturing, which would likely lead to increased marginal costs of delivering services - this implies that the purchaser/provider split when it came to delineating the existence of the natural monopoly was improper.
+			- The NHS therefore scaled back on competitive tendering in 2022 citing ballooning administrative costs and the need for greater integration.
+			- This is supported by Lewis (2020)

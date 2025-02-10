@@ -13,26 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Modern Theories of Money/Reading Notes/Handbook of Alternative Monetary Economics.md",
+                "file": "Economics/Environmental Economics/Topic 03 ~ Appraisal of the environment - valuation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Handbook of Alternative Monetary Economics"
+              "title": "Topic 03 ~ Appraisal of the environment - valuation"
             }
           },
           {
-            "id": "5398194213549433",
+            "id": "ef9588ed00048e54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.8.4"
               },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           }
         ],
@@ -55,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -67,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wicksell",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,45 +197,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5398194213549433",
+  "active": "ef9588ed00048e54",
   "lastOpenFiles": [
-    "Economics/Macroeconomics/Year 3/AS/Wage Setting.md",
+    "University Events/Alison Lowe II.md",
+    "Economics/Environmental Economics/Topic 03 ~ Appraisal of the environment - valuation.md",
+    "Economics/Environmental Economics",
+    "Free Time Activities.md",
+    "Politics/Revolutionary Politics/Fanon and Sartre.md",
+    "Economics/Microeconomics/Year 3/Lecture 2.md",
+    "Politics/Revolutionary Politics",
+    "Economics/Microeconomics/Year 3/Lecture 1.md",
+    "Economics/Public Enterprise and Reg/Access Regulation and Regulatory Independence.md",
+    "Economics/Microeconomics/Year 3",
+    "Economics/Public Enterprise and Reg/Contestability and Competition 1~3.md",
+    "Economics/Public Enterprise and Reg/Contestability and Competition 3~3.md",
+    "Economics/Public Enterprise and Reg/Contestability and Competition 2~3.md",
+    "Economics/Public Enterprise and Reg/Natural Monopoly and Competition.md",
+    "Economics/Public Enterprise and Reg/Does Ownership Matter.md",
+    "Economics/Public Enterprise and Reg/The Case for Privatisation.md",
+    "Economics/Public Enterprise and Reg/Seminars/Seminar 3 Reading Notes ~ Windfall Taxes.md",
+    "Economics/Public Enterprise and Reg/Theories of Regulation.md",
+    "Economics/Public Enterprise and Reg/Secondary Reading/Economic Perspectives on Privatisation.md",
+    "Economics/Public Enterprise and Reg/Seminars/Seminar 1 Reading Notes ~ British Bus Deregulation.md",
+    "Economics/Public Enterprise and Reg/Seminars/Seminar 2 Reading Notes ~ CTC Healthcare.md",
+    "Economics/Behavioural Economics/Readings/Exploring Menu Nudges to promote vegetarian meal choices.md",
+    "Economics/Behavioural Economics/Readings/Trust and trustworthiness across different age groups.md",
+    "Economics/Behavioural Economics/Readings/Endowment Effects.md",
+    "Economics/Behavioural Economics/Readings/Untitled.md",
+    "Economics/Behavioural Economics/Readings/Eliciting Risk Preferences.md",
+    "Economics/Behavioural Economics/Time Preference.md",
+    "Economics/Behavioural Economics/Prospect Theory.md",
+    "Economics/Behavioural Economics/Fairness and Social Preference.md",
+    "Economics/Behavioural Economics/Readings",
+    "Economics/Public Enterprise and Reg/Secondary Reading",
     "Economics/Modern Theories of Money/Assessment/~$diagrams.pptx",
-    "conflict-files-obsidian-git.md",
-    "Economics/Macroeconomics/Year 3/Monetary Policy/Recommended Reading.md",
-    "Economics/Macroeconomics/Year 3/Compiled Readings and Notes.md",
-    "Economics/Macroeconomics/Year 3/AS/Textbook Notes.md",
-    "Economics/Macroeconomics/Year 3/AS/Recommended Reading.md",
-    "Economics/Macroeconomics/Year 3/AD/Recommended Reading.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/201596918.pdf",
     "Economics/Modern Theories of Money/Assessment/ppt674A.tmp",
-    "Economics/Macroeconomics/Year 3/AS/Wage and Price Setting.md",
-    "Economics/Macroeconomics/Year 3/Seminars/Seminar 3.md",
-    "Economics/Macroeconomics/Year 3/AD/Consumption/Introduction.md",
-    "Economics/Macroeconomics/Year 3/AD/Consumption/Empirics and Alternate Theories.md",
-    "Economics/Macroeconomics/Year 3/Seminars/Seminar 1.md",
-    "Economics/Behavioural Economics/Seminars/Seminar 5.md",
-    "Economics/Macroeconomics/Year 3/Financial Cycle/Financial Accelerator and Mortgage Loans.md",
-    "Economics/Modern Theories of Money/Reading Notes/Post Keynesian Economics.md",
     "Economics/Macroeconomics/Year 3/Financial Cycle",
-    "Economics/Modern Theories of Money/Reading Notes/Understanding Financial Crises.md",
-    "Economics/Modern Theories of Money/Reading Notes/Monetary Economics after the Global Financial Crisis.md",
-    "Economics/Modern Theories of Money/Reading Notes/Macroeconomic Policy after the Conservative Era.md",
     "Economics/Modern Theories of Money/Assessment/~WRL3879.tmp",
-    "Economics/Modern Theories of Money/Assessment/~WRD3852.tmp",
-    "Economics/Modern Theories of Money/Assessment/201596918.pdf",
-    "Economics/Modern Theories of Money/Assessment/mso995A.tmp",
-    "Economics/Modern Theories of Money/Assessment/~WRL3819.tmp",
-    "Economics/Modern Theories of Money/Assessment/Discuss the Minsky FIH.pdf",
-    "Economics/Modern Theories of Money/Reading Notes/Business Cycles ~ Hayek and Wicksell.md",
-    "Economics/Modern Theories of Money/Reading Notes/Financial Keynesianism and Market Instability.md",
-    "Economics/Modern Theories of Money/Reading Notes/Handbook of Alternative Monetary Economics.md",
-    "Economics/Modern Theories of Money/Reading Notes/Issues in the History of Thought.md",
     "Economics/Modern Theories of Money/Reading Notes/attachments/Pasted image 20241208004612.png",
     "Economics/Modern Theories of Money/Reading Notes/attachments/Pasted image 20241208002608.png",
-    "Economics/Modern Theories of Money/Quantity and Non-Quantity Theories of Money.md",
-    "Economics/Modern Theories of Money/The Nature and Origin of Money.md",
-    "Economics/Modern Theories of Money/Seminars/Seminar 4 ~ Financial Instability Hypothesis.md",
     "Economics/Images/Pasted image 20241229173510.png",
     "Economics/Images/Pasted image 20241229172553.png",
     "Economics/Images/Pasted image 20241229165815.png",

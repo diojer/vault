@@ -1,0 +1,19 @@
+- What is the legislation called which would allow police officers to be dismissed when vetting is removed?
+	- No legislation introduced yet but Home Secretary has expressed support.
+- West Yorkshire police went back to investigate Child Sexual Exploitation after the issue came to light in 2014.
+- Is there a youth advisory board?
+	- Yes - for policing there is a youth advisory group.
+- Jobs with power will attract people with abusive tendencies - there should be a separate group of people dealing with women.
+	- There is a belief that there's no point in reporting "non-contact sexual offences". However, this is not true. People who start off with "non-contact" typically go on to physical sexual offences.
+	- There is also a specialist women's safety unit. There's 11 people who's job it is to bring the standard of investigations up to standard, increasing the number of 
+	- There is also a stalking investigation unit who has written the first non-contact sexual offence policy.
+		- If you report a non-contact sexual offence policy you will talk with an individual who will try their hardest to find the perpetrator.
+	- Alison also agrees that there is likely a higher percentage of people in the police with abusive tendencies, but pushes back on the idea that you shouldn't go to the police because of that potential - there are very few abusive police officers; we are seeing more and more police officers being dismissed which indicates that the standard of behaviour is at an all time high.
+- Is Leeds the only place or are these programs nationwide?
+	- It's not just Leeds - it's all of West Yorkshire.
+	- RASSO - rape and serious sexual offences - investigation has been advancing in the South using operation SOTERIA.
+	- West Yorkshire is the first in a lot of things, such as PCSOs or introducing Bus surveys for unsafe travel.
+		- West Yorkshire has also systemised an approach to ensuring safety in the night-time economy.
+- What role does the police have in preventing casual conversation from progressing to serious crime, re; rape and sexual violence.
+	- Men listen to other male friends more than women, which is why Tracy has been investigating male behaviour and education changes as the two biggest parts of the women safety strategy.
+- Harehills?
