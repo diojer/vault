@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Environmental Economics/Topic 03 ~ Appraisal of the environment - valuation.md",
+                "file": "Economics/Microeconomics/Year 3/Lecture 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Topic 03 ~ Appraisal of the environment - valuation"
-            }
-          },
-          {
-            "id": "ef9588ed00048e54",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "title": "Lecture 3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,14 +184,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ef9588ed00048e54",
+  "active": "2b98bce03ea4c4aa",
   "lastOpenFiles": [
-    "University Events/Alison Lowe II.md",
+    "Economics/Microeconomics/Year 3/Lecture 2.md",
+    "Economics/Microeconomics/Year 3/Lecture 3.md",
+    "Economics/Economic Growth/Lecture 2  - Solow Growth Model.md",
+    "Economics/Images/Pasted image 20250210104904.png",
+    "Economics/Images/Pasted image 20250210104313.png",
     "Economics/Environmental Economics/Topic 03 ~ Appraisal of the environment - valuation.md",
+    "Personal Readings/Minimum Wage - Review of International Evidence.md",
+    "Jobs/Civil Service/CMA - Arcelik~Whirlpool Merger Notes.md",
+    "Economics/Macroeconomics/Year 3/Monetary Policy/attachments/Pasted image 20250114171259.png",
+    "Economics/Macroeconomics/Year 3/Monetary Policy/attachments",
+    "Economics/Macroeconomics/Year 3/Monetary Policy/Shocks, Extensions and Critiques.md",
+    "Economics/Macroeconomics/Year 3/Monetary Policy/Financial Accelerator and Mortgage Loans.md",
+    "Economics/Economic Growth",
+    "Economics/Dissertation/Labour Compensation and Productivity in the UK Plan.docx",
+    "University Events/Alison Lowe II.md",
     "Economics/Environmental Economics",
     "Free Time Activities.md",
     "Politics/Revolutionary Politics/Fanon and Sartre.md",
-    "Economics/Microeconomics/Year 3/Lecture 2.md",
     "Politics/Revolutionary Politics",
     "Economics/Microeconomics/Year 3/Lecture 1.md",
     "Economics/Public Enterprise and Reg/Access Regulation and Regulatory Independence.md",
@@ -222,19 +221,10 @@
     "Economics/Public Enterprise and Reg/Seminars/Seminar 2 Reading Notes ~ CTC Healthcare.md",
     "Economics/Behavioural Economics/Readings/Exploring Menu Nudges to promote vegetarian meal choices.md",
     "Economics/Behavioural Economics/Readings/Trust and trustworthiness across different age groups.md",
-    "Economics/Behavioural Economics/Readings/Endowment Effects.md",
-    "Economics/Behavioural Economics/Readings/Untitled.md",
-    "Economics/Behavioural Economics/Readings/Eliciting Risk Preferences.md",
-    "Economics/Behavioural Economics/Time Preference.md",
-    "Economics/Behavioural Economics/Prospect Theory.md",
-    "Economics/Behavioural Economics/Fairness and Social Preference.md",
     "Economics/Behavioural Economics/Readings",
     "Economics/Public Enterprise and Reg/Secondary Reading",
     "Economics/Modern Theories of Money/Assessment/~$diagrams.pptx",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/201596918.pdf",
-    "Economics/Modern Theories of Money/Assessment/ppt674A.tmp",
-    "Economics/Macroeconomics/Year 3/Financial Cycle",
-    "Economics/Modern Theories of Money/Assessment/~WRL3879.tmp",
     "Economics/Modern Theories of Money/Reading Notes/attachments/Pasted image 20241208004612.png",
     "Economics/Modern Theories of Money/Reading Notes/attachments/Pasted image 20241208002608.png",
     "Economics/Images/Pasted image 20241229173510.png",
@@ -242,9 +232,6 @@
     "Economics/Images/Pasted image 20241229165815.png",
     "Economics/Images/Pasted image 20241229163508.png",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/arma/arma42.png",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/arma/arma32.png",
-    "Economics/Modern Theories of Money/Reading Notes/attachments/Pasted image 20241208020446.png",
-    "Economics/Modern Theories of Money/Reading Notes/attachments/Pasted image 20241208011520.png",
     "Untitled.canvas"
   ]
 }
