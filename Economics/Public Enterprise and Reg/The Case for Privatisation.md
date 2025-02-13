@@ -11,7 +11,7 @@ The Public Corporation model (AKA the Morrisonian Model) is the main nationalise
 - The Government is typically kept at arms length,
 - The Government decides policy while the Board decides operations.
 ## Nirvana Fallacy of Nationalisation
-A nirvana fallacy involves substituting in a perfect alternative for an imperfect 
+A nirvana fallacy involves substituting in a perfect alternative for an imperfect reality, rather than an imperfect alternative.
 ## Sources of Potential Inefficiency
 ### How are objectives set for state-owned enterprise?
 Ministers and civil servants will typically be setting and communicating direction to state-owned enterprise. The main mechanism for ensuring that state-owned enterprises act in the public interest is to **incentivise ministers via voting intention changes**.
