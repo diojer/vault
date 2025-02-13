@@ -10,4 +10,5 @@
 		- Therefore, compensation should be increasing in tandem.
 	- UK Government has written that the labour share has increased by 4.3% from 1997-2023
 		- Information on per-industry changes, however, they use quite broad industries and do not examine the size of discrepancies: for example, I found a very large discrepancy in agriculture but this is not shown in pure labour share stats.
-	- If compensation does not increase with productivity, then 
+	- If compensation does not increase with productivity, then what other models and production functions potentially arise?
+		- If compensation does increase with productivity, then does this reinforce the neoclassical aggregate production function?
