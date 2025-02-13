@@ -1,0 +1,14 @@
+- Current regression isn't indicative of much but does point to the ppi-adjusted values being closer to correlation than cpi-adjusted values.
+- Most papers looking at the labour-productivity gap tend to exclude agriculture
+- Talk over index composition for unknown/aggregated industries.
+- Talk about ASHE survey and combining SIC03 and SIC07
+	- Allows comparison of inter- and intra-firm compensation-productivity correlations,
+- I want to use econometrics to support main visual data which ties into theoretical discussion, rather than have the entire paper focussed on econometrics.
+- Theoretical talk:
+	- Neoclassical models emphasise that compensation should approach the marginal product of labour,
+		- If productivity is increasing the MPL must be increasing, although productivity=/=MPL
+		- Therefore, compensation should be increasing in tandem.
+	- UK Government has written that the labour share has increased by 4.3% from 1997-2023
+		- Information on per-industry changes, however, they use quite broad industries and do not examine the size of discrepancies: for example, I found a very large discrepancy in agriculture but this is not shown in pure labour share stats.
+	- If compensation does not increase with productivity, then what other models and production functions potentially arise?
+		- If compensation does increase with productivity, then does this reinforce the neoclassical aggregate production function?
