@@ -1,3 +1,4 @@
+>Ciarli, Di Ubaldo, Savona (2021)
 # General Notes
 - A £1 increase in productivity was found to increase average compensation by £0.28, median compensation by £0.35
 	- The effect is small and points toward a general decoupling.
