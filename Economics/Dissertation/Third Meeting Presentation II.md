@@ -3,6 +3,7 @@
 - Talk over index composition for unknown/aggregated industries.
 - Talk about ASHE survey and combining SIC03 and SIC07
 	- Allows comparison of inter- and intra-firm compensation-productivity correlations,
+	- To convert between SIC03 and SIC07, just make some assumptions: 2009 weights can be applied throughout, another assumption where they can only be applied with majority.
 - I want to use econometrics to support main visual data which ties into theoretical discussion, rather than have the entire paper focussed on econometrics.
 - Theoretical talk:
 	- Neoclassical models emphasise that compensation should approach the marginal product of labour,

@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Politics/Revolutionary Politics/Essay Writing Workshop 1.md",
+                "file": "Economics/Economic Growth/Lecture 5 - Endogenous Growth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Essay Writing Workshop 1"
+              "title": "Lecture 5 - Endogenous Growth"
+            }
+          },
+          {
+            "id": "ff00221894f63cf9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
             }
           },
           {
@@ -33,7 +45,8 @@
               "title": "(First edition) Hal R. VArian - Intermediate Microeconomics with Calculus. Hal-W. W. Norton & Company (2014)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,47 +209,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2b98bce03ea4c4aa",
+  "active": "ff00221894f63cf9",
   "lastOpenFiles": [
-    "Politics/Revolutionary Politics/Butler and Non-violence.md",
+    "Economics/Economic Growth/Lecture 4 - Overlapping Growth II.md",
+    "Economics/Economic Growth/Lecture 5 - Endogenous Growth.md",
+    "Economics/Economic Growth/Lecture 2  - Solow Growth Model.md",
+    "Economics/Dissertation/Third Meeting Presentation II.md",
+    "Economics/Dissertation/~$SIC03 SIC07 Compensation.xlsx",
     "Politics/Revolutionary Politics/Essay Writing Workshop 1.md",
+    "Economics/Dissertation/~$EARN07 PROD 1997-2019.xlsx",
+    "Economics/Dissertation/Unsorted Data/prod01jan2012_tcm77-253809.xls",
+    "Economics/Dissertation/Unsorted Data",
+    "Economics/Dissertation/Stata Input First Regression.xlsx",
+    "Economics/Dissertation/Stata Input First Regression+A.xlsx",
+    "Economics/Dissertation/SIC03 SIC07 Compensation.xlsx",
+    "Economics/Dissertation/Output Prices.xlsx",
+    "Economics/Dissertation/EARN07 PROD 1997-2019.xlsx",
+    "Economics/Dissertation/ASHE survey/SIC07 Industry (2) SIC2007 Table 4.5a   Hourly pay - Gross 2019.xls",
+    "Politics/Revolutionary Politics/Butler and Non-violence.md",
     "Politics/Revolutionary Politics/Fanon and Sartre.md",
     "Politics/Revolutionary Politics/Butler and Non-Violence.md",
     "Economics/Microeconomics/Year 3/Lecture 3 ~ Compensation Tests.md",
-    "Economics/Microeconomics/(First edition) Hal R. VArian - Intermediate Microeconomics with Calculus. Hal-W. W. Norton & Company (2014).pdf",
     "Economics/Microeconomics/Year 3/Lecture 2.md",
     "Economics/Microeconomics/Utility.md",
     "Economics/Microeconomics/Outlining Preference Functions.md",
     "Economics/Microeconomics/Year 3/Lecture 1.md",
-    "Economics/Economic Growth/Lecture 2  - Solow Growth Model.md",
     "Economics/Images/Pasted image 20250210104904.png",
     "Economics/Images/Pasted image 20250210104313.png",
     "Economics/Environmental Economics/Topic 03 ~ Appraisal of the environment - valuation.md",
     "Personal Readings/Minimum Wage - Review of International Evidence.md",
     "Jobs/Civil Service/CMA - Arcelik~Whirlpool Merger Notes.md",
     "Economics/Macroeconomics/Year 3/Monetary Policy/attachments/Pasted image 20250114171259.png",
-    "Economics/Macroeconomics/Year 3/Monetary Policy/attachments",
     "Economics/Macroeconomics/Year 3/Monetary Policy/Shocks, Extensions and Critiques.md",
     "Economics/Macroeconomics/Year 3/Monetary Policy/Financial Accelerator and Mortgage Loans.md",
-    "Economics/Economic Growth",
-    "Economics/Dissertation/Labour Compensation and Productivity in the UK Plan.docx",
     "University Events/Alison Lowe II.md",
-    "Economics/Environmental Economics",
     "Free Time Activities.md",
-    "Politics/Revolutionary Politics",
     "Economics/Public Enterprise and Reg/Access Regulation and Regulatory Independence.md",
-    "Economics/Microeconomics/Year 3",
     "Economics/Public Enterprise and Reg/Contestability and Competition 1~3.md",
     "Economics/Public Enterprise and Reg/Contestability and Competition 3~3.md",
     "Economics/Public Enterprise and Reg/Contestability and Competition 2~3.md",
     "Economics/Public Enterprise and Reg/Natural Monopoly and Competition.md",
     "Economics/Public Enterprise and Reg/Does Ownership Matter.md",
-    "Economics/Public Enterprise and Reg/The Case for Privatisation.md",
-    "Economics/Public Enterprise and Reg/Seminars/Seminar 3 Reading Notes ~ Windfall Taxes.md",
-    "Economics/Public Enterprise and Reg/Theories of Regulation.md",
-    "Economics/Behavioural Economics/Readings",
-    "Economics/Public Enterprise and Reg/Secondary Reading",
-    "Economics/Modern Theories of Money/Assessment/~$diagrams.pptx",
     "Economics/Modern Theories of Money/Reading Notes/attachments/Pasted image 20241208004612.png",
     "Economics/Modern Theories of Money/Reading Notes/attachments/Pasted image 20241208002608.png",
     "Economics/Images/Pasted image 20241229173510.png",
