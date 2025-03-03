@@ -164,7 +164,6 @@ Due to how percentages work, the convergence between absolute or relative values
 ![[Pasted image 20250210104313.png]]
 Where the relative convergence is equal to the ratio  between absolute values, China and OECD countries have relatively converged, but absolutely diverged.
 ![[Pasted image 20250210104904.png]]
-
 # Important Notes
 $MPL$ vs. $Y/L$:
 - Average vs. marginal
