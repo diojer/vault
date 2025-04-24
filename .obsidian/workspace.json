@@ -13,16 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Economic Growth/Lecture 3 - Overlapping Generations I.md",
+                "file": "Economics/Economic Growth/Lecture 7 - The Environment and Economic Growth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 3 - Overlapping Generations I"
+              "title": "Lecture 7 - The Environment and Economic Growth"
             }
           },
           {
-            "id": "76526b58356a4135",
+            "id": "395842051e16bb8a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          },
+          {
+            "id": "dfb53ffce4d1233f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Economics/Microeconomics/(First edition) Hal R. VArian - Intermediate Microeconomics with Calculus. Hal-W. W. Norton & Company (2014).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "(First edition) Hal R. VArian - Intermediate Microeconomics with Calculus. Hal-W. W. Norton & Company (2014)"
+            }
+          },
+          {
+            "id": "0f6754270d58ff80",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -33,7 +57,8 @@
               "title": "(First edition) Hal R. VArian - Intermediate Microeconomics with Calculus. Hal-W. W. Norton & Company (2014)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,34 +221,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2b98bce03ea4c4aa",
+  "active": "395842051e16bb8a",
   "lastOpenFiles": [
-    "Economics/Economic Growth/Lecture 4 - Overlapping Generations II.md",
+    "Economics/Economic Growth/Lecture 7.5 - Institutions and Economic Growth.md",
+    "Economics/Microeconomics/Year 3/Lecture 2.md",
+    "Economics/Microeconomics/Year 3/Practice Question 1A.pdf",
+    "Economics/Microeconomics/Year 3/mso9912.tmp",
+    "Economics/Microeconomics/Year 3/~$actice Question 1A.docx",
+    "Economics/Microeconomics/Year 3/~WRL2309.tmp",
+    "Economics/Microeconomics/Year 3/~WRD2285.tmp",
+    "Economics/Microeconomics/Year 3/Practice Question 1A.docx",
+    "Economics/Microeconomics/(First edition) Hal R. VArian - Intermediate Microeconomics with Calculus. Hal-W. W. Norton & Company (2014).pdf",
+    "Economics/Images/Pasted image 20250413184058.png",
+    "Economics/Images/Pasted image 20250413183520.png",
+    "Economics/Images/Pasted image 20250413182403.png",
+    "Economics/Images/Pasted image 20250413182126.png",
+    "Economics/Images/Pasted image 20250413180107.png",
+    "Economics/Images/Pasted image 20250413174718.png",
+    "Economics/Images/Pasted image 20250413173951.png",
+    "Economics/Images/Pasted image 20250413173247.png",
+    "Economics/Images/Pasted image 20250413135814.png",
     "Economics/Economic Growth/Lecture 3 - Overlapping Generations I.md",
+    "Economics/Microeconomics/Hal R. Varian - Intermediate Microeconomics_ A Modern Approach, 8th Edition  -W.W. Norton & Co. (2010).pdf",
+    "Economics/Economic Growth/Lecture 2  - Solow Growth Model.md",
+    "Economics/Microeconomics/Year 3/Lecture 3 ~ Compensation Tests.md",
+    "Economics/Microeconomics/Year 3/Lecture 1.md",
+    "Economics/Microeconomics/Year 3/Seminar 1.md",
+    "Economics/Economic Growth/Lecture 4 - Overlapping Generations II.md",
     "Economics/Economic Growth/Lecture 5 - Endogenous Growth.md",
     "Economics/Economic Growth/Lecture 7 - The Environment and Economic Growth.md",
-    "Economics/Economic Growth/Lecture 7.5 - Institutions and Economic Growth.md",
-    "Economics/Economic Growth/Lecture 2  - Solow Growth Model.md",
     "Economics/Dissertation/STATA/Graphs/Images/Unemployment.png",
-    "Economics/Dissertation/STATA/Graphs/Images/RealWeeklyGrossMedianWage.png",
-    "Economics/Dissertation/STATA/Graphs/Images/RealHourlyGrossMedianWage.png",
-    "Economics/Dissertation/STATA/Graphs/Images/RealHourlyCompensation.png",
-    "Economics/Dissertation/STATA/Graphs/Images/NetProductivityNVA.png",
-    "Economics/Dissertation/STATA/Graphs/Images/NetProductivityNDP.png",
-    "Economics/Dissertation/STATA/Graphs/Images/HoursWorked.png",
-    "Economics/Dissertation/STATA/Graphs/Images/GrossProductivityGVA.png",
-    "Economics/Dissertation/STATA/Graphs/Images/GrossProductivityGDP.png",
-    "Economics/Dissertation/STATA/Graphs/Images/All Productivity.png",
     "Economics/Dissertation/STATA/Graphs/Unemployment.gph",
     "Economics/Dissertation/STATA/Graphs/RealWeeklyGrossMedianWage.gph",
-    "Economics/Dissertation/STATA/Graphs/RealHourlyGrossMedianWage.gph",
-    "Economics/Dissertation/STATA/Graphs/RealHourlyCompensation.gph",
-    "Economics/Dissertation/STATA/Graphs/NetProductivityNVA.gph",
-    "Economics/Dissertation/STATA/Graphs/NetProductivityNDP.gph",
-    "Economics/Dissertation/STATA/Graphs/Images",
-    "Economics/Dissertation/STATA/Graphs/HoursWorked.gph",
-    "Economics/Dissertation/STATA/Graphs/GrossProductivityGDP.gph",
-    "Economics/Dissertation/STATA/Graphs/GrossProductivityGVA.gph",
     "Economics/Dissertation/Reading Notes/Asymmetric nexus between wages and productivity in the context of the global financial crisis.md",
     "Economics/Dissertation/Reading Notes/Did Wages Reflect Growth in Productivity.md",
     "Economics/Modern Theories of Money/Reading Notes/Issues in the History of Thought.md",
@@ -235,15 +264,10 @@
     "Politics/Revolutionary Politics/Butler and Non-violence.md",
     "Politics/Revolutionary Politics/Fanon and Sartre.md",
     "Politics/Revolutionary Politics/Butler and Non-Violence.md",
-    "Economics/Microeconomics/Year 3/Lecture 3 ~ Compensation Tests.md",
-    "Economics/Microeconomics/Year 3/Lecture 2.md",
     "Economics/Microeconomics/Utility.md",
     "Economics/Microeconomics/Outlining Preference Functions.md",
-    "Economics/Microeconomics/Year 3/Lecture 1.md",
     "Economics/Environmental Economics/Topic 03 ~ Appraisal of the environment - valuation.md",
     "Personal Readings/Minimum Wage - Review of International Evidence.md",
-    "Jobs/Civil Service/CMA - Arcelik~Whirlpool Merger Notes.md",
-    "Economics/Macroeconomics/Year 3/Monetary Policy/Shocks, Extensions and Critiques.md",
     "Untitled.canvas"
   ]
 }
