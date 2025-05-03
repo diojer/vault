@@ -4,7 +4,7 @@ foreach v of var * {
 }
 
 //STEP 2
-foreach var of varlist Unemployment LnInflation LabourShare LnProductivity LnRealMedianWage LnRealAverageWage P I J K L M N O LnHoursWorked {
+foreach var of varlist Unemployment LnInflation LabourShare LnNetProductivityNDP LnRealMedianWage LnRealAverageWage LnP LnH LnI LnJ LnK LnL LnM LnN LnHoursWorked {
 	gen D`var' = D.`var'
 	tssmooth ma MaD`var' = D.`var', window(2,1)
 	tssmooth ma Ma`var' = `var', window(2,1)
@@ -15,10 +15,10 @@ foreach var of varlist Unemployment LnInflation LabourShare LnProductivity LnRea
 
 
 //Stansbury and Summers (2018) specification
-reg MaDLnRealMedianWage MaDLnProductivity MaUnemployment MaLUnemployment, robust
-foreach var of varlist MaDLnTenth MaDLnTwentieth MaDLnThirtieth MaDLnFortieth MaDLnSixtieth MaDLnSeventieth MaDLnEightieth MaDLnNinetieth {
+reg MaDLnRealMedianWage MaDLnNetProductivityNDP MaUnemployment MaLUnemployment, robust
+foreach var of varlist MaDLnP MaDLnH MaDLnI MaDLnJ MaDLnK MaDLnL MaDLnM MaDLnN {
 	display "`var'-------------------"
-	reg `var' MaDLnProductivity MaUnemployment MaLUnemployment, robust
+	reg `var' MaDLnNetProductivityNDP MaUnemployment MaLUnemployment, robust
 }
 
 
