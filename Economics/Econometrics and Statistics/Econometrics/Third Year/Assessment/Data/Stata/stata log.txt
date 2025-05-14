@@ -1,0 +1,1540 @@
+
+  ___  ____  ____  ____  ____ ®
+ /__    /   ____/   /   ____/      18.0
+___/   /   /___/   /   /___/       MP—Parallel Edition
+
+ Statistics and Data Science       Copyright 1985-2023 StataCorp LLC
+                                   StataCorp
+                                   4905 Lakeway Drive
+                                   College Station, Texas 77845 USA
+                                   800-STATA-PC        https://www.stata.com
+                                   979-696-4600        stata@stata.com
+
+Stata license: Unlimited-user 2-core network, expiring  1 Oct 2025
+Serial number: 501809305315
+  Licensed to: LDS
+               University of Leeds
+
+Notes:
+      1. Unicode is supported; see help unicode_advice.
+      2. More than 2 billion observations are allowed; see help obs_advice.
+      3. Maximum number of variables is set to 5,000 but can be increased;
+          see help set_maxvar.
+
+. use "G:\University Documents\Notes\PPE\Shared Notes\Economics\Dissertation\STATA\1985specs.dta" 
+
+. reg MaDLnrealmedian MaDLnNetProductivityNDP MaDUnemployment MaLDUnemployment MaDLnHoursWorkedRecalculated
+
+      Source |       SS           df       MS      Number of obs   =        32
+-------------+----------------------------------   F(4, 27)        =      7.49
+       Model |  .007851909         4  .001962977   Prob > F        =    0.0003
+    Residual |  .007076137        27  .000262079   R-squared       =    0.5260
+-------------+----------------------------------   Adj R-squared   =    0.4558
+       Total |  .014928046        31   .00048155   Root MSE        =    .01619
+
+----------------------------------------------------------------------------------------------
+             MaDLnrealmedian | Coefficient  Std. err.      t    P>|t|     [95% conf. interval]
+-----------------------------+----------------------------------------------------------------
+     MaDLnNetProductivityNDP |   1.129835   .3865782     2.92   0.007     .3366425    1.923029
+             MaDUnemployment |   1.101503    1.78063     0.62   0.541    -2.552049    4.755054
+            MaLDUnemployment |  -2.205484   .8260763    -2.67   0.013    -3.900452   -.5105154
+MaDLnHoursWorkedRecalculated |   .1632831   .7410338     0.22   0.827    -1.357193    1.683759
+                       _cons |  -.0032782   .0077525    -0.42   0.676    -.0191851    .0126286
+----------------------------------------------------------------------------------------------
+
+. reg MaDLnrealmedian MaDLnNetProductivityNDP MaDUnemployment MaLDUnemployment MaDLnHoursWorkedRecalculated, robust
+
+Linear regression                               Number of obs     =         32
+                                                F(4, 27)          =       6.58
+                                                Prob > F          =     0.0008
+                                                R-squared         =     0.5260
+                                                Root MSE          =     .01619
+
+----------------------------------------------------------------------------------------------
+                             |               Robust
+             MaDLnrealmedian | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+-----------------------------+----------------------------------------------------------------
+     MaDLnNetProductivityNDP |   1.129835   .3473409     3.25   0.003     .4171509     1.84252
+             MaDUnemployment |   1.101503   1.350043     0.82   0.422    -1.668557    3.871563
+            MaLDUnemployment |  -2.205484   .7495326    -2.94   0.007    -3.743398     -.66757
+MaDLnHoursWorkedRecalculated |   .1632831   .5266366     0.31   0.759     -.917286    1.243852
+                       _cons |  -.0032782   .0069318    -0.47   0.640    -.0175011    .0109446
+----------------------------------------------------------------------------------------------
+
+. edit
+
+. *(1 variable, 36 observations pasted into data editor)
+
+. rename var64 Inflation
+
+. tssmooth ma MaDInflation = D.Inflation, window(2,1)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.Inflation
+
+. tsline MaDInflation
+
+. tsline Inflation
+
+. tsline MaDInflation Inflation
+
+. reg MaDLnrealmedian MaDLnNetProductivityNDP MaDUnemployment MaLDUnemployment MaDLnHoursWorkedRecalculated MaDInflation, robust
+
+Linear regression                               Number of obs     =         31
+                                                F(5, 25)          =       6.55
+                                                Prob > F          =     0.0005
+                                                R-squared         =     0.5608
+                                                Root MSE          =      .0154
+
+----------------------------------------------------------------------------------------------
+                             |               Robust
+             MaDLnrealmedian | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+-----------------------------+----------------------------------------------------------------
+     MaDLnNetProductivityNDP |   1.094066   .3250477     3.37   0.002     .4246178    1.763514
+             MaDUnemployment |   .7154273   1.757647     0.41   0.687    -2.904515     4.33537
+            MaLDUnemployment |  -2.043104   1.052866    -1.94   0.064    -4.211522    .1253135
+MaDLnHoursWorkedRecalculated |  -.0969395   .5850806    -0.17   0.870    -1.301936    1.108057
+                MaDInflation |   .3173938   .4101786     0.77   0.446    -.5273848    1.162172
+                       _cons |  -.0025425    .006859    -0.37   0.714    -.0166689    .0115838
+----------------------------------------------------------------------------------------------
+
+. reg MaDLnRealMedianHourly MaDLnNetProductivityNDP MaDUnemployment MaLDUnemployment MaDLnHoursWorkedRecalculated MaDInflation, robust
+
+Linear regression                               Number of obs     =         22
+                                                F(5, 16)          =      24.39
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.8760
+                                                Root MSE          =     .00654
+
+----------------------------------------------------------------------------------------------
+                             |               Robust
+       MaDLnRealMedianHourly | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+-----------------------------+----------------------------------------------------------------
+     MaDLnNetProductivityNDP |   .7523186   .1277354     5.89   0.000     .4815317    1.023106
+             MaDUnemployment |   3.323307   1.059428     3.14   0.006     1.077419    5.569195
+            MaLDUnemployment |  -3.887419   .5726769    -6.79   0.000     -5.10144   -2.673398
+MaDLnHoursWorkedRecalculated |  -.2361251   .4856708    -0.49   0.633    -1.265701     .793451
+                MaDInflation |  -.3132724   .1938789    -1.62   0.126    -.7242772    .0977324
+                       _cons |   .0012535   .0041679     0.30   0.767    -.0075821    .0100891
+----------------------------------------------------------------------------------------------
+
+. reg MaDLnRealMedianHourly MaDLnNetProductivityNDP MaDUnemployment MaLDUnemployment MaDLnHoursWorkedRecalculated, robust
+
+Linear regression                               Number of obs     =         22
+                                                F(4, 17)          =      19.63
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.8609
+                                                Root MSE          =     .00672
+
+----------------------------------------------------------------------------------------------
+                             |               Robust
+       MaDLnRealMedianHourly | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+-----------------------------+----------------------------------------------------------------
+     MaDLnNetProductivityNDP |   .7411045   .1408974     5.26   0.000     .4438369    1.038372
+             MaDUnemployment |   2.678473   .9461113     2.83   0.012     .6823526    4.674593
+            MaLDUnemployment |  -3.600498   .7360584    -4.89   0.000    -5.153446   -2.047551
+MaDLnHoursWorkedRecalculated |    -.28751   .4284999    -0.67   0.511    -1.191566    .6165456
+                       _cons |    .001212   .0042421     0.29   0.779    -.0077381    .0101621
+----------------------------------------------------------------------------------------------
+
+. reg MaDLnRealMedianHourly MaDLnNetProductivityNDP MaDUnemployment MaLDUnemployment, robust
+
+Linear regression                               Number of obs     =         22
+                                                F(3, 18)          =      28.56
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.8578
+                                                Root MSE          =     .00661
+
+-----------------------------------------------------------------------------------------
+                        |               Robust
+  MaDLnRealMedianHourly | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+------------------------+----------------------------------------------------------------
+MaDLnNetProductivityNDP |   .7947039   .1447343     5.49   0.000     .4906284    1.098779
+        MaDUnemployment |    3.28583   .6568658     5.00   0.000     1.905806    4.665854
+       MaLDUnemployment |  -3.818713   .6434098    -5.94   0.000    -5.170467   -2.466959
+                  _cons |  -.0012067   .0021909    -0.55   0.589    -.0058095    .0033962
+-----------------------------------------------------------------------------------------
+
+. tsline RealMedianHourly
+
+. reg MaDLnRealMedianHourly MaDLnGrossProductivityGVA MaDUnemployment MaLDUnemployment, robust
+variable MaDLnGrossProductivityGVA not found
+r(111);
+
+. tsline GrossProductivityGVA
+
+. tssmooth ma MaDLnGrossProductivityGVA = D.ln(GrossProductivityGVA), window(2,1)
+unknown function D.ln()
+r(133);
+
+. tssmooth ma MaDLnGrossProductivityGVA = D.(ln(GrossProductivityGVA)), window(2,1)
+unknown function D.()
+r(133);
+
+. gen LnGrossProductivityGVA = ln(GrossProductivityGVA)
+variable LnGrossProductivityGVA already defined
+r(110);
+
+. tssmooth ma MaDLnGrossProductivityGVA = D.LnGrossProductivityGVA , window(2,1)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnGrossProductivityGVA
+
+. reg MaDLnRealMedianHourly MaDLnGrossProductivityGVA MaDUnemployment MaLDUnemployment, robust
+
+Linear regression                               Number of obs     =         22
+                                                F(3, 18)          =      55.21
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.9280
+                                                Root MSE          =      .0047
+
+-------------------------------------------------------------------------------------------
+                          |               Robust
+    MaDLnRealMedianHourly | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+--------------------------+----------------------------------------------------------------
+MaDLnGrossProductivityGVA |   1.041536   .1253283     8.31   0.000     .7782316    1.304841
+          MaDUnemployment |   2.080577   .5426884     3.83   0.001     .9404313    3.220723
+         MaLDUnemployment |  -2.607118   .5414224    -4.82   0.000    -3.744604   -1.469632
+                    _cons |  -.0037913   .0019197    -1.97   0.064    -.0078246    .0002419
+-------------------------------------------------------------------------------------------
+
+. import excel "G:\University Documents\Notes\PPE\Shared Notes\Economics\Dissertation\Dissertation Variables.xlsx", sheet("Combined 1997") firstrow clear
+(20 vars, 23 obs)
+
+. do "C:\Users\Admin\AppData\Local\Temp\STD54ec_000000.tmp"
+
+. foreach v of var * {
+  2.         gen Ln`v' = ln(`v')
+  3. }
+(23 missing values generated)
+
+. 
+. //STEP 2
+. foreach var of varlist Unemployment LnInflation LabourShare LnNetProductivityNDP LnRealMedianWage LnRealAverageWage LnP LnH LnI LnJ LnK LnL LnM LnN LnHoursWorked {
+  2.         gen D`var' = D.`var'
+  3.         tssmooth ma MaD`var' = D.`var', window(2,1)
+  4.         tssmooth ma Ma`var' = `var', window(2,1)
+  5.         tssmooth ma MaL`var' = L.`var', window(2,1)
+  6.         tssmooth ma Ma2D`var' = D.`var', window(1,1,1)
+  7.         tssmooth ma Ma2`var' = `var', window(1,1,1)
+  8. }
+time variable not set
+r(111);
+
+end of do-file
+
+r(111);
+
+. tsset Year, yearly
+
+Time variable: Year, 1997 to 2019
+        Delta: 1 year
+
+. drop LnYear LnUnemployment LnInflation LnLabourShare LnRealMedianWage LnRealAverageWage LnP LnH LnI LnJ LnK LnL LnM LnN LnHoursWorked LnGrossProductivityGDP LnNetProductivity
+> NDP LnGrossProductivityGVA LnNetProductivityNVA LnT 
+
+. browse
+
+. drop T 
+
+. do "C:\Users\Admin\AppData\Local\Temp\STD54ec_000000.tmp"
+
+. foreach v of var * {
+  2.         gen Ln`v' = ln(`v')
+  3. }
+
+. 
+. //STEP 2
+. foreach var of varlist Unemployment LnInflation LabourShare LnNetProductivityNDP LnRealMedianWage LnRealAverageWage LnP LnH LnI LnJ LnK LnL LnM LnN LnHoursWorked {
+  2.         gen D`var' = D.`var'
+  3.         tssmooth ma MaD`var' = D.`var', window(2,1)
+  4.         tssmooth ma Ma`var' = `var', window(2,1)
+  5.         tssmooth ma MaL`var' = L.`var', window(2,1)
+  6.         tssmooth ma Ma2D`var' = D.`var', window(1,1,1)
+  7.         tssmooth ma Ma2`var' = `var', window(1,1,1)
+  8. }
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.Unemployment
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= Unemployment
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.Unemployment
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.Unemployment
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= Unemployment
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnInflation
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnInflation
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnInflation
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnInflation
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnInflation
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LabourShare
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LabourShare
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LabourShare
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LabourShare
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LabourShare
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnNetProductivityNDP
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnNetProductivityNDP
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnNetProductivityNDP
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnNetProductivityNDP
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnNetProductivityNDP
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnRealMedianWage
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnRealMedianWage
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnRealMedianWage
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnRealMedianWage
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnRealMedianWage
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnRealAverageWage
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnRealAverageWage
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnRealAverageWage
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnRealAverageWage
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnRealAverageWage
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnP
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnP
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnP
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnP
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnP
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnH
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnH
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnH
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnH
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnH
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnI
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnI
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnI
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnI
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnI
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnJ
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnJ
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnJ
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnJ
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnJ
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnK
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnK
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnK
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnK
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnK
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnL
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnL
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnL
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnL
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnL
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnM
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnM
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnM
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnM
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnM
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnN
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnN
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnN
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnN
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnN
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnHoursWorked
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnHoursWorked
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnHoursWorked
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnHoursWorked
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnHoursWorked
+
+. 
+end of do-file
+
+. do "C:\Users\Admin\AppData\Local\Temp\STD54ec_000000.tmp"
+
+. reg MaDLnRealMedianWage MaDLnNetProductivityNDP MaUnemployment MaLUnemployment, robust
+
+Linear regression                               Number of obs     =         22
+                                                F(3, 18)          =      20.34
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.7240
+                                                Root MSE          =     .00923
+
+-----------------------------------------------------------------------------------------
+                        |               Robust
+    MaDLnRealMedianWage | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+------------------------+----------------------------------------------------------------
+MaDLnNetProductivityNDP |   .9840221    .189842     5.18   0.000     .5851789    1.382865
+         MaUnemployment |  -.3691022   .5301642    -0.70   0.495    -1.482936    .7447313
+        MaLUnemployment |  -.4099538   .4666868    -0.88   0.391    -1.390426    .5705189
+                  _cons |   .0352533   .0135568     2.60   0.018     .0067715     .063735
+-----------------------------------------------------------------------------------------
+
+. 
+end of do-file
+
+. do "C:\Users\Admin\AppData\Local\Temp\STD54ec_000000.tmp"
+
+. reg MaDLnRealMedianWage MaDLnNetProductivityNDP MaDUnemployment MaDLUnemployment, robust
+variable MaDLUnemployment not found
+r(111);
+
+end of do-file
+
+r(111);
+
+. tssmooth ma MaLDUnemployment = DL.Unemployment, window(2,1)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= DL.Unemployment
+
+. reg MaDLnRealMedianWage MaDLnNetProductivityNDP MaDUnemployment MaLDUnemployment, robust
+
+Linear regression                               Number of obs     =         21
+                                                F(3, 17)          =      35.32
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.8852
+                                                Root MSE          =     .00599
+
+-----------------------------------------------------------------------------------------
+                        |               Robust
+    MaDLnRealMedianWage | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+------------------------+----------------------------------------------------------------
+MaDLnNetProductivityNDP |   .8733342   .1351667     6.46   0.000     .5881574    1.158511
+        MaDUnemployment |   3.763139   .6407151     5.87   0.000     2.411348    5.114929
+       MaLDUnemployment |  -4.463128   .6102376    -7.31   0.000    -5.750617   -3.175639
+                  _cons |  -.0018931   .0018525    -1.02   0.321    -.0058017    .0020154
+-----------------------------------------------------------------------------------------
+
+. tssmooth ma MaDInflation = D.Inflation, window(2,1)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.Inflation
+
+. reg MaDLnRealMedianWage MaDLnNetProductivityNDP MaDUnemployment MaLDUnemployment MaDInflation , robust
+
+Linear regression                               Number of obs     =         21
+                                                F(4, 16)          =      28.32
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.9058
+                                                Root MSE          =      .0056
+
+-----------------------------------------------------------------------------------------
+                        |               Robust
+    MaDLnRealMedianWage | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+------------------------+----------------------------------------------------------------
+MaDLnNetProductivityNDP |    .943655   .1210105     7.80   0.000     .6871241    1.200186
+        MaDUnemployment |    4.27743   .5708033     7.49   0.000     3.067381    5.487479
+       MaLDUnemployment |  -4.673708   .5132287    -9.11   0.000    -5.761705   -3.585712
+           MaDInflation |  -.7404501   .2784215    -2.66   0.017    -1.330677   -.1502228
+                  _cons |  -.0022558   .0014099    -1.60   0.129    -.0052447    .0007332
+-----------------------------------------------------------------------------------------
+
+. do "C:\Users\Admin\AppData\Local\Temp\STD54ec_000000.tmp"
+
+. foreach var of varlist MaDLnP MaDLnH MaDLnI MaDLnJ MaDLnK MaDLnL MaDLnM MaDLnN {
+  2.         display "`var'-------------------"
+  3.         reg `var' MaDLnNetProductivityNDP MaDUnemployment MaLDUnemployment MaDInflation, robust
+  4. }
+MaDLnP-------------------
+
+Linear regression                               Number of obs     =         21
+                                                F(4, 16)          =      63.16
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.8911
+                                                Root MSE          =     .00682
+
+-----------------------------------------------------------------------------------------
+                        |               Robust
+                 MaDLnP | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+------------------------+----------------------------------------------------------------
+MaDLnNetProductivityNDP |   .6461128   .1618255     3.99   0.001      .303058    .9891675
+        MaDUnemployment |   2.851184   .7247223     3.93   0.001     1.314842    4.387527
+       MaLDUnemployment |  -4.981039   .6075964    -8.20   0.000    -6.269086   -3.692992
+           MaDInflation |   .4220925   .3123847     1.35   0.195    -.2401335    1.084318
+                  _cons |   .0052165   .0018588     2.81   0.013     .0012761    .0091569
+-----------------------------------------------------------------------------------------
+MaDLnH-------------------
+
+Linear regression                               Number of obs     =         21
+                                                F(4, 16)          =      33.00
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.8751
+                                                Root MSE          =     .00669
+
+-----------------------------------------------------------------------------------------
+                        |               Robust
+                 MaDLnH | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+------------------------+----------------------------------------------------------------
+MaDLnNetProductivityNDP |   .7120425     .14988     4.75   0.000     .3943112    1.029774
+        MaDUnemployment |   3.376773   .6856298     4.93   0.000     1.923302    4.830243
+       MaLDUnemployment |  -4.775282   .5817196    -8.21   0.000    -6.008472   -3.542092
+           MaDInflation |  -.0021164   .2901533    -0.01   0.994    -.6172139    .6129812
+                  _cons |   .0014903   .0017806     0.84   0.415    -.0022845    .0052651
+-----------------------------------------------------------------------------------------
+MaDLnI-------------------
+
+Linear regression                               Number of obs     =         21
+                                                F(4, 16)          =      27.69
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.8970
+                                                Root MSE          =     .00592
+
+-----------------------------------------------------------------------------------------
+                        |               Robust
+                 MaDLnI | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+------------------------+----------------------------------------------------------------
+MaDLnNetProductivityNDP |   .8808326   .1305125     6.75   0.000     .6041585    1.157507
+        MaDUnemployment |   3.855971   .6264029     6.16   0.000     2.528056    5.183886
+       MaLDUnemployment |   -4.62769   .5540583    -8.35   0.000    -5.802241   -3.453139
+           MaDInflation |  -.4498792   .2900031    -1.55   0.140    -1.064658       .1649
+                  _cons |   -.001447   .0015121    -0.96   0.353    -.0046526    .0017586
+-----------------------------------------------------------------------------------------
+MaDLnJ-------------------
+
+Linear regression                               Number of obs     =         21
+                                                F(4, 16)          =      27.37
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.8991
+                                                Root MSE          =     .00577
+
+-----------------------------------------------------------------------------------------
+                        |               Robust
+                 MaDLnJ | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+------------------------+----------------------------------------------------------------
+MaDLnNetProductivityNDP |   .9158401   .1232665     7.43   0.000     .6545269    1.177153
+        MaDUnemployment |   3.948021   .6005307     6.57   0.000     2.674953    5.221089
+       MaLDUnemployment |  -4.532636   .5258569    -8.62   0.000    -5.647403   -3.417869
+           MaDInflation |  -.5561393   .2952987    -1.88   0.078    -1.182145     .069866
+                  _cons |  -.0022507   .0015324    -1.47   0.161    -.0054992    .0009978
+-----------------------------------------------------------------------------------------
+MaDLnK-------------------
+
+Linear regression                               Number of obs     =         21
+                                                F(4, 16)          =      29.30
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.9012
+                                                Root MSE          =     .00578
+
+-----------------------------------------------------------------------------------------
+                        |               Robust
+                 MaDLnK | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+------------------------+----------------------------------------------------------------
+MaDLnNetProductivityNDP |    1.03003   .1261253     8.17   0.000     .7626565    1.297404
+        MaDUnemployment |    4.41919   .5811153     7.60   0.000     3.187281      5.6511
+       MaLDUnemployment |  -4.545236   .5240573    -8.67   0.000    -5.656188   -3.434284
+           MaDInflation |  -.8216867   .2968823    -2.77   0.014    -1.451049   -.1923244
+                  _cons |  -.0028081     .00147    -1.91   0.074    -.0059244    .0003082
+-----------------------------------------------------------------------------------------
+MaDLnL-------------------
+
+Linear regression                               Number of obs     =         21
+                                                F(4, 16)          =      30.02
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.9069
+                                                Root MSE          =     .00583
+
+-----------------------------------------------------------------------------------------
+                        |               Robust
+                 MaDLnL | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+------------------------+----------------------------------------------------------------
+MaDLnNetProductivityNDP |   1.104767   .1245084     8.87   0.000     .8408209    1.368713
+        MaDUnemployment |   4.525514   .5971367     7.58   0.000     3.259641    5.791388
+       MaLDUnemployment |   -4.60419   .5197562    -8.86   0.000    -5.706024   -3.502356
+           MaDInflation |  -.7087436   .3009011    -2.36   0.032    -1.346625   -.0708617
+                  _cons |   -.003235   .0015874    -2.04   0.058    -.0066001    .0001301
+-----------------------------------------------------------------------------------------
+MaDLnM-------------------
+
+Linear regression                               Number of obs     =         21
+                                                F(4, 16)          =      31.93
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.9135
+                                                Root MSE          =     .00587
+
+-----------------------------------------------------------------------------------------
+                        |               Robust
+                 MaDLnM | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+------------------------+----------------------------------------------------------------
+MaDLnNetProductivityNDP |   1.189517   .1291891     9.21   0.000     .9156481    1.463385
+        MaDUnemployment |   4.889172   .6126162     7.98   0.000     3.590483     6.18786
+       MaLDUnemployment |   -4.80114   .5395003    -8.90   0.000    -5.944829    -3.65745
+           MaDInflation |  -.7965329   .2976034    -2.68   0.017    -1.427424   -.1656418
+                  _cons |  -.0041523   .0015307    -2.71   0.015    -.0073972   -.0009075
+-----------------------------------------------------------------------------------------
+MaDLnN-------------------
+
+Linear regression                               Number of obs     =         21
+                                                F(4, 16)          =      32.14
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.9105
+                                                Root MSE          =     .00647
+
+-----------------------------------------------------------------------------------------
+                        |               Robust
+                 MaDLnN | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+------------------------+----------------------------------------------------------------
+MaDLnNetProductivityNDP |    1.25906   .1499306     8.40   0.000     .9412217    1.576899
+        MaDUnemployment |   5.074985   .6556609     7.74   0.000     3.685046    6.464924
+       MaLDUnemployment |  -5.137364    .563981    -9.11   0.000    -6.332951   -3.941778
+           MaDInflation |  -.5194788   .3313774    -1.57   0.137    -1.221968    .1830099
+                  _cons |  -.0046485   .0015544    -2.99   0.009    -.0079436   -.0013534
+-----------------------------------------------------------------------------------------
+
+. 
+end of do-file
+
+. reg MaDLnRealMedianWage MaDLnNetProductivityNDP MaDUnemployment MaLDUnemployment MaDInflation
+
+      Source |       SS           df       MS      Number of obs   =        21
+-------------+----------------------------------   F(4, 16)        =     38.45
+       Model |   .00482098         4  .001205245   Prob > F        =    0.0000
+    Residual |  .000501499        16  .000031344   R-squared       =    0.9058
+-------------+----------------------------------   Adj R-squared   =    0.8822
+       Total |  .005322479        20  .000266124   Root MSE        =     .0056
+
+-----------------------------------------------------------------------------------------
+    MaDLnRealMedianWage | Coefficient  Std. err.      t    P>|t|     [95% conf. interval]
+------------------------+----------------------------------------------------------------
+MaDLnNetProductivityNDP |    .943655   .1432002     6.59   0.000     .6400841    1.247226
+        MaDUnemployment |    4.27743   .6388468     6.70   0.000     2.923135    5.631725
+       MaLDUnemployment |  -4.673708   .5747477    -8.13   0.000    -5.892119   -3.455298
+           MaDInflation |  -.7404501   .3964203    -1.87   0.080    -1.580824    .0999235
+                  _cons |  -.0022558   .0017547    -1.29   0.217    -.0059755     .001464
+-----------------------------------------------------------------------------------------
+
+. reg MaDLnRealMedianWage MaDLnNetProductivityNDP MaDUnemployment MaLDUnemployment MaDInflation, robust
+
+Linear regression                               Number of obs     =         21
+                                                F(4, 16)          =      28.32
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.9058
+                                                Root MSE          =      .0056
+
+-----------------------------------------------------------------------------------------
+                        |               Robust
+    MaDLnRealMedianWage | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+------------------------+----------------------------------------------------------------
+MaDLnNetProductivityNDP |    .943655   .1210105     7.80   0.000     .6871241    1.200186
+        MaDUnemployment |    4.27743   .5708033     7.49   0.000     3.067381    5.487479
+       MaLDUnemployment |  -4.673708   .5132287    -9.11   0.000    -5.761705   -3.585712
+           MaDInflation |  -.7404501   .2784215    -2.66   0.017    -1.330677   -.1502228
+                  _cons |  -.0022558   .0014099    -1.60   0.129    -.0052447    .0007332
+-----------------------------------------------------------------------------------------
+
+. reg MaDLnRealAverageWage MaDLnNetProductivityNDP MaDUnemployment MaLDUnemployment MaDInflation, robust
+
+Linear regression                               Number of obs     =         21
+                                                F(4, 16)          =      39.96
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.9204
+                                                Root MSE          =     .00588
+
+-----------------------------------------------------------------------------------------
+                        |               Robust
+   MaDLnRealAverageWage | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+------------------------+----------------------------------------------------------------
+MaDLnNetProductivityNDP |   1.257532   .1258449     9.99   0.000     .9907529    1.524312
+        MaDUnemployment |    4.85182   .5829714     8.32   0.000     3.615975    6.087664
+       MaLDUnemployment |  -4.873754   .4735869   -10.29   0.000    -5.877713   -3.869794
+           MaDInflation |  -.7122571   .2978817    -2.39   0.029    -1.343738   -.0807761
+                  _cons |  -.0035352   .0014281    -2.48   0.025    -.0065626   -.0005079
+-----------------------------------------------------------------------------------------
+
+. import excel "G:\University Documents\Notes\PPE\Shared Notes\Economics\Dissertation\Dissertation Variables.xlsx", sheet("Combined 1997") firstrow clear
+(20 vars, 23 obs)
+
+. do "C:\Users\Admin\AppData\Local\Temp\STD54ec_000000.tmp"
+
+. tsset Year, yearly
+
+Time variable: Year, 1997 to 2019
+        Delta: 1 year
+
+. foreach v of var * {
+  2.         gen Ln`v' = ln(`v')
+  3. }
+
+. 
+. //STEP 2
+. foreach var of varlist Unemployment LnInflation LabourShare LnNetProductivityNDP LnRealMedianWage LnRealAverageWage LnP LnH LnI LnJ LnK LnL LnM LnN LnHoursWorked {
+  2.         gen D`var' = D.`var'
+  3.         tssmooth ma MaD`var' = D.`var', window(2,1)
+  4.         tssmooth ma Ma`var' = `var', window(2,1)
+  5.         tssmooth ma MaL`var' = L.`var', window(2,1)
+  6.         tssmooth ma Ma2D`var' = D.`var', window(1,1,1)
+  7.         tssmooth ma Ma2`var' = `var', window(1,1,1)
+  8. }
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.Unemployment
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= Unemployment
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.Unemployment
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.Unemployment
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= Unemployment
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnInflation
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnInflation
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnInflation
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnInflation
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnInflation
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LabourShare
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LabourShare
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LabourShare
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LabourShare
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LabourShare
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnNetProductivityNDP
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnNetProductivityNDP
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnNetProductivityNDP
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnNetProductivityNDP
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnNetProductivityNDP
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnRealMedianWage
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnRealMedianWage
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnRealMedianWage
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnRealMedianWage
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnRealMedianWage
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnRealAverageWage
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnRealAverageWage
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnRealAverageWage
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnRealAverageWage
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnRealAverageWage
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnP
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnP
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnP
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnP
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnP
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnHoursWorked
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnHoursWorked
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnHoursWorked
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnHoursWorked
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnHoursWorked
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnI
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnI
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnI
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnI
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnI
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnJ
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnJ
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnJ
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnJ
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnJ
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnK
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnK
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnK
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnK
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnK
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnL
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnL
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnL
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnL
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnL
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnM
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnM
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnM
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnM
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnM
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnN
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnN
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnN
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnN
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnN
+variable DLnHoursWorked already defined
+r(110);
+
+end of do-file
+
+r(110);
+
+. drop LnYear LnUnemployment LnInflation LnLabourShare LnRealAverageCompensation LnRealMedianWage LnRealAverageWage LnP LnI LnJ LnK LnL LnM LnN LnO LnHoursWorked LnGrossProduct
+> ivityGDP LnNetProductivityNDP LnGrossProductivityGVA LnNetProductivityNVA DUnemployment MaDUnemployment MaUnemployment MaLUnemployment Ma2DUnemployment Ma2Unemployment DLnInf
+> lation MaDLnInflation MaLnInflation MaLLnInflation Ma2DLnInflation Ma2LnInflation DLabourShare MaDLabourShare MaLabourShare MaLLabourShare Ma2DLabourShare Ma2LabourShare DLnN
+> etProductivityNDP MaDLnNetProductivityNDP MaLnNetProductivityNDP MaLLnNetProductivityNDP Ma2DLnNetProductivityNDP Ma2LnNetProductivityNDP DLnRealMedianWage MaDLnRealMedianWag
+> e MaLnRealMedianWage MaLLnRealMedianWage Ma2DLnRealMedianWage Ma2LnRealMedianWage DLnRealAverageWage MaDLnRealAverageWage MaLnRealAverageWage MaLLnRealAverageWage Ma2DLnRealA
+> verageWage Ma2LnRealAverageWage DLnP MaDLnP MaLnP MaLLnP Ma2DLnP Ma2LnP DLnHoursWorked MaDLnHoursWorked MaLnHoursWorked MaLLnHoursWorked Ma2DLnHoursWorked Ma2LnHoursWorked DL
+> nI MaDLnI MaLnI MaLLnI Ma2DLnI Ma2LnI DLnJ MaDLnJ MaLnJ MaLLnJ Ma2DLnJ Ma2LnJ DLnK MaDLnK MaLnK MaLLnK Ma2DLnK Ma2LnK DLnL MaDLnL MaLnL MaLLnL Ma2DLnL Ma2LnL DLnM MaDLnM MaLn
+> M MaLLnM Ma2DLnM Ma2LnM DLnN MaDLnN MaLnN MaLLnN Ma2DLnN Ma2LnN 
+
+. do "C:\Users\Admin\AppData\Local\Temp\STD54ec_000000.tmp"
+
+. tsset Year, yearly
+
+Time variable: Year, 1997 to 2019
+        Delta: 1 year
+
+. foreach v of var * {
+  2.         gen Ln`v' = ln(`v')
+  3. }
+
+. 
+. //STEP 2
+. foreach var of varlist Unemployment LnInflation LabourShare LnNetProductivityNDP LnRealMedianWage LnRealAverageWage LnP LnH LnI LnJ LnK LnL LnM LnN LnHoursWorked {
+  2.         gen D`var' = D.`var'
+  3.         tssmooth ma MaD`var' = D.`var', window(2,1)
+  4.         tssmooth ma Ma`var' = `var', window(2,1)
+  5.         tssmooth ma MaL`var' = L.`var', window(2,1)
+  6.         tssmooth ma Ma2D`var' = D.`var', window(1,1,1)
+  7.         tssmooth ma Ma2`var' = `var', window(1,1,1)
+  8. }
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.Unemployment
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= Unemployment
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.Unemployment
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.Unemployment
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= Unemployment
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnInflation
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnInflation
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnInflation
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnInflation
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnInflation
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LabourShare
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LabourShare
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LabourShare
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LabourShare
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LabourShare
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnNetProductivityNDP
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnNetProductivityNDP
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnNetProductivityNDP
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnNetProductivityNDP
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnNetProductivityNDP
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnRealMedianWage
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnRealMedianWage
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnRealMedianWage
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnRealMedianWage
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnRealMedianWage
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnRealAverageWage
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnRealAverageWage
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnRealAverageWage
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnRealAverageWage
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnRealAverageWage
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnP
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnP
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnP
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnP
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnP
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnHoursWorked
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnHoursWorked
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnHoursWorked
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnHoursWorked
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnHoursWorked
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnI
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnI
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnI
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnI
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnI
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnJ
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnJ
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnJ
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnJ
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnJ
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnK
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnK
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnK
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnK
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnK
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnL
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnL
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnL
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnL
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnL
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnM
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnM
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnM
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnM
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnM
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnN
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnN
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnN
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnN
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnN
+variable DLnHoursWorked already defined
+r(110);
+
+end of do-file
+
+r(110);
+
+. drop LnYear LnUnemployment LnInflation LnLabourShare LnRealAverageCompensation LnRealMedianWage LnRealAverageWage LnP LnI LnJ LnK LnL LnM LnN LnO LnHoursWorked LnGrossProduct
+> ivityGDP LnNetProductivityNDP LnGrossProductivityGVA LnNetProductivityNVA DUnemployment MaDUnemployment MaUnemployment MaLUnemployment Ma2DUnemployment Ma2Unemployment DLnInf
+> lation MaDLnInflation MaLnInflation MaLLnInflation Ma2DLnInflation Ma2LnInflation DLabourShare MaDLabourShare MaLabourShare MaLLabourShare Ma2DLabourShare Ma2LabourShare DLnN
+> etProductivityNDP MaDLnNetProductivityNDP MaLnNetProductivityNDP MaLLnNetProductivityNDP Ma2DLnNetProductivityNDP Ma2LnNetProductivityNDP DLnRealMedianWage MaDLnRealMedianWag
+> e MaLnRealMedianWage MaLLnRealMedianWage Ma2DLnRealMedianWage Ma2LnRealMedianWage DLnRealAverageWage MaDLnRealAverageWage MaLnRealAverageWage MaLLnRealAverageWage Ma2DLnRealA
+> verageWage Ma2LnRealAverageWage DLnP MaDLnP MaLnP MaLLnP Ma2DLnP Ma2LnP DLnHoursWorked MaDLnHoursWorked MaLnHoursWorked MaLLnHoursWorked Ma2DLnHoursWorked Ma2LnHoursWorked DL
+> nI MaDLnI MaLnI MaLLnI Ma2DLnI Ma2LnI DLnJ MaDLnJ MaLnJ MaLLnJ Ma2DLnJ Ma2LnJ DLnK MaDLnK MaLnK MaLLnK Ma2DLnK Ma2LnK DLnL MaDLnL MaLnL MaLLnL Ma2DLnL Ma2LnL DLnM MaDLnM MaLn
+> M MaLLnM Ma2DLnM Ma2LnM DLnN MaDLnN MaLnN MaLLnN Ma2DLnN Ma2LnN 
+
+. do "C:\Users\Admin\AppData\Local\Temp\STD54ec_000000.tmp"
+
+. tsset Year, yearly
+
+Time variable: Year, 1997 to 2019
+        Delta: 1 year
+
+. foreach v of var * {
+  2.         gen Ln`v' = ln(`v')
+  3. }
+
+. 
+. //STEP 2
+. foreach var of varlist Unemployment LnInflation LabourShare LnNetProductivityNDP LnRealMedianWage LnRealAverageWage LnP LnH LnI LnJ LnK LnL LnM LnN {
+  2.         gen D`var' = D.`var'
+  3.         tssmooth ma MaD`var' = D.`var', window(2,1)
+  4.         tssmooth ma Ma`var' = `var', window(2,1)
+  5.         tssmooth ma MaL`var' = L.`var', window(2,1)
+  6.         tssmooth ma Ma2D`var' = D.`var', window(1,1,1)
+  7.         tssmooth ma Ma2`var' = `var', window(1,1,1)
+  8. }
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.Unemployment
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= Unemployment
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.Unemployment
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.Unemployment
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= Unemployment
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnInflation
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnInflation
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnInflation
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnInflation
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnInflation
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LabourShare
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LabourShare
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LabourShare
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LabourShare
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LabourShare
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnNetProductivityNDP
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnNetProductivityNDP
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnNetProductivityNDP
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnNetProductivityNDP
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnNetProductivityNDP
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnRealMedianWage
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnRealMedianWage
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnRealMedianWage
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnRealMedianWage
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnRealMedianWage
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnRealAverageWage
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnRealAverageWage
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnRealAverageWage
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnRealAverageWage
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnRealAverageWage
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnP
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnP
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnP
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnP
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnP
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnHoursWorked
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnHoursWorked
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnHoursWorked
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnHoursWorked
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnHoursWorked
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnI
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnI
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnI
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnI
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnI
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnJ
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnJ
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnJ
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnJ
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnJ
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnK
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnK
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnK
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnK
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnK
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnL
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnL
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnL
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnL
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnL
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnM
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnM
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnM
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnM
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnM
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnN
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnN
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnN
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnN
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnN
+
+. 
+end of do-file
+
+. tssmooth ma MaLDUnemployment = LD.Unemployment, window(2,1)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LD.Unemployment
+
+. tssmooth ma MaDInflation = D.Inflation, window(2,1)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.Inflation
+
+. drop LnYear LnUnemployment LnInflation LnLabourShare LnRealAverageCompensation LnRealMedianWage LnRealAverageWage LnP LnI LnJ LnK LnL LnM LnN LnO LnHoursWorked LnGrossProduct
+> ivityGDP LnNetProductivityNDP LnGrossProductivityGVA LnNetProductivityNVA DUnemployment MaDUnemployment MaUnemployment MaLUnemployment Ma2DUnemployment Ma2Unemployment DLnInf
+> lation MaDLnInflation MaLnInflation MaLLnInflation Ma2DLnInflation Ma2LnInflation DLabourShare MaDLabourShare MaLabourShare MaLLabourShare Ma2DLabourShare Ma2LabourShare DLnN
+> etProductivityNDP MaDLnNetProductivityNDP MaLnNetProductivityNDP MaLLnNetProductivityNDP Ma2DLnNetProductivityNDP Ma2LnNetProductivityNDP DLnRealMedianWage MaDLnRealMedianWag
+> e MaLnRealMedianWage MaLLnRealMedianWage Ma2DLnRealMedianWage Ma2LnRealMedianWage DLnRealAverageWage MaDLnRealAverageWage MaLnRealAverageWage MaLLnRealAverageWage Ma2DLnRealA
+> verageWage Ma2LnRealAverageWage DLnP MaDLnP MaLnP MaLLnP Ma2DLnP Ma2LnP DLnHoursWorked MaDLnHoursWorked MaLnHoursWorked MaLLnHoursWorked Ma2DLnHoursWorked Ma2LnHoursWorked DL
+> nI MaDLnI MaLnI MaLLnI Ma2DLnI Ma2LnI DLnJ MaDLnJ MaLnJ MaLLnJ Ma2DLnJ Ma2LnJ DLnK MaDLnK MaLnK MaLLnK Ma2DLnK Ma2LnK DLnL MaDLnL MaLnL MaLLnL Ma2DLnL Ma2LnL DLnM MaDLnM MaLn
+> M MaLLnM Ma2DLnM Ma2LnM DLnN MaDLnN MaLnN MaLLnN Ma2DLnN Ma2LnN MaLDUnemployment MaDInflation 
+
+. do "C:\Users\Admin\AppData\Local\Temp\STD54ec_000000.tmp"
+
+. foreach v of var * {
+  2.         gen Ln`v' = ln(`v')
+  3. }
+
+. 
+end of do-file
+
+. do "C:\Users\Admin\AppData\Local\Temp\STD54ec_000000.tmp"
+
+. foreach var of varlist Unemployment LnInflation LabourShare LnNetProductivityNDP LnRealMedianWage LnRealAverageWage LnRealAverageCompensation LnP LnH LnI LnJ LnK LnL LnM LnN 
+> {
+  2.         gen D`var' = D.`var'
+  3.         tssmooth ma MaD`var' = D.`var', window(2,1)
+  4.         tssmooth ma Ma`var' = `var', window(2,1)
+  5.         tssmooth ma MaL`var' = L.`var', window(2,1)
+  6.         tssmooth ma Ma2D`var' = D.`var', window(1,1,1)
+  7.         tssmooth ma Ma2`var' = `var', window(1,1,1)
+  8. }
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.Unemployment
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= Unemployment
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.Unemployment
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.Unemployment
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= Unemployment
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnInflation
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnInflation
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnInflation
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnInflation
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnInflation
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LabourShare
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LabourShare
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LabourShare
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LabourShare
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LabourShare
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnNetProductivityNDP
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnNetProductivityNDP
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnNetProductivityNDP
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnNetProductivityNDP
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnNetProductivityNDP
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnRealMedianWage
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnRealMedianWage
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnRealMedianWage
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnRealMedianWage
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnRealMedianWage
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnRealAverageWage
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnRealAverageWage
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnRealAverageWage
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnRealAverageWage
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnRealAverageWage
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnRealAverageCompensation
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnRealAverageCompensation
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnRealAverageCompensation
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnRealAverageCompensation
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnRealAverageCompensation
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnP
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnP
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnP
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnP
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnP
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnHoursWorked
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnHoursWorked
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnHoursWorked
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnHoursWorked
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnHoursWorked
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnI
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnI
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnI
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnI
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnI
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnJ
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnJ
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnJ
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnJ
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnJ
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnK
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnK
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnK
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnK
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnK
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnL
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnL
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnL
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnL
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnL
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnM
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnM
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnM
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnM
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnM
+(1 missing value generated)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.LnN
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LnN
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= L.LnN
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= D.LnN
+The smoother applied was
+     (1/3)*[x(t-1) + 1*x(t) + x(t+1)]; x(t)= LnN
+
+. 
+. tssmooth ma MaLDUnemployment = LD.Unemployment, window(2,1)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= LD.Unemployment
+
+. tssmooth ma MaDInflation = D.Inflation, window(2,1)
+The smoother applied was
+     (1/3)*[x(t-2) + x(t-1) + 1*x(t)]; x(t)= D.Inflation
+
+. 
+end of do-file
+
+. do "C:\Users\Admin\AppData\Local\Temp\STD54ec_000000.tmp"
+
+. reg MaDLnRealAverageWage MaDLnNetProductivityNDP MaDUnemployment MaLDUnemployment MaDInflation, robust
+
+Linear regression                               Number of obs     =         21
+                                                F(4, 16)          =      39.96
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.9204
+                                                Root MSE          =     .00588
+
+-----------------------------------------------------------------------------------------
+                        |               Robust
+   MaDLnRealAverageWage | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+------------------------+----------------------------------------------------------------
+MaDLnNetProductivityNDP |   1.257532   .1258449     9.99   0.000     .9907529    1.524312
+        MaDUnemployment |    4.85182   .5829714     8.32   0.000     3.615975    6.087664
+       MaLDUnemployment |  -4.873754   .4735869   -10.29   0.000    -5.877713   -3.869794
+           MaDInflation |  -.7122571   .2978817    -2.39   0.029    -1.343738   -.0807761
+                  _cons |  -.0035352   .0014281    -2.48   0.025    -.0065626   -.0005079
+-----------------------------------------------------------------------------------------
+
+. 
+end of do-file
+
+. do "C:\Users\Admin\AppData\Local\Temp\STD54ec_000000.tmp"
+
+. 
+. reg MaDLnRealAverageCompensation MaDLnNetProductivityNDP MaDUnemployment MaLDUnemployment MaDInflation, robust
+
+Linear regression                               Number of obs     =         21
+                                                F(4, 16)          =      95.07
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.9644
+                                                Root MSE          =     .00491
+
+-----------------------------------------------------------------------------------------
+                        |               Robust
+MaDLnRealAverageCompe~n | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+------------------------+----------------------------------------------------------------
+MaDLnNetProductivityNDP |   1.800745   .1202205    14.98   0.000     1.545889    2.055601
+        MaDUnemployment |   4.948258   .5258735     9.41   0.000     3.833456     6.06306
+       MaLDUnemployment |  -4.946765   .4685877   -10.56   0.000    -5.940127   -3.953403
+           MaDInflation |   -.565005   .2720998    -2.08   0.054    -1.141831    .0118209
+                  _cons |  -.0059256   .0011734    -5.05   0.000    -.0084131   -.0034381
+-----------------------------------------------------------------------------------------
+
+. 
+end of do-file
+
+. 
