@@ -25,12 +25,14 @@
             "id": "395842051e16bb8a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "Politics/Revolutionary Politics/Butler and Non-violence.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "Butler and Non-violence"
             }
           },
           {
@@ -221,8 +223,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ddb9eb0abfadfc5d",
+  "active": "395842051e16bb8a",
   "lastOpenFiles": [
+    "Economics/Economic Growth/~$ong those who emphasise geography as a source of differences in economic growth.docx",
+    "Economics/Economic Growth/Among those who emphasise geography as a source of differences in economic growth.docx",
+    "Politics/Revolutionary Politics/~$plain and assess Fanon and Butler.docx",
+    "Politics/Revolutionary Politics/Explain and assess Fanon and Butler.docx",
+    "Politics/Revolutionary Politics/Fanon and Sartre.md",
+    "Politics/Revolutionary Politics/Essay Writing Workshop 1.md",
+    "Politics/Revolutionary Politics/Butler and Non-violence.md",
     "Economics/Dissertation/ppt3D51.tmp",
     "Economics/Dissertation/pptCA1D.tmp",
     "Economics/Dissertation/~$ird Draft.docx",
@@ -230,10 +239,6 @@
     "Economics/Dissertation/~$pres.pptx",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/stata log.txt",
     "Economics/Dissertation/pres.pptx",
-    "Economics/Dissertation/Third Draft.pdf",
-    "Economics/Dissertation/Third Draft II.pdf",
-    "Economics/Dissertation/STATA/breakpoints.dta",
-    "Economics/Dissertation/STATA/breakpoints.do",
     "Economics/Economic Growth/Lecture 7.5 - Institutions and Economic Growth.md",
     "Economics/Microeconomics/Year 3/Lecture 2.md",
     "Economics/Images/Pasted image 20250413184058.png",
@@ -261,9 +266,6 @@
     "Economics/Dissertation/Reading Notes/Decoupling of Wage Growth and Productivity Growth ~ Myth and Reality.md",
     "Economics/Dissertation/Third Meeting Presentation II.md",
     "Economics/Dissertation/Reading Notes/Productivity and Pay~ Is the link broken.md",
-    "Politics/Revolutionary Politics/Essay Writing Workshop 1.md",
-    "Politics/Revolutionary Politics/Butler and Non-violence.md",
-    "Politics/Revolutionary Politics/Fanon and Sartre.md",
     "Politics/Revolutionary Politics/Butler and Non-Violence.md",
     "Economics/Microeconomics/Utility.md",
     "Economics/Microeconomics/Outlining Preference Functions.md",
