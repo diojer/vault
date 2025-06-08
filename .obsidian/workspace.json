@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Politics/Revolutionary Politics/Butler and Non-violence.md",
+                "file": "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data/Stationarity, Drifts and Trends.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Butler and Non-violence"
+              "title": "Stationarity, Drifts and Trends"
             }
           },
           {
@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "effective demand",
+                "query": "golden rule",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -223,22 +223,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "395842051e16bb8a",
+  "active": "ddb9eb0abfadfc5d",
   "lastOpenFiles": [
-    "Economics/Economic Growth/~$ong those who emphasise geography as a source of differences in economic growth.docx",
-    "Economics/Economic Growth/Among those who emphasise geography as a source of differences in economic growth.docx",
     "Politics/Revolutionary Politics/~$plain and assess Fanon and Butler.docx",
-    "Politics/Revolutionary Politics/Explain and assess Fanon and Butler.docx",
+    "Economics/Econometrics and Statistics/IMF EViews Forecasting/Structural VARs.md",
+    "Economics/Econometrics and Statistics/IMF EViews Forecasting/VARs.md",
+    "Economics/Econometrics and Statistics/IMF EViews Forecasting/Fan Charts.md",
+    "Economics/Econometrics and Statistics/IMF EViews Forecasting/Rolling and Expanding Window Strategy.md",
+    "Economics/Econometrics and Statistics/IMF EViews Forecasting/Forecasting.md",
+    "Economics/Econometrics and Statistics/IMF EViews Forecasting/Stationarity.md",
+    "Economics/Econometrics and Statistics/IMF EViews Forecasting/Static and Dynamic Forecasting.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data/Tests for Serial Correlation.md",
+    "Economics/Econometrics and Statistics/IMF EViews Forecasting",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data/VAR Models.md",
+    "Jobs/Civil Service/DWP.md",
+    "Economics/Economic Growth/Lecture 2  - Solow Growth Model.md",
+    "Economics/Economic Growth/~WRL0003.tmp",
+    "Economics/Economic Growth/~WRD0002.tmp",
+    "Politics/Revolutionary Politics/Butler and Non-violence.md",
+    "Economics/Economic Growth/~$ong those who emphasise geography as a source of differences in economic growth.docx",
+    "Politics/Revolutionary Politics/~WRL0550.tmp",
+    "Politics/Revolutionary Politics/~WRD0522.tmp",
+    "Economics/Dissertation/201596918.pdf",
+    "Economics/Dissertation/201596918 video.mp4",
+    "Economics/Dissertation/201596918 presentation.pdf",
+    "Economics/Economic Growth/Among those who emphasise geography as a source of differences in economic growth.docx",
     "Politics/Revolutionary Politics/Fanon and Sartre.md",
     "Politics/Revolutionary Politics/Essay Writing Workshop 1.md",
-    "Politics/Revolutionary Politics/Butler and Non-violence.md",
-    "Economics/Dissertation/ppt3D51.tmp",
-    "Economics/Dissertation/pptCA1D.tmp",
-    "Economics/Dissertation/~$ird Draft.docx",
-    "Economics/Dissertation/ppt3409.tmp",
-    "Economics/Dissertation/~$pres.pptx",
-    "Economics/Econometrics and Statistics/Econometrics/Third Year/Assessment/Data/Stata/stata log.txt",
-    "Economics/Dissertation/pres.pptx",
     "Economics/Economic Growth/Lecture 7.5 - Institutions and Economic Growth.md",
     "Economics/Microeconomics/Year 3/Lecture 2.md",
     "Economics/Images/Pasted image 20250413184058.png",
@@ -251,7 +262,6 @@
     "Economics/Images/Pasted image 20250413173247.png",
     "Economics/Images/Pasted image 20250413135814.png",
     "Economics/Economic Growth/Lecture 3 - Overlapping Generations I.md",
-    "Economics/Economic Growth/Lecture 2  - Solow Growth Model.md",
     "Economics/Microeconomics/Year 3/Lecture 3 ~ Compensation Tests.md",
     "Economics/Microeconomics/Year 3/Lecture 1.md",
     "Economics/Microeconomics/Year 3/Seminar 1.md",
@@ -261,16 +271,6 @@
     "Economics/Dissertation/STATA/Graphs/Images/Unemployment.png",
     "Economics/Dissertation/Reading Notes/Asymmetric nexus between wages and productivity in the context of the global financial crisis.md",
     "Economics/Dissertation/Reading Notes/Did Wages Reflect Growth in Productivity.md",
-    "Economics/Modern Theories of Money/Reading Notes/Issues in the History of Thought.md",
-    "Economics/Dissertation/Reading Notes/Do Low Wage Workers Benefit from Productivity Growth Recovery.md",
-    "Economics/Dissertation/Reading Notes/Decoupling of Wage Growth and Productivity Growth ~ Myth and Reality.md",
-    "Economics/Dissertation/Third Meeting Presentation II.md",
-    "Economics/Dissertation/Reading Notes/Productivity and Pay~ Is the link broken.md",
-    "Politics/Revolutionary Politics/Butler and Non-Violence.md",
-    "Economics/Microeconomics/Utility.md",
-    "Economics/Microeconomics/Outlining Preference Functions.md",
-    "Economics/Environmental Economics/Topic 03 ~ Appraisal of the environment - valuation.md",
-    "Personal Readings/Minimum Wage - Review of International Evidence.md",
     "Untitled.canvas"
   ]
 }
