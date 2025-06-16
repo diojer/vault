@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data/Stationarity, Drifts and Trends.md",
+                "file": "Economics/Econometrics and Statistics/IMF EViews Forecasting/Nonstationarity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stationarity, Drifts and Trends"
+              "title": "Nonstationarity"
             }
           },
           {
@@ -223,15 +223,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ddb9eb0abfadfc5d",
+  "active": "395842051e16bb8a",
   "lastOpenFiles": [
-    "Politics/Revolutionary Politics/~$plain and assess Fanon and Butler.docx",
+    "Economics/Econometrics and Statistics/IMF EViews Forecasting/Untitled 1.md",
+    "Economics/Econometrics and Statistics/IMF EViews Forecasting/Nonstationarity.md",
+    "Economics/Econometrics and Statistics/IMF EViews Forecasting/Cointegration.md",
+    "Free Time Activities.md",
+    "Economics/Econometrics and Statistics/IMF EViews Forecasting/Stationarity.md",
+    "Economics/Images/Pasted image 20250611173255.png",
+    "Economics/Maths for Business and Economics 2/Vectors and Matrices/Matrices.md",
+    "Economics/Econometrics and Statistics/IMF EViews Forecasting/Vector Error Correction Model (VECM).md",
     "Economics/Econometrics and Statistics/IMF EViews Forecasting/Structural VARs.md",
+    "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data/Stationarity, Drifts and Trends.md",
+    "Politics/Revolutionary Politics/~$plain and assess Fanon and Butler.docx",
     "Economics/Econometrics and Statistics/IMF EViews Forecasting/VARs.md",
     "Economics/Econometrics and Statistics/IMF EViews Forecasting/Fan Charts.md",
     "Economics/Econometrics and Statistics/IMF EViews Forecasting/Rolling and Expanding Window Strategy.md",
     "Economics/Econometrics and Statistics/IMF EViews Forecasting/Forecasting.md",
-    "Economics/Econometrics and Statistics/IMF EViews Forecasting/Stationarity.md",
     "Economics/Econometrics and Statistics/IMF EViews Forecasting/Static and Dynamic Forecasting.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data/Tests for Serial Correlation.md",
     "Economics/Econometrics and Statistics/IMF EViews Forecasting",
@@ -247,7 +255,6 @@
     "Economics/Dissertation/201596918.pdf",
     "Economics/Dissertation/201596918 video.mp4",
     "Economics/Dissertation/201596918 presentation.pdf",
-    "Economics/Economic Growth/Among those who emphasise geography as a source of differences in economic growth.docx",
     "Politics/Revolutionary Politics/Fanon and Sartre.md",
     "Politics/Revolutionary Politics/Essay Writing Workshop 1.md",
     "Economics/Economic Growth/Lecture 7.5 - Institutions and Economic Growth.md",
@@ -264,13 +271,6 @@
     "Economics/Economic Growth/Lecture 3 - Overlapping Generations I.md",
     "Economics/Microeconomics/Year 3/Lecture 3 ~ Compensation Tests.md",
     "Economics/Microeconomics/Year 3/Lecture 1.md",
-    "Economics/Microeconomics/Year 3/Seminar 1.md",
-    "Economics/Economic Growth/Lecture 4 - Overlapping Generations II.md",
-    "Economics/Economic Growth/Lecture 5 - Endogenous Growth.md",
-    "Economics/Economic Growth/Lecture 7 - The Environment and Economic Growth.md",
-    "Economics/Dissertation/STATA/Graphs/Images/Unemployment.png",
-    "Economics/Dissertation/Reading Notes/Asymmetric nexus between wages and productivity in the context of the global financial crisis.md",
-    "Economics/Dissertation/Reading Notes/Did Wages Reflect Growth in Productivity.md",
     "Untitled.canvas"
   ]
 }

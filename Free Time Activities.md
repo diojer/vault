@@ -12,12 +12,14 @@
 Movies
 - The Third Man,
 - Ghostbusters,
-- The Menu,
+- The Menu, --
 - Seventh Samurai,
 - Crouching Tiger, Hidden Dragon,
 - Weathering with You,
-- In Bruges,
-- 
+- In Bruges, --
+- Day of the Triffids
+- The Raid
+- The lady vanishes
 
 Shows
 - Silicon Valley,
