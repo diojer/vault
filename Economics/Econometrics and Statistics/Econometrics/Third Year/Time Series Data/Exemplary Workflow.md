@@ -10,7 +10,7 @@ $$
 # 1: Cointegration
 1. Before we check the data for stationarity, we should check if the variables are *cointegrated*. If they are, they do not have to be stationary to run the regression.
 	- To check for cointegration, we check whether the error term is stationary. If the error term is stationary, that means there is a *linear combination of the independent and dependent variables which are stationary*, i.e., those variables are *cointegrated.*
-	- **Reminder:** variables can only be cointegrated if they are of the same [[Cointegration#Order of Integration|order of integration]].
+	- **Reminder:** variables can only be cointegrated if they are of the same [[Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data/Cointegration#Order of Integration|order of integration]].
 	- If they are cointegrated, we can go straight to step 3. If not, we move onto:
 # 2: Stationarity
 2. If the variables are not cointegrated, they must be stationary, i.e., $I(0)$ for the regression to not be spurious.

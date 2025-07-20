@@ -13,3 +13,6 @@ Seminar Notes:
 Seminar Questions
 - Quote:
 	1. First quotation is by Fanon.
+
+Fanon
+
