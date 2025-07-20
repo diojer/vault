@@ -20,4 +20,3 @@ The Johansen Cointegration Test estimates the rank of matrix $\Pi$.
 - Maximum eigenvalue statistic for $r$:
 	- Null hypothesis: rank is $r$.
 	- Alternative: rank is $r+1$.
-- 
