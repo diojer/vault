@@ -1,7 +1,7 @@
 >Poul Schou
 >N.D.
 
-# Abstracti
+# Abstract
 Economic theory points out that immigration of even low-skilled immigrants may improve public finances in Western welfare states, and it is some times suggested that fiscal sustainability problems in Western countries caused by ageing populations could be solved by increasing immigration. We examine consequences of various immigration scenarios using the large-scale computable general equilibrium model DREAM describing the Danish economy. It turns out that increased immigration will generally worsen the Danish fiscal sustainability problem. Improved economic integration of immigrants and their descendants, however, may alleviate the problems of the public sector considerably.
 # General Vibes
 - Migrants and migrant descendants are categorised, unlike previous studies where descendants are assumed to have the same behaviour/earnings as the rest of the native population.
