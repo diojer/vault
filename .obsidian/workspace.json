@@ -25,14 +25,25 @@
             "id": "395842051e16bb8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Personal Readings/Migration/Immigration, Integration and Fiscal Sustainability.md",
-                "mode": "source",
-                "source": false
+                "file": "Articles/Military Keynesianism/The Twilight of Military Keynesianism.docx",
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "Immigration, Integration and Fiscal Sustainability"
+              "icon": "git-pull-request",
+              "title": "Diff View (The Twilight of Military Keynesianism.docx)"
+            }
+          },
+          {
+            "id": "f7f32349b091bf73",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
             }
           },
           {
@@ -60,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,6 +225,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -223,19 +235,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "395842051e16bb8a",
+  "active": "f7f32349b091bf73",
   "lastOpenFiles": [
-    "Applications/~WRL3160.tmp",
-    "Applications/~WRD3110.tmp",
-    "Applications/~$vil Service Behaviours for Interview.docx",
-    "Applications/~$plication Sheet - Civil Service UK.docx",
-    "Applications/Diogo Ferreira CV.pdf",
-    "Applications/Generic Covering Letter.docx",
-    "Applications/~WRL4039.tmp",
-    "Applications/~WRL1970.tmp",
-    "Applications/~WRL2523.tmp",
-    "Applications/~$vil Service Behaviours.docx",
-    "Applications/Joseph Rowntree Foundation.docx",
+    "Articles/Military Keynesianism/~$e Twilight of Military Keynesianism 2.docx",
+    "Articles/Military Keynesianism/The Twilight of Military Keynesianism 2.docx",
+    "Articles/Productivity-Pay Gap UK/Main Article_files/image037.png",
+    "Articles/Productivity-Pay Gap UK/Main Article_files/themedata.thmx",
+    "Articles/Productivity-Pay Gap UK/Main Article_files/image038.png",
+    "Articles/Productivity-Pay Gap UK/Main Article_files/image036.png",
+    "Articles/Productivity-Pay Gap UK/Main Article_files/image035.png",
+    "Articles/Productivity-Pay Gap UK/Main Article_files/image034.png",
+    "Articles/Productivity-Pay Gap UK/Main Article_files/image033.png",
+    "Articles/Productivity-Pay Gap UK/Main Article_files/image032.png",
+    "Articles/Productivity-Pay Gap UK/Main Article_files/image031.png",
+    "Articles/Productivity-Pay Gap UK/Main Article_files/image030.png",
+    "Articles/Productivity-Pay Gap UK/Main Article_files/image029.png",
+    "Articles/Productivity-Pay Gap UK/Main Article_files/filelist.xml",
+    "Articles/Productivity-Pay Gap UK/Main Article_files/colorschememapping.xml",
+    "Articles/Productivity-Pay Gap UK/Main Article_files",
+    "Articles/Productivity-Pay Gap UK/Edited for Economist_files/themedata.thmx",
+    "Articles/Productivity-Pay Gap UK/Edited for Economist_files/filelist.xml",
+    "Articles/Productivity-Pay Gap UK/Edited for Economist_files/colorschememapping.xml",
+    "Articles/Productivity-Pay Gap UK/Edited for Economist_files",
+    "Articles/Productivity-Pay Gap UK/Charts",
     "Personal Readings/Migration/Immigration, Integration and Fiscal Sustainability.md",
     "conflict-files-obsidian-git.md",
     "Personal Readings/Migration/Upward mobility~ Earnings trajectories for recent immigrants.md",
@@ -255,22 +277,12 @@
     "Economics/Econometrics and Statistics/IMF EViews Forecasting/Nonstationarity.md",
     "Economics/Econometrics and Statistics/IMF EViews Forecasting/Untitled 1.md",
     "Free Time Activities.md",
-    "Economics/Images/Pasted image 20250611173255.png",
     "Economics/Maths for Business and Economics 2/Vectors and Matrices/Matrices.md",
     "Economics/Econometrics and Statistics/Econometrics/Third Year/Time Series Data/Stationarity, Drifts and Trends.md",
     "Economics/Econometrics and Statistics/IMF EViews Forecasting/Fan Charts.md",
     "Economics/Econometrics and Statistics/IMF EViews Forecasting/Rolling and Expanding Window Strategy.md",
     "Economics/Econometrics and Statistics/IMF EViews Forecasting/Forecasting.md",
     "Economics/Econometrics and Statistics/IMF EViews Forecasting/Static and Dynamic Forecasting.md",
-    "Economics/Images/Pasted image 20250413184058.png",
-    "Economics/Images/Pasted image 20250413183520.png",
-    "Economics/Images/Pasted image 20250413182403.png",
-    "Economics/Images/Pasted image 20250413182126.png",
-    "Economics/Images/Pasted image 20250413180107.png",
-    "Economics/Images/Pasted image 20250413174718.png",
-    "Economics/Images/Pasted image 20250413173951.png",
-    "Economics/Images/Pasted image 20250413173247.png",
-    "Economics/Images/Pasted image 20250413135814.png",
     "Untitled.canvas"
   ]
 }
